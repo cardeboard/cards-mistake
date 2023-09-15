@@ -1,0 +1,7 @@
+owner = KVE
+controller = KVE
+add_core = SWE
+add_core = GEA
+add_core = KVE
+trade_goods = grain
+life_rating = 35

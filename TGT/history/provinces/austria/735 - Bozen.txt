@@ -1,0 +1,5 @@
+owner = PZN
+controller = PZN
+add_core = PZN
+trade_goods = grain
+life_rating = 35

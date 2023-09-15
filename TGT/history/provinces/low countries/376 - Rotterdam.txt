@@ -1,0 +1,11 @@
+owner = RHI
+controller = RHI
+add_core = RHI
+add_core = GER
+trade_goods = cattle
+life_rating = 35
+terrain = rotterdam
+1861.1.1 = { 
+	railroad = 1
+	naval_base = 3
+}

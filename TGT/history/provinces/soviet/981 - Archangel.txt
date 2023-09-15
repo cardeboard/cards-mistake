@@ -1,0 +1,7 @@
+owner = HUN
+controller = HUN
+add_core = HUN
+trade_goods = timber
+terrain = boreal
+life_rating = 15
+1861.1.1 = { naval_base = 1 }

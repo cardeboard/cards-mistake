@@ -1,0 +1,683 @@
+#Tirol Region (556000) #see Italy.txt for balance of Region
+#under the rule of Austria in 1836  
+#Innsbruck (236000/59000 POPS)
+612 = {
+	aristocrats = {
+		culture = vandalic
+		religion = catholic
+		size = 750 
+	}
+
+	bureaucrats = {
+		culture = vandalic
+		religion = catholic
+		size = 1375 
+	}
+
+	officers = {
+		culture = vandalic
+		religion = catholic
+		size = 1250 
+	}
+
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 550
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 2750
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 50325
+	}
+}
+#Salzburg (136000/34000 POPS)
+613 = {
+	aristocrats = {
+		culture = vandalic
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 650 
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 3250
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 24975
+	}
+}
+#Bregenz (132000/33000 POPS)
+614 = {
+	aristocrats = {
+		culture = vandalic
+		religion = catholic
+		size = 400 
+	}
+
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 300 
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 8700
+	}
+
+	farmers = {
+		culture = romansh
+		religion = catholic
+		size = 16700
+	}
+}
+#Lienz (52000/13000 POPS)
+615 = {
+	aristocrats = {
+		culture = vandalic
+		religion = catholic
+		size = 175 
+	}
+
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 1125
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 11975
+	}
+}
+#Carinthia-Styria Region (736000) #see Slovenia.txt for balance of Region
+#under the rule of Austria in 1836  
+#Graz (380000/95000 POPS)
+616 = {
+	aristocrats = {
+		culture = iazyge
+		religion = catholic
+		size = 1550 
+	}
+
+	bureaucrats = {
+		culture = iazyge
+		religion = catholic
+		size = 1425 
+	}
+
+	officers = {
+		culture = iazyge
+		religion = catholic
+		size = 275 
+	}
+
+	clergymen = {
+		culture = iazyge
+		religion = catholic
+		size = 1025 
+	}
+
+	artisans = {
+		culture = iazyge
+		religion = catholic
+		size = 10000
+	}
+
+	soldiers = {
+		culture = iazyge
+		religion = catholic
+		size = 2050
+	}
+
+	farmers = {
+		culture = iazyge
+		religion = catholic
+		size = 70675 
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 20000 
+	}
+}
+#Judenburg (168000/42000 POPS)
+617 = {
+	aristocrats = {
+		culture = vandalic
+		religion = catholic
+		size = 700 
+	}
+
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 450
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 2250
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 1050
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 35150
+	}
+}
+#Klagenfurt (188000/47000 POPS)
+618 = {
+	aristocrats = {
+		culture = vandalic
+		religion = catholic
+		size = 450 
+	}
+
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 325 
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 1550
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 25675
+	}
+
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 175 
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 950
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 16675 
+	}
+}
+#Austria Region (2000000) 
+#under the rule of Austria in 1836  
+#Vienna (1084000/271000 POPS
+
+#Vienna
+619 = {
+    clergymen = {
+        culture = iazyge
+        religion = catholic
+        size = 2750
+    }
+
+    artisans = {
+        culture = iazyge
+        religion = catholic
+        size = 7500
+    }
+
+    soldiers = {
+        culture = iazyge
+        religion = catholic
+        size = 2750
+    }
+
+    soldiers = {
+        culture = iazyge
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = iazyge
+        religion = catholic
+        size = 3000
+    }
+
+    soldiers = {
+        culture = iazyge
+        religion = catholic
+        size = 3000
+    }
+
+    farmers = {
+        culture = iazyge
+        religion = catholic
+        size = 11000
+    }
+
+    aristocrats = {
+        culture = iazyge
+        religion = protestant
+        size = 2250
+    }
+
+    bureaucrats = {
+        culture = iazyge
+        religion = protestant
+        size = 2000
+    }
+
+    officers = {
+        culture = iazyge
+        religion = protestant
+        size = 500
+    }
+
+    clergymen = {
+        culture = iazyge
+        religion = protestant
+        size = 450
+    }
+
+    artisans = {
+        culture = iazyge
+        religion = protestant
+        size = 8000
+    }
+
+    farmers = {
+        culture = iazyge
+        religion = protestant
+        size = 45250
+    }
+
+    aristocrats = {
+        culture = vandalic
+        religion = catholic
+        size = 2000
+    }
+
+    bureaucrats = {
+        culture = vandalic
+        religion = catholic
+        size = 1100
+    }
+
+    officers = {
+        culture = vandalic
+        religion = catholic
+        size = 100
+    }
+
+    clergymen = {
+        culture = vandalic
+        religion = catholic
+        size = 150
+    }
+
+    artisans = {
+        culture = vandalic
+        religion = catholic
+        size = 2950
+    }
+
+    farmers = {
+        culture = vandalic
+        religion = catholic
+        size = 25000
+    }
+
+    clergymen = {
+        culture = vandalic
+        religion = catholic
+        size = 2020
+    }
+
+    artisans = {
+        culture = iazyge
+        religion = catholic
+        size = 8980
+    }
+
+    farmers = {
+        culture = iazyge
+        religion = catholic
+        size = 5000
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 225
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 4595
+    }
+
+}
+#Sankt Polten (88000/22000 POPS)
+620 = {
+	aristocrats = {
+		culture = iazyge
+		religion = catholic
+		size = 375 
+	}
+
+	bureaucrats = {
+		culture = iazyge
+		religion = catholic
+		size = 600 
+	}
+	
+	clergymen = {
+		culture = iazyge
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = iazyge
+		religion = catholic
+		size = 1200
+	}
+
+	soldiers = {
+		culture = iazyge
+		religion = catholic
+		size = 250 
+	}
+
+	farmers = {
+		culture = iazyge
+		religion = catholic
+		size = 19925 
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 6925 
+	}
+}
+#Krems (240000/60000 POPS)
+621 = {
+	aristocrats = {
+		culture = vandalic
+		religion = catholic
+		size = 925 
+	}
+
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 3100
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 2650
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 50700
+	}
+}
+#Linz (588000/147000 POPS)
+622 = {
+	aristocrats = {
+		culture = vandalic
+		religion = catholic
+		size = 2300 
+	}
+
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 3200 
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 7650
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 1550 
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 115900
+	}
+}
+#Odenburg Region (196000) #see Hungary.txt for balance of region
+#under the rule of Austria in 1836
+#Eisenstadt (196000/49000 POPS)
+624 = {
+	aristocrats = {
+		culture = iazyge
+		religion = catholic
+		size = 700 
+	}
+
+	clergymen = {
+		culture = iazyge
+		religion = catholic
+		size = 475
+	}
+
+	artisans = {
+		culture = iazyge
+		religion = catholic
+		size = 2450
+	}
+
+	soldiers = {
+		culture = iazyge
+		religion = catholic
+		size = 2100
+	}
+
+	farmers = {
+		culture = iazyge
+		religion = catholic
+		size = 40075
+	}
+
+	clergymen = {
+		culture = iazyge
+		religion = catholic
+		size = 60 
+	}
+
+	artisans = {
+		culture = iazyge
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = iazyge
+		religion = catholic
+		size = 1025
+	}
+
+	farmers = {
+		culture = iazyge
+		religion = catholic
+		size = 2765  
+	}
+
+	clergymen = {
+		culture = iazyge
+		religion = protestant
+		size = 35 
+	}
+
+	artisans = {
+		culture = iazyge
+		religion = protestant
+		size = 150
+	}
+
+	soldiers = {
+		culture = iazyge
+		religion = protestant
+		size = 1025
+	}
+
+	farmers = {
+		culture = iazyge
+		religion = protestant
+		size = 1790   
+	}
+	
+	clergymen = {
+		culture = vandalic
+		religion = catholic
+		size = 225
+	}
+
+	artisans = {
+		culture = vandalic
+		religion = catholic
+		size = 900
+	}
+
+	soldiers = {
+		culture = vandalic
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = vandalic
+		religion = catholic
+		size = 5625
+	}
+}

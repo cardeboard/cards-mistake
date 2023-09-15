@@ -1,0 +1,9 @@
+owner = BOR
+controller = BOR
+add_core = BOR
+#terrain = urban
+trade_goods = fish
+life_rating = 35
+terrain = gibraltar
+naval_base = 2
+fort = 1

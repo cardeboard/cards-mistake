@@ -1,0 +1,12 @@
+vassal = {
+	first = HUN
+	second = FIN
+	start_date = 1315.1.1
+	end_date = 1954.1.1
+}
+vassal = {
+	first = BAV
+	second = SLO
+	start_date = 1315.1.1
+	end_date = 1954.1.1
+}

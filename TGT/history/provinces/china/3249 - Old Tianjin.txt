@@ -1,0 +1,10 @@
+owner = UYG
+controller = UYG
+add_core = UYG
+add_core = MCK
+trade_goods = silk
+life_rating = 32
+terrain = oldtianjin
+1861.1.1 = {
+	fort = 1
+}

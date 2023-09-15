@@ -1,0 +1,205 @@
+;;;;;;;;;;;;;x
+welsh;Welsh;;;;;;;;;;;;;x
+scottish;Scottish;;;;;;;;;;;;;x
+wallonian;Walloon;;;;;;;;;;;;x
+montenegrin;Montenegrin;;;;;;;;;;;;;x
+faroese;Faroese;;;;;;;;;;;;;x
+galician;Astures;;;;;;;;;;;;;x
+volga_german;Eastern German;;;;;;;;;;;;;x
+arpitan;Borgunni;;;;;;;;;;;;;x
+leonese;Leonese;;;;;;;;;;;;;x
+hanhui;Hui;;;;;;;;;;;;;x
+gotish;Gautsk;;;;;;;;;;;;;x
+pruthenian;Prusai;;;;;;;;;;;;;x
+kvaani;Kvääni;;;;;;;;;;;;;x
+alemannic;Alemannic;;;;;;;;;;;;;;;;;;;;;;;;x
+thuringian;Düringer;;;;;;;;;;;;;;;;;;;;;;;;x
+dutch;Seaxisc;;;;;;;;;;;;;;;;;;;;;;;;x
+south_german;Bayerisch;;;;;;;;;;;;;;;;;;;;;;;;x
+north_german;Sahsisk;;;;;;;;;;;;;;;;;;;;;;;;x
+vrancine;Vranc;;;;;;;;;;;;;;;;;;;;;;;;x
+occitan;Beticén;;;;;;;;;;;;;;;;;;;;;;;;x
+lusetan;Lúsetan;;;;;;;;;;;;;;;;;;;;;;;;x
+insular;Sard;;;;;;;;;;;;;;;;;;;;;;;;x
+dalmatian;Dalmaso;;;;;;;;;;;;;;;;;;;;;;;;x
+african_romance;Afri;;;;;;;;;;;;;;;;;;;;;;;;x
+siebenburger;Transylvanian-Saxon;;;;;;;;;;;;;x
+jerriais;Jerriais;;;;;;;;;;;;;x
+anglo_canadian;Anglo-Canadian;Anglo-canadien;Anglokanadisch;;Anglocanadiense;;;;;;;;;x;;;;
+french_canadian;French-Canadien;Franco-canadien;Frankokanadisch;;Franco-canadiense;;;;;;;;;x;;;;
+anglo_indian;Anglo-Indian;;;;;;;;;;;;;x
+british;Anglisc;Britannique;Britisch;;Brit?ica;;;;;;;;;x;;;;
+pan_french_nationalism;Pan-French Nationalism;;;;;;;;;x;;;;
+vassal_interactions_title;Open Vassal Interactions Menu;;;;;;;;;;;;;
+vassal_interactions_desc;This decision fires an event which will allow you to free or return cores to your vassals.;;;;;;;;;;;;;
+KUC;Toxharia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+KUC_ADJ;Toxhar;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+FRI;Frisia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+FRI_ADJ;Frisian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+WUR;Alemannia;;;;;;;;;;;;
+WUR_ADJ;Alaman;;;;;;;;;;;;
+BAV;Boarn;;;;;;;;;;;;
+BAV_ADJ;Bayerisch;;;;;;;;;;;;
+THU;Dürign;;;;;;;;;;;;;
+THU_ADJ;Duringer;;;;;;;;;;;;;
+SAX;Sahsun;;;;;;;;;;;;
+SAX_ADJ;Sahsisk;;;;;;;;;;;;
+EST;Eesti;;;;;;;;;;;;
+EST_ADJ;Eestlased;;;;;;;;;;;;
+FIN;Suomi;;;;;;;;;;;;
+FIN_ADJ;Suomalaiset;;;;;;;;;;;;
+LAT;Latgola;;;;;;;;;;;;
+LAT_ADJ;Latgališu ;;;;;;;;;;;;
+LIT;Lietuva;;;;;;;;;;;;
+LIT_ADJ;Lietuviai;;;;;;;;;;;;
+GAL;Galea;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GAL_absolute_monarchy;Rihnas ut Cyagrei;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GAL_prussian_constitutionalism;Rihnas ut Cyagrei;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GAL_hms_government;Rihnas ut Galea;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+GAL_ADJ;Gallic;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRG;Borgunha;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+BRG_ADJ;Borgunni;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+THU;Thuringia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+THU_ADJ;Thuringian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN;Africa;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN_absolute_monarchy;Africa;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN_prussian_constitutionalism;Africa;;;;;;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;x;;;;
+TUN_ADJ;African;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+MCK;Manchuria;;;;;;;;;;;;;x
+MCK_absolute_monarchy;Da Manshou;Manchukuo;Manchukuo;;;;;;;;;;;
+MCK_prussian_constitutionalism;Da Manshou;Manchukuo;Manchukuo;;;;;;;;;;;
+MCK_hms_government;Da Manshou;Manchukuo;Manchukuo;;;;;;;;;;;
+MCK_fascist_dictatorship;Manzhouguo;Manchukuo;Manchukuo;;;;;;;;;;;x
+MCK_presidential_dictatorship;Fengtian Clique;;;;;;;;;;;;;x
+MCK_presidential_dictatorship_ADJ;Fengtian;;;;;;;;;;;;;x
+MCK_ADJ;Manchu;Mandchou;Manchu;;;;;;;;;;;x 
+ALD;Amazigh Tagelda;;;;;;;;;;;;;x
+ALD_ADJ;Imazighen;Imazighen;Imazighen;;;;;;;;;;;
+HUN;Ungria;;;;;;;;;;;;;x
+HUN_ADJ;Ungrian;Ungrian;Ungrian;;;;;;;;;;;
+HUN_absolute_monarchy;Ungri Birodalom;;;;;;;;;;;;
+HUN_prussian_constitutionalism;Ungri Birodalom;;;;;;;;;;;;
+HUN_hms_government;Ungri Birodalom;;;;;;;;;;;;
+KVE;Kväänimaa;;;;;;;;;;;;;x
+KVE_ADJ;Kvääni;;;;;;;;;;;;;x
+SMI;Sápmi;;;;;;;;;;;;;x
+SMI_ADJ;Sámi;;;;;;;;;;;;;x
+GEA;Gautlant;;;;;;;;;;;;;x
+GEA_ADJ;Gaut;;;;;;;;;;;;;x
+KOR;Goguryeo;;;;;;;;;;;;;x
+KOR_ADJ;Koguryo;;;;;;;;;;;;;x
+AYI;Ayiti;;;;;;;;;;;;;x
+AYI_ADJ;Ayitian;;;;;;;;;;;;;x
+JAM;Xaymaca;;;;;;;;;;;;;x
+JAM_ADJ;Xaymacan;;;;;;;;;;;;;x
+POL;Polska;;;;;;;;;;;;;x
+POL_ADJ;Polacy;;;;;;;;;;;;;x
+;;;;;;;;;;;;STATES;x
+ENG_2215;Xaragua;;;;;;;;;;;;;;x
+ENG_2217;Xaymaca;;;;;;;;;;;;;;x
+;;;;;;;;;;;;NEW PROVINCES;x
+PROV3275;Shapsug;;;;;;;;;;x;;;;
+PROV3276;Deät Lun;;;;;;;;;;x;;;;
+PROV3277;Eldenbrok;;;;;;;;;;x;;;;
+PROV3278;Haldenwic;;;;;;;;;;x;;;;
+PROV3279;Wulframsted;;;;;;;;;;x;;;;
+PROV3280;Egilhart;;;;;;;;;;x;;;;
+PROV3281;Sigrunburg;;;;;;;;;;x;;;;
+PROV3282;Fridamoor;;;;;;;;;;x;;;;
+PROV3283;Ingridorp;;;;;;;;;;x;;;;
+PROV3284;Osfrid;;;;;;;;;;x;;;;
+PROV3285;Ostburg;;;;;;;;;;x;;;;
+PROV3286;Aldensted;;;;;;;;;;x;;;;
+PROV3287;Widagard;;;;;;;;;;x;;;;
+PROV3288;Ingramstad;;;;;;;;;;x;;;;
+PROV3289;Ostfreda;;;;;;;;;;x;;;;
+PROV3290;Wilrun;;;;;;;;;;x;;;;
+PROV3291;Hartingsted;;;;;;;;;;x;;;;
+PROV3292;Eadgarholm;;;;;;;;;;x;;;;
+PROV3293;Hildewic;;;;;;;;;;x;;;;
+PROV3294;Oswynchester;;;;;;;;;;x;;;;
+PROV3295;Raginburg;;;;;;;;;;x;;;;
+PROV3296;Wilfridheim;;;;;;;;;;x;;;;
+PROV3297;Hartingham;;;;;;;;;;x;;;;
+PROV3298;Aldenbruck;;;;;;;;;;x;;;;
+PROV3299;Ingastead;;;;;;;;;;x;;;;
+PROV3300;Ealdholm;;;;;;;;;;x;;;;
+PROV3301;Wulfrichburg;;;;;;;;;;x;;;;
+PROV3302;Eldenstadt;;;;;;;;;;x;;;;
+PROV3303;Hildburg;;;;;;;;;;x;;;;
+PROV3304;Fridanheim;;;;;;;;;;x;;;;
+PROV3305;Aldheim;;;;;;;;;;x;;;;
+PROV3306;Hildebrandstadt;;;;;;;;;;x;;;;
+PROV3307;Anselmheim;;;;;;;;;;x;;;;
+PROV3308;Soissons;;;;;;;;;;x;;;;
+PROV3309;Ealdwic;;;;;;;;;;x;;;;
+PROV3310;Thiedericton;;;;;;;;;;x;;;;
+PROV3311;Frailund;;;;;;;;;;x;;;;
+PROV3312;Inisrealta;;;;;;;;;;x;;;;
+PROV3313;Rath Mor;;;;;;;;;;x;;;;
+PROV3314;Cathair Cluain;;;;;;;;;;x;;;;
+PROV3315;Ancharraig;;;;;;;;;;x;;;;
+PROV3316;Baile Ard;;;;;;;;;;x;;;;
+PROV3317;Dalmatian Bay;;;;;;;;;;x;;;;
+PROV3318;Great Bay;;;;;;;;;;x;;;;
+PROV3319;Ruthene Bay;;;;;;;;;;x;;;;
+PROV3334;Poltu Polonia;;;;;;;;;;x;;;;
+PROV3335;Vijáni Kem;;;;;;;;;;x;;;;
+PROV3336;Siikalatva;;;;;;;;;;x;;;;
+PROV3337;Roavvenjárga;;;;;;;;;;x;;;;
+PROV3344;Bohoma;;;;;;;;;;x;;;;
+PROV3345;Guahaba;;;;;;;;;;x;;;;
+PROV3346;Guava;;;;;;;;;;x;;;;
+PROV3373;Cocopan;;;;;;;;;;x;;;;
+PROV3374;Yaguana;;;;;;;;;;x;;;;
+PROV3376;Ayaiguo;;;;;;;;;;x;;;;
+PROV3377;Cahaiguo;;;;;;;;;;x;;;;
+PROV3378;Higuo;;;;;;;;;;x;;;;
+PROV3385;Tomelloso;;;;;;;;;;x;;;;
+PROV3386;Elba;;;;;;;;;;x;;;;
+PROV3387;Bastìa;;;;;;;;;;x;;;;
+PROV3388;Terranoa;;;;;;;;;;x;;;;
+PROV3389;Aristanis;;;;;;;;;;x;;;;
+;;;;;;;;;;;;EXISTING PROVINCES;x
+PROV338;Duortnus;;;;;;;;;;x;;;;
+PROV349;Lyndanisse;;;;;;;;;;x;;;;
+PROV350;Rugodiv;;;;;;;;;;x;;;;
+PROV351;Saarde;;;;;;;;;;x;;;;
+PROV352;Ugaunija;;;;;;;;;;x;;;;
+PROV353;Saaremaa;;;;;;;;;;x;;;;
+PROV354;Riia;;;;;;;;;;x;;;;
+PROV355;Lemsalu;;;;;;;;;;;;;
+PROV356;Daugpils;;;;;;;;;;x;;;;
+PROV357;Jelgeva;;;;;;;;;;;;;
+PROV358;Kuldiiga;;;;;;;;;;;;;
+PROV359;Lombilinn;;;;;;;;;;;;;
+PROV360;Vilinnõ;;;;;;;;;;;;;
+PROV361;Kõns;;;;;;;;;;;;;
+PROV362;Marianelinn;;;;;;;;;;;;;
+PROV363;Soinemaa;;;;;;;;;;;;;
+PROV364;Sõle;;;;;;;;;;;;;
+PROV365;Liibavi;;;;;;;;;;;;;
+PROV473;Aiacciu;;;;;;;;;;;;;
+PROV546;Šcecinas;;;;;;;;;;;;
+PROV679;Kolobžegas;;;;;;;;;;;;;
+PROV680;Košalinas;;;;;;;;;;;;;
+PROV690;Gdansk;;;;;;;;;;;;;
+PROV691;Tcevas;;;;;;;;;;;;;
+PROV692;Valcas;;;;;;;;;;;;;
+PROV694;Ylaw;;;;;;;;;;;;;
+PROV695;Küningmegi;;;;;;;;;;;;
+PROV696;Alnasteini;;;;;;;;;;;;
+PROV697;Kõrvetsen;;;;;;;;;;;;
+PROV698;Klaped;;;;;;;;;;;;
+PROV700;Bidgošca;;;;;;;;;;;;
+PROV707;Rebalädel;;;;;;;;;;;;
+PROV765;Casteddu;;;;;;;;;;;;
+PROV766;Tàtari;;;;;;;;;;;;
+PROV982;Beahcán;;;;;;;;;;x;;;;
+PROV983;Käddluhtt;;;;;;;;;;x;;;;
+PROV984;Guoskašmuksa;;;;;;;;;;x;;;;
+PROV997;Kaporiškis;;;;;;;;;;x;;;;
+PROV2214;Higuo;;;;;;;;;;x;;;;
+PROV2215;Guárico;;;;;;;;;;x;;;;
+PROV2217;Xaymaca;;;;;;;;;;x;;;;
+PROV2587;Guoládat;;;;;;;;;;x;;;;

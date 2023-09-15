@@ -1,0 +1,6 @@
+owner = KUC
+controller = KUC
+add_core = KUC
+add_core = DON
+trade_goods = coal
+life_rating = 35

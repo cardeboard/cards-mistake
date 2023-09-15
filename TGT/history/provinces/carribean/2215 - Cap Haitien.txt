@@ -1,0 +1,5 @@
+owner = AYI
+controller = AYI
+add_core = AYI
+trade_goods = tobacco
+life_rating = 35

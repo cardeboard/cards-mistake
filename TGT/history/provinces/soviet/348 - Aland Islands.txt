@@ -1,0 +1,9 @@
+owner = KVE
+controller = KVE
+add_core = SWE
+add_core = KVE
+trade_goods = fish
+life_rating = 35
+fort = 1
+naval_base = 2
+terrain = small_island

@@ -1,0 +1,13 @@
+owner = BRG
+controller = BRG
+add_core = BRG
+trade_goods = grain
+life_rating = 35
+terrain = nice
+1861.1.1 = {
+	remove_core = ITA
+	remove_core = BRG
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
