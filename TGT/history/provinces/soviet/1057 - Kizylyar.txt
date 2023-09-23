@@ -1,7 +1,7 @@
-owner = KMK
-controller = KMK
+owner = KUC
+controller = KUC
 add_core = KUC
-add_core = KMK
+add_core = CHY
 trade_goods = silk
 life_rating = 35
 1861.1.1 = {

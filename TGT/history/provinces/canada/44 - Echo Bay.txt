@@ -1,6 +1,7 @@
-owner = SPA
-controller = SPA
+owner = GAL
+controller = GAL
 add_core = CUB
+add_core = RUO
 trade_goods = fish
 life_rating = 30
 colonial = 2

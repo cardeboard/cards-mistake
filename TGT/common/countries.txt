@@ -71,6 +71,10 @@ KVE 	="countries/Kvenland.txt"
 SMI 	="countries/Sapmi.txt"
 GEA 	="countries/Geatland.txt"
 AYI 	="countries/Ayiti.txt"
+IKO 	="countries/Ikonion.txt"
+RMI 	="countries/Romanestan.txt"
+RUO 	="countries/Ruokoa.txt"
+ALN 	="countries/Alania.txt"
 
 ###Colonial Spain Countries
 CGC 	= "countries/Colonial Chile.txt"

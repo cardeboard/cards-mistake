@@ -1,8 +1,8 @@
-owner = TCA
-controller = TCA
+owner = BDN
+controller = BDN
+add_core = BDN
 add_core = ARM
-add_core = AZB
-add_core = TCA
+add_core = KDS
 trade_goods = iron
 life_rating = 35
 terrain = erivan

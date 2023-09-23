@@ -271,8 +271,6 @@ BIM;Bima;;;;;;;;;;;;x
 BIM_ADJ;Bima;;;;;;;;;;;;x
 BKV;Bukovina;;;;;;;;;;;;x
 BKV_ADJ;Bukovinian;;;;;;;;;;;;x
-BLC;Baluchistan;;;;;;;;;;;;x
-BLC_ADJ;Baluchi;;;;;;;;;;;;x
 BLZ;Belize;;;;;;;;;;;;x
 BLZ_ADJ;Belizean;;;;;;;;;;;;x
 BMK;Mali;;;;;;;;;;;;x
@@ -290,16 +288,6 @@ BRT_liberal;Strollad Liberal;;;;;;;;;;;;;x
 BRT_anarcho_liberal;Strollad Radical;;;;;;;;;;;;;x
 BRT_conservative;Strollad Mirour;;;;;;;;;;;;;x
 BRU_ADJ;Bruneian;;;;;;;;;;;;;x
-BSQ;Vasconia;;;;;;;;;;;;;x
-BSQ_ADJ;Basque;;;;;;;;;;;;;x
-BSQ_socialist;Abertzale Ekintza;;;;;;;;;;;;;x
-BSQ_conservative;Alderdi Jeltzalea;;;;;;;;;;;;;x
-BSQ_liberal;Alderdi Abertzale Errepublikanoa;;;;;;;;;;;;;x
-BSQ_reactionary;Alderdi Monarkiko;;;;;;;;;;;;;x
-BSQ_communist;Mugimendu Komunista;;;;;;;;;;;;;x
-BSQ_fascist;Euskadi Ta Askatasuna;;;;;;;;;;;;;x
-BSQ_anarcho_liberal;Alderdi Anarkiazale;;;;;;;;;;;;;x
-BSQ_fascist_dictatorship;Euskadi;;;;;;;;;;;;;x
 CAR;Central African Republic;;;;;;;;;;;;x
 CAR_ADJ;Central African;;;;;;;;;;;;x
 CAR_fascist_dictatorship;Central African Empire;;;;;;;;;;;;x
@@ -917,8 +905,8 @@ LSK_communist;Bolsheviks;;;;;;;;;;;;;x
 LSK_fascist;Northern Futurists;;;;;;;;;;;;;x
 LUI;Saint Lucia;;;;;;;;;;;;x
 LUI_ADJ;Lucian;;;;;;;;;;;;x
-LUZ;Lusatia;;;;;;;;;;;;x
-LUZ_ADJ;Lusatian;;;;;;;;;;;;x
+LUZ;Srbsko;;;;;;;;;;;;x
+LUZ_ADJ;Serbska;;;;;;;;;;;;x
 LUZ_conservative;Conservative Party;;;;;;;;;;;;x
 LUZ_liberal;Liberal Party;;;;;;;;;;;;x
 LUZ_reactionary;Nationalist Party;;;;;;;;;;;;x

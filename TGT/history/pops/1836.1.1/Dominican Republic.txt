@@ -3,119 +3,234 @@
 #Santo Domingo (68000/17000 POPS) #now part of Dominican Republic
 2214 = {
 	aristocrats = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 700
 	}
 	
 	bureaucrats = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 25
 	}
 	
 	clergymen = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
-		size = 62375
+		size = 82375
 	}
 
 	clergymen = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
-		size = 45350
+		size = 25350
 	}
 }
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
 2216 = {
 	aristocrats = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 550
 	}
 	
 	clergymen = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
-		size = 50
+		size = 3000
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 30175
 	}
 
 	clergymen = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 19575
+	}
+
+}
+#La Vega (56000/15000 POPS) #now part of Dominican Republic
+3375 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 24575
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 300
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 18175
+	}
+
+}
+
+#La Vega (56000/15000 POPS) #now part of Dominican Republic
+3380 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 15175
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 300
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 750
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 34575
 	}
 
 }

@@ -1,0 +1,187 @@
+JAM = {
+    value = -20
+    truce_until = "1843.6.12"
+}
+DOM = {
+    value = -20
+    truce_until = "1839.6.3"
+}
+#Army
+army = {
+	name = "Ruokoon Armeija"
+	location = 2211
+	regiment = {
+		name= "1. Jalkaväen prikaati"
+		type = infantry
+		home = 2213
+	}
+	
+	regiment = {
+		name= "2. Jalkaväen prikaati"
+		type = infantry
+		home = 2216
+	}   
+	
+	regiment = {
+		name= "3. Jalkaväen prikaati"
+		type = infantry
+		home = 3375
+	}    
+	
+	regiment = {
+		name= "4. Jalkaväen prikaati"
+		type = infantry
+		home = 2211
+	}      
+	
+	regiment = {
+		name= "1. Jalkaväen prikaati"
+		type = hussar
+		home = 2216
+	}           
+	
+	regiment = {
+		name= "1. Tykistöprikaati"
+		type = artillery
+		home = 3375
+	}         
+	
+	regiment = {
+		name= "2. Tykistöprikaati"
+		type = artillery
+		home = 2211
+	}
+}
+
+navy = {
+	name = "Ruokon Laivasto"
+	location = 2209
+
+	ship = {
+		name= "Väinämöinen"
+		type = manowar
+	}
+  
+  ship = {
+		name= "Ilmarinen"
+		type = manowar
+	}
+
+	ship = {
+		name= "Joukahainen"
+		type = manowar
+	}
+
+	ship = {
+		name= "Tapio"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Rauma"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Turku"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Kemi"
+		type = manowar
+	}
+  
+  ship = {
+		name = "Viipuri"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Kotka"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Oulu"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Maarianhamina"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Uusimaa"
+		type = frigate
+	}
+
+	ship = {
+		name= "Oulu"
+		type = manowar
+	}
+
+	ship = {
+		name= "Viipuri"
+		type = manowar
+	}
+
+	ship = {
+		name= "Turku"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Väinämöinen"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Väinämöinen"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Kuljetuskalusto"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Kuljetuskalusto"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Kuljetuskalusto"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "4a Kuljetuskalusto"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "5a Kuljetuskalusto"
+		type = clipper_transport
+	}   
+
+	ship = {
+		name= "6a Kuljetuskalusto"
+		type = clipper_transport
+	}  
+
+	ship = {
+		name= "7a Kuljetuskalusto"
+		type = clipper_transport
+	}  
+  
+}
+leader = {
+	name = "Joosep Anvel"
+	type = land
+	date = 1836.1.1
+	personality = daring
+	background = ambitious_careerist
+}

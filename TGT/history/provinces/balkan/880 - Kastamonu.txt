@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = KMK
+controller = KMK
+add_core = KMK
 trade_goods = coal
 life_rating = 35

@@ -1,7 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = ARM
-add_core = KDS
+owner = SRN
+controller = SRN
+add_core = SRN
 trade_goods = cattle
 life_rating = 35

@@ -3,265 +3,1760 @@
 #Havana (388000/97000 POPS)
 2209 = {
 	aristocrats = {
-		culture = spanish
+		culture = ruokoan
 		religion = catholic
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = ruokoan
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = ruokoan
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = spanish
+		culture = ruokoan
 		religion = catholic
 		size = 4325
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = ruokoan
 		religion = catholic
 		size = 200
 	}
 
 	aristocrats = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 3103
 	}
 
 	bureaucrats = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 10000
 	}
 	
 	artisans = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 4000
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 28625
 	}
 
 	artisans = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 6000
 	}
 
 	soldiers = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 2500
 	}
 
 	slaves = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 38000
+	}
+}
+#Havana (388000/97000 POPS)
+3352 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 350
+	}
+
+	bureaucrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 325
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 4325
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 28625
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2500
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 19000
+	}
+}
+#Havana (388000/97000 POPS)
+3353 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 350
+	}
+
+	bureaucrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 325
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 4325
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 23625
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2500
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 28000
+	}
+}
+#Havana (388000/97000 POPS)
+3354 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 350
+	}
+
+	bureaucrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 325
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 4325
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 13625
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2500
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 29000
 	}
 }
 #Jagua (252000/63000 POPS)
 2210 = {
 	aristocrats = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 600
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 375
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = taino
 		religion = catholic
-		size = 21575
+		size = 61575
 	}
 
 	artisans = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
-		size = 150
+		size = 3000
 	}
 
 	farmers = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 11850
 	}
 
 	slaves = {
-		culture = afro_caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 25000
 	}
 }
-#Camaguey (168000/42000 POPS)
-2211 = {
+#Guaragua (252000/63000 POPS)
+3355 = {
 	aristocrats = {
-		culture = caribeno
+		culture = taino
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 3200
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 23325
+	}
+}
+#Boriokátu (252000/63000 POPS)
+3356 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 3200
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 33325
+	}
+}
+#Camaguey (168000/42000 POPS)
+3357 = {
+	aristocrats = {
+		culture = ruokoan
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
 		size = 400
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
-		size = 3500
+		size = 5000
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
-		size = 150
+		size = 500
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
-		size = 8500
+		size = 37000
 	}
 
 	artisans = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 300
 	}
 
 	farmers = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 2200
 	}
 
 	slaves = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
-		size = 25000
+		size = 24000
 	}
 }
-#Santiago de Cuba (128000/32000 POPS)
-2212 = {
+#Camaguey (168000/42000 POPS)
+3358 = {
 	aristocrats = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
-		size = 200
+		size = 450
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
-		size = 175
+		size = 400
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
-		size = 3500
+		size = 5000
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
-		size = 150
+		size = 7500
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = ruokoan
 		religion = catholic
-		size = 8975
+		size = 13000
 	}
 
 	artisans = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = afro_caribeno
+		culture = taino
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2200
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 48000
+	}
+}
+#Camaguey (168000/42000 POPS)
+3359 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 7500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 17000
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2200
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 47000
+	}
+}
+#Caguana (252000/63000 POPS)
+3360 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 3200
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 43325
+	}
+}
+#Atabeyra (252000/63000 POPS)
+3361 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 3200
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 27325
+	}
+}
+#Guacayarima (252000/63000 POPS)
+3362 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 3200
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 3200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 57325
+	}
+}
+#Marohuano (252000/63000 POPS)
+3363 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 600
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 375
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 3200
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 400
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 29325
+	}
+}
+#Camaguey (168000/42000 POPS)
+2211 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 15000
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 7500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 85000
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2200
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 55000
+	}
+}
+#Camaguey (168000/42000 POPS)
+3348 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 7500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 20000
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2200
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 55000
+	}
+}
+#Camaguey (168000/42000 POPS)
+3349 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 15000
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 7500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 67000
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2200
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 30000
+	}
+}
+#Camaguey (168000/42000 POPS)
+3350 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 7500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 37000
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2200
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 30000
+	}
+}
+#Camaguey (168000/42000 POPS)
+3351 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 7500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 27000
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2200
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 30000
+	}
+}
+#Camaguey (168000/42000 POPS)
+3341 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 400
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 7500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 17000
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 300
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 2200
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 30000
+	}
+}
+#Santiago de Cuba (128000/32000 POPS)
+3364 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 3975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 3300
 	}
 
 	slaves = {
-		culture = afro_caribeno
+		culture = taino
+		religion = catholic
+		size = 33000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3365 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 5975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 29000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3366 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 13975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 39000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3367 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 73975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 9000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3368 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 53975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 13300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 9000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3369 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 73975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 9000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3370 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 89975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 14000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+2212 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 77975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 14000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3371 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 57975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 14000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3372 = {
+	aristocrats = {
+		culture = vrancine
+		religion = catholic
+		size = 20
+	}
+
+	clergymen = {
+		culture = vrancine
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = vrancine
+		religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = vrancine
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = vrancine
+		religion = catholic
+		size = 1975
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 6375
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3381 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 57975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 14000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3382 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 17975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 34000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3383 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 27975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
+		religion = catholic
+		size = 14000
+	}
+
+}
+#Santiago de Cuba (128000/32000 POPS)
+3384 = {
+	aristocrats = {
+		culture = ruokoan
+		religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 3500
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 57975
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 3300
+	}
+
+	slaves = {
+		culture = taino
 		religion = catholic
 		size = 14000
 	}
@@ -271,37 +1766,37 @@
 #Baker/Repulse Bay/ Echo Bay - Now Guantanamo Bay (5036/1259 POPS)
 44 = {
 	aristocrats = {
-		culture = caribeno
+		culture = gallic
 		religion = catholic
 		size = 5
 	}
 
 	clergymen = {
-		culture = caribeno
+		culture = gallic
 		religion = catholic
 		size = 10
 	}
 
 	artisans = {
-		culture = caribeno
+		culture = gallic
 		religion = catholic
 		size = 25
 	}
 
 	soldiers = {
-		culture = caribeno
+		culture = gallic
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = caribeno
+		culture = gallic
 		religion = catholic
 		size = 240
 	}
 	
 	farmers = {
-		culture = afro_caribeno
+		culture = taino
 		religion = catholic
 		size = 879
 	}

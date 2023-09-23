@@ -1,11 +1,11 @@
-capital = 2214
-primary_culture = caribeno
+capital = 3347
+primary_culture = taino
 religion = catholic
 government = presidential_dictatorship
 plurality = 10
 nationalvalue = nv_order
 literacy = 0.1
-civilized = yes
+
 
 # Political reforms
 slavery = no_slavery
@@ -37,6 +37,7 @@ centralization = unitary
 colonial_policy = no_colonies 
 
 set_country_flag = catholic_country
+oob = "DOM_oob.txt"
 
 ruling_party = DOM_conservative_3
 upper_house = {
@@ -59,9 +60,3 @@ set_country_flag = new_world_nation
 #Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
-
-1861.1.1 = {
-	oob = "/1861/DOM_oob.txt"
-	plurality = 50
-	literacy = 0.17
-}

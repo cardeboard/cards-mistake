@@ -1,7 +1,8 @@
-owner = KUC
-controller = KUC
+owner = ARM
+controller = ARM
 add_core = KUC
 add_core = CHY
+add_core = ARM
 trade_goods = wool
 life_rating = 35
 1861.1.1 = {

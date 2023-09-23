@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
-add_core = CUB
+owner = RUO
+controller = RUO
+add_core = RUO
+add_core = DOM
 trade_goods = grain
 life_rating = 35

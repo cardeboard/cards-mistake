@@ -1,7 +1,5 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = KAM
+owner = KYR
+controller = KYR
+add_core = KYR
 trade_goods = cattle
 life_rating = 35
-colonial = 2

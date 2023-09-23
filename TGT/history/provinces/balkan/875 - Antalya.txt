@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
-add_core = TUR
+owner = IKO
+controller = IKO
+add_core = IKO
 trade_goods = fish
 life_rating = 35

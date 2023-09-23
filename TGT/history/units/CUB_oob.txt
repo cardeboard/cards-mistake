@@ -1,0 +1,48 @@
+army = {
+	name = "Guaitiao"
+	location = 2210
+	
+	regiment = {
+		name= "1. Guaitiao"
+		type = irregular
+		home = 2210
+	}
+	regiment = {
+		name= "2. Guaitiao"
+		type = irregular
+		home = 2210
+	}
+	regiment = {
+		name= "3. Guaitiao"
+		type = irregular
+		home = 3362
+	}   
+	regiment = {
+		name= "4. Guaitiao"
+		type = irregular
+		home = 3356
+	}    
+	regiment = {
+		name= "5. Guaitiao"
+		type = irregular
+		home = 3363
+	}
+	regiment = {
+		name= "6. Guaitiao"
+		type = irregular
+		home = 3360
+	}
+	regiment = {
+		name= "7. Guaitiao"
+		type = irregular
+		home = 3360
+	}
+}
+
+leader = {
+	name = "Cacique Amaru Guabá Canaboa"
+	type = land
+	date = 1836.1.1
+	personality = daring
+	background = ambitious_careerist
+}

@@ -1,7 +1,6 @@
-owner = KHI
-controller = KHI
-add_core = KHI
-add_core = TKM
-terrain = desert
-trade_goods = opium
-life_rating = 15
+owner = PER
+controller = PER
+add_core = PER
+add_core = TAJ
+trade_goods = grain
+life_rating = 35

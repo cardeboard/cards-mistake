@@ -1,7 +1,0 @@
-owner = HUN
-controller = HUN
-add_core = FIN
-add_core = HUN
-trade_goods = timber
-terrain = boreal
-life_rating = 10

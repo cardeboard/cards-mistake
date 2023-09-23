@@ -1,6 +1,5 @@
-owner = MCK
-controller = MCK
-add_core = CHI
-add_core = MCK
+owner = KYR
+controller = KYR
+add_core = KYR
 trade_goods = coal
 life_rating = 32

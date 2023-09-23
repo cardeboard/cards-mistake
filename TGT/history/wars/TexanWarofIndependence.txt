@@ -1,8 +1,8 @@
-name = "The Texan War of Independence"
+name = "Cubao-T‰‰ino War for Freedom"
 
 1835.10.2 = {
-	add_attacker = MEX
-	add_defender = TEX
+	add_attacker = RUO
+	add_defender = CUB
 	
 	# actor
 	# receiver
@@ -11,13 +11,13 @@ name = "The Texan War of Independence"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = conquest
-		actor = MEX
-		receiver = TEX
+		actor = RUO
+		receiver = CUB
 	}
 
 }
 
 1836.4.21 = {
-	rem_attacker = MEX
-	rem_defender = TEX
+	rem_attacker = RUO
+	rem_defender = CUB
 }

@@ -1,0 +1,5 @@
+owner = KMK
+controller = KMK
+add_core = KMK
+trade_goods = iron
+life_rating = 35

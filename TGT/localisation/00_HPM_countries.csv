@@ -92,9 +92,9 @@ GCO_communist;Partido Communista;;;;;;;;;;;;;;;;;;;;;;;;;x
 GCO_fascist;Partido Fascista;;;;;;;;;;;;;;;;;;;;;;;;;;x
 MNP;Manipur;;;;;;;;;;;;;;;;;;;;;;;;x
 MNP_ADJ;Manipuri;;;;;;;;;;;;;;;;;;;;;;;;x
-BDK_absolute_monarchy;Kunduz;;;;;;;;;;;;;;;;;;;;;;;;x
-BDK;Badakhshan;;;;;;;;;;;;;;;;;;;;;;;;x
-BDK_ADJ;Badakhshani;;;;;;;;;;;;;;;;;;;;;;;;x
+BDK_absolute_monarchy;Šauodano Bakhlo;;;;;;;;;;;;;;;;;;;;;;;;x
+BDK;Bakhlo;;;;;;;;;;;;;;;;;;;;;;;;x
+BDK_ADJ;Ariaonano;;;;;;;;;;;;;;;;;;;;;;;;x
 guajiro;Wayuu;;;;;;;;;;;;;;;;;;;;;;;;x
 lendu;Lendu;;;;;;;;;;;;;;;;;;;;;;;;x
 ruanda;Banyarwanda;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -861,7 +861,11 @@ BRT_liberal;Strollad Liberal;;;;;;;;;;;;;x
 BRT_anarcho_liberal;Strollad Radical;;;;;;;;;;;;;x
 BRT_conservative;Strollad Mirour;;;;;;;;;;;;;x
 BRU_ADJ;Bruneian;;;;;;;;;;;;;x
-BSQ;Basque Country;;;;;;;;;;;;;x
+BSQ;Vasconia;;;;;;;;;;;;;x
+BSQ_absolute_monarchy;Baskoniako Dukerria;;;;;;;;;;;;
+BSQ_prussian_constitutionalism;Baskoniako Dukerria;;;;;;;;;;;;
+BSQ_hms_government;Baskoniako Dukerria;;;;;;;;;;;;
+BSQ_democracy;Gaskoiniako Errepublika;;;;;;;;;;;;
 BSQ_ADJ;Basque;;;;;;;;;;;;;x
 BSQ_socialist;Abertzale Ekintza;;;;;;;;;;;;;x
 BSQ_conservative;Alderdi Jeltzalea;;;;;;;;;;;;;x
@@ -1359,8 +1363,12 @@ KAM_anarcho_liberal;The Libertains;Faction radicale;Die radikale Fraktion;;;;;;;
 KAM_socialist;The Socialists;Faction socialiste;Die sozialistische Fraktion;;;;;;;;;;;x
 KAM_communist;The Communists;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;x
 KAM_fascist;The Nationalists;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;x
-KHI_absolute_monarchy;The Khanate of Khiva;;;;;;;;;;;;;;;;;;x;;;;
-BUK_absolute_monarchy;The Emirate of Bukhara;;;;;;;;;;;;;;;;x;;;;
+KHI;Xwarazm;;;;;;;;;;;;;;;;x;;;;
+KHI_absolute_monarchy;Šahawek Xwarazm;;;;;;;;;;;;;;;;;;x;;;;
+KHI_ADJ;Xwarazmi;;;;;;;;;;;;;;;;;;x;;;;
+BUK;Suyda;;;;;;;;;;;;;;;;x;;;;
+BUK_absolute_monarchy;Axsyðya Suyða;;;;;;;;;;;;;;;;x;;;;
+BUK_ADJ;Suydit;;;;;;;;;;;;;;;;x;;;;
 KOK_absolute_monarchy;The Khanate of Kokand;;;;;;;;;;;;;;;;;;x;;;;
 KAZ_absolute_monarchy;The Kazakh Khanate;;;;;;;;;;;;;x
 KAZ;Kazakhstan;;;;;;;;;;;;;x
@@ -1557,8 +1565,8 @@ LSK_communist;Bolsheviks;;;;;;;;;;;;;x
 LSK_fascist;Northern Futurists;;;;;;;;;;;;;x
 LUI;Saint Lucia;;;;;;;;;;;;x
 LUI_ADJ;Lucian;;;;;;;;;;;;x
-LUZ;Lusatia;;;;;;;;;;;;x
-LUZ_ADJ;Lusatian;;;;;;;;;;;;x
+LUZ;Srbsko;;;;;;;;;;;;x
+LUZ_ADJ;Serbska;;;;;;;;;;;;x
 LUZ_conservative;Conservative Party;;;;;;;;;;;;x
 LUZ_liberal;Liberal Party;;;;;;;;;;;;x
 LUZ_reactionary;Nationalist Party;;;;;;;;;;;;x

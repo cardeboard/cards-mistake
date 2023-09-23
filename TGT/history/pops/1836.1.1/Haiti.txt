@@ -3,71 +3,218 @@
 #Port au Prince (312000/78000 POPS)
 2213 = {
 	aristocrats = {
-		culture = afro_antillean
+		culture = ruokoan
 		religion = catholic
 		size = 825
 	}
 	
 	officers = {
-		culture = afro_antillean
+		culture = ruokoan
 		religion = catholic
 		size = 150
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = ruokoan
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = ruokoan
 		religion = catholic
 		size = 4050
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = ruokoan
 		religion = catholic
-		size = 100
+		size = 1000
 	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = ruokoan
 		religion = catholic
-		size = 68300
+		size = 28300
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 40300
 	}
 }
 #Cap Haitien (204000/51000 POPS)
 2215 = {
 	aristocrats = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 550
 	}
 
 	clergymen = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 2550
 	}
 
 	soldiers = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = afro_antillean
+		culture = taino
 		religion = catholic
 		size = 46825
+	}
+
+}
+#Cocopan (204000/51000 POPS)
+3373 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 75
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 2550
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 76825
+	}
+
+}
+#Yaguana (204000/51000 POPS)
+3374 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 75
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 36825
+	}
+
+}
+#Ayaiguo (204000/51000 POPS)
+3376 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 75
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 35825
+	}
+
+}
+#Cahaiguo (204000/51000 POPS)
+3377 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 275
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 49825
+	}
+
+}
+#Guamikán (204000/51000 POPS)
+3378 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 800
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 26825
 	}
 
 }

@@ -1,6 +1,6 @@
 capital = 703
 primary_culture = polish
-religion = catholic
+religion = mahayana
 government = democracy
 plurality = 25.0
 nationalvalue = nv_productivity
@@ -38,7 +38,7 @@ border_policy = open_borders
 centralization = unitary
 colonial_policy = no_colonies 
 
-set_country_flag = catholic_country
+set_country_flag = mahayana_country
 
 ruling_party = KRA_conservative
 last_election = 1836.1.1

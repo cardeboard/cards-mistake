@@ -1,6 +1,5 @@
-owner = PER
-controller = PER
-add_core = PER
-add_core = AZB
+owner = BLC
+controller = BLC
+add_core = BLC
 trade_goods = timber
 life_rating = 35

@@ -1,13 +1,12 @@
 capital = 2213
-primary_culture = afro_antillean
-culture = afro_caribeno
+primary_culture = taino
 religion = catholic
-government = presidential_dictatorship
+government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_autocracy
 literacy = 0.02
 non_state_culture_literacy = 0.05
-civilized = yes
+
 prestige = 0
 
 # Political reforms
@@ -41,7 +40,6 @@ colonial_policy = no_colonies
 
 set_country_flag = catholic_country
 set_country_flag = new_world_nation
-set_country_flag = slave_revolution
 
 ruling_party = HAI_reactionary
 upper_house = {

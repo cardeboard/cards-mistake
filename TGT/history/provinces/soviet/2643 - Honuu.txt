@@ -1,5 +1,6 @@
-add_core = RUS
-add_core = YAK
+owner = BUK
+controller = BUK
+add_core = BUK
 trade_goods = grain
-terrain = boreal
-life_rating = 10
+terrain = semidesert
+life_rating = 35

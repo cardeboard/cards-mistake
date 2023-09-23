@@ -1,0 +1,24 @@
+name = "Ruokoan Expansion to the South"
+
+1823.4.19 = {
+	add_attacker = RUO
+	add_defender = JAM
+	
+	war_goal = {
+		casus_belli = demand_concession_BC_casus_belli
+		actor = RUO
+		receiver = JAM
+	}
+	
+	war_goal = {
+		casus_belli = demand_concession_NI_casus_belli
+		actor = RUO
+		receiver = JAM
+	}
+
+}
+
+1831.9.3 = {
+	rem_attacker = RUO
+	rem_defender = JAM
+}

@@ -1,6 +1,6 @@
-owner = SPA
-controller = SPA
+owner = RUO
+controller = RUO
 add_core = CUB
-trade_goods = tobacco
+add_core = RUO
+trade_goods = fruit
 life_rating = 35
-colonial = 2

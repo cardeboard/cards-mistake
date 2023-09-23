@@ -1,6 +1,0 @@
-owner = KUC
-controller = KUC
-add_core = KUC
-add_core = CIR
-trade_goods = cattle
-life_rating = 35

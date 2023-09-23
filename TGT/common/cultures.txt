@@ -884,6 +884,28 @@ pan_romanian = {
 	union = ROM 
 }
 
+anatolian_lain = {
+	leader = european
+	unit = AustriaHungaryGC
+	anatolian = {
+		color = {240 140 140}
+		first_names = { Adrian Alexandru Andrei Anton Artur Bogdan Carol Cezar Constantin Constin
+		Cosmin Daniel Dumitru Emanuel Eremia Eugen Ferdinand Flaviu Florea Gheorghe
+		Grigore Henric Horatiu Iacob Ilie Ioan Ion "Ion Emanuel" Iosif Iulian
+		Iuliu Laurentiu Leontin Luca Lucian Mihai Mircea Nicolae Ovidiu Petru
+		Radu Sergiu Silviu Simion Stefan Valeriu Vasile Victor Vintila Vlad
+		}
+
+		last_names = { Angelescu Antonescu Argetoianu Averescu Baldescu Barozzi Berindei Cernat Christecu Cihoski
+		Ciuperca Coanda Crainiceanu Critescu Culcer Cuza "de Hohenzollern" Dona Dragalina Dumitrescu
+		Falcoianu Florescu Gardescu Grigorescu Froza Harjeu Holban Iancovescu Iliasevici Iliescu
+		Ionascu Ionescu Ionitiu Koslinski Lahovary Lupescu Mardarescu Murgescu Poenaru Prezan
+		Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu
+		}
+		radicalism = 10
+	}
+}
+
 ugric = {
 	leader = russian
 	unit = RussianGC
@@ -964,6 +986,22 @@ western_finnic = {
             Hætta Somby Turi Magga Dunfjeld Kvitfjell Kappfjell
         }
     }
+	ruokoan = {
+        color = { 158 178 211 }
+		first_names = { Aadu Alar Aleksander Andrus Artur August Bernard Dmitri Eduard Eerik
+		Elmar Ernst Georg Gustav Haman Harri Heino Hendrik Hjalmar Ivari
+		Jaan Jakob Johannes Joosep Juhan Julius Jüri Kaarel Kalev Konstantin
+		Lennart Ludvig Madis Mart Mikhel Nigul Olev Paavo Peeter Pent
+		Ragnar Siiri Sven Tarmo Tõnis Toomas Uno Valmar Villwm Voldemar
+		}
+
+		last_names = { Aamisepp Aavik Adams Anvel Barbarus Bornhöhe Eenpalu Hint Hurt Jaakson
+		Kangro Kint Klaasen Koern Kõiv Kotli Kumari Kupine Kuusik Leppik
+		Lipping Lohk Mäe Männil Moora Natus Nurkse Nurmekund Õkva Öpik
+		Orkivu Päts Perna Piiper Poska Puusepp Ränk Rei Reinman Siinmaa
+		Sikkar Sirk Tõnisson Uluots Vaga Veske Vilbaste Vilms "von Uexküll" Warma
+		}
+    }
 }
 
 polish_culture_group = {
@@ -987,6 +1025,20 @@ polish_culture_group = {
 	}
 	western_slavic = {
 		color = {147 63 109}
+		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
+		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
+		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
+		Maciej Marceli Marian Mariusz Melchior Michal Mieczyslaw Roman Romuald Samuel
+		Stanislaw Stefan Tadeusz Tomasz Waclaw Wilhelm Witold Wladyslaw Wojciech Zygmunt }
+
+		last_names = { Bem Bór-Komorowski Brzóska Chalasinski Chlaposwski Chlopicki Chrzanowski Dabrowski Dembinski Fabryvy
+		Hauke-Boask Iszikowski Jasinski Klicki Konopczynski Krukowiecki Kruszewski Langiewicz Madalinski Mierolawski
+		Mikolajczyk Mokronowski Niepokólczycki Ostrowski Pac Pilsudski Poniatowski Potocki Preadzynski Radziwill
+		Rokossowski Rola-Zymierski Rómmel Rózicky Rybinski Rydz-Smigly Sanguszko Skrzynecki Soltyk Sowinski
+		Taczaneowski Traugutt Wawrzecki Wieniawa-Dlugoszowski Wybicki Wysocki Zajaczek Zaluski Zamoyski Zeligowski }
+	}
+	sorbian = {
+		color = {160 120 160}
 		first_names = { Adam Aleksander Antoni Boleslaw Bonawentura Bronislaw Dezydery Edmund Edward Emil
 		Eustachy Felicjan Franciszek Gustaw Henryk Ignacy Jakub Jan Jedrzej Józef
 		Juliusz Karol Kazimierz Klemens Konstanty Lech Leon Leopold Lucjan Ludwik
@@ -1435,6 +1487,24 @@ iranian_turanian = {
 			Jahanbani Kashani Khan Khuzai
 			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
 			Shirazi Tabrizi Tahmasebi Zahedi
+			}
+	}
+	
+	scythian = {
+		color = {70 130 160}
+		first_names = {
+			Æfsati Alægatæ Alardy Aminon Anigol Atsa Barastyr Borkhuarali Donbettyr Pettyr Fælværa Gatag Ældar Huyædon Khæmyts Khoraældar
+			Khutsau Kurdalægon Safa Saubarag Syrdon Tætærtupp Totraž Tutyr Uarkhag Uastyržhi Uatsilla
+			Ækhsærtæg Afako Ækhsær Alibek Alimbek Alyksandr Aslænbek Asmat Atsamaz Bakhva Bekyzæ Besik Dauty Dimitur
+			Žæuyg Žakhot Žambek Žambolat Žantemir Halbruz Elbyzdyqo Fedyr Gæmæt Gaito Giuærgi Irbek Isaq Kaurbek
+			Kazbek Khazbi Khetag Kurban Kuyžæg Lazær Mikhal Muštæfa Nikala Phaule
+			Qambolat Sakhanžheri Sarmat Sauarmæg Seqa Soslænbek Soslæn Sozyr Sozyryqo Tætærqan Torez Tsomaq Tsotsoko
+			Tugan Uyryzmag Vano Zhamiræt Znaur Uarkhaga Catchar Iošf Ješoj
+			}
+		last_names = {
+			"Ma'as" Os Ukula Šyntyg Šuan Æs Tsærasantæ Ælbegatæ Ardasentæ Bekkuyzartæ Gæbæratæ 
+			Dzæræhohtæ Dzebysatæ Djerdjitæ Guyrdzybetæ Zændjiatæ Kærkuystæ Djykkajtæ Godjysatæ 
+			Pærræstatæ Færniatæ
 			}
 	}
 	uzbek = {
@@ -2272,6 +2342,16 @@ native_american = {
 		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
 		}
 	}
+	 
+	 taino = {
+		color = {125 125 250}
+		first_names = { Baltasar Bernardo Carlos Celestino Diego Emilio Felipe Fernando Fidel Francisco
+		Gaspar Gregorio Hugo Ignacio José Juan Manuel Marcos Mario Mateo
+		Melchor Narciso Pablo Pedro Ramón Roberto Santiago Sebastián Simón Tomás }
+	
+		last_names = { Atapashuna Epieyu Iguana Jayaliyuu Jusayuu Pausayuu Sapuana Tijuana Uliana Uliyuu
+		Uraliyyu Ulewana Walapuana Walepushana }
+	 }
 }
 
 american_cultures = {

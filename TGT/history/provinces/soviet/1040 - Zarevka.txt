@@ -1,6 +1,6 @@
-owner = KMK
-controller = KMK
+owner = KUC
+controller = KUC
 add_core = KUC
-add_core = KMK
+add_core = DON
 trade_goods = wool
 life_rating = 35

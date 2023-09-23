@@ -3,89 +3,366 @@
 #Jamaica (372000/93000 POPS)
 2217 = {
 	aristocrats = {
-		culture = british
+		culture = ruokoan
 		religion = protestant
 		size = 100
 	}
 	
 	aristocrats = { #So the state has 2% aristocrats
-		culture = british
+		culture = ruokoan
 		religion = protestant
 		size = 1890
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = ruokoan
 		religion = protestant
 		size = 85
 	}
 
 	clergymen = {
-		culture = british
+		culture = ruokoan
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = british
+		culture = ruokoan
 		religion = protestant
 		size = 1250
 	}
 
 	soldiers = {
-		culture = british
+		culture = ruokoan
 		religion = protestant
 		size = 50
 	}
 
 	farmers = {
-		culture = british
+		culture = ruokoan
 		religion = protestant
 		size = 2190
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 625
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 3250
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 1100
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 84375
 	}
 }
-#Cayman Islands : (1200/300 POPS) #still a British Colony
+#Cayman Islands : (1200/300 POPS)
 2218 = {
 	clergymen = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 15
 	}
 
 	farmers = {
-		culture = afro_caribbean
+		culture = taino
 		religion = protestant
 		size = 280
 	}
 
+}
+#Macorisén : (1200/300 POPS)
+3338 = {
+	clergymen = {
+		culture = taino
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = taino
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = taino
+		religion = protestant
+		size = 28000
+	}
+
+}
+#Macorisén : (1200/300 POPS)
+3339 = {
+	clergymen = {
+		culture = taino
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = taino
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = taino
+		religion = protestant
+		size = 38000
+	}
+}
+#Macorisén : (1200/300 POPS)
+3340 = {
+	clergymen = {
+		culture = taino
+		religion = protestant
+		size = 50
+	}
+
+	soldiers = {
+		culture = taino
+		religion = protestant
+		size = 150
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = taino
+		religion = protestant
+		size = 43000
+	}
+}
+#Cayman Islands : (1200/300 POPS)
+3342 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 59575
+	}
+}
+#Tureíto : (1200/300 POPS)
+3343 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 64575
+	}
+
+	clergymen = {
+		culture = ruokoan
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = ruokoan
+		religion = catholic
+		size = 300
+	}
+
+	soldiers = {
+		culture = ruokoan
+		religion = catholic
+		size = 75
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 38175
+	}
+}
+#Guahaba : (1200/300 POPS)
+3344 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 36575
+	}
+}
+#Guahaba : (1200/300 POPS)
+3345 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 73575
+	}
+
+	farmers = {
+		culture = ruokoan
+		religion = catholic
+		size = 6575
+	}
+}
+#Guahaba : (1200/300 POPS)
+3346 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 500
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 53575
+	}
+}
+#Cibaoxa : (1200/300 POPS)
+3347 = {
+	aristocrats = {
+		culture = taino
+		religion = catholic
+		size = 550
+	}
+	
+	clergymen = {
+		culture = taino
+		religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = taino
+		religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = taino
+		religion = catholic
+		size = 50
+	}
+
+	farmers = {
+		culture = taino
+		religion = catholic
+		size = 99575
+	}
 }
