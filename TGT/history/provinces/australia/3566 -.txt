@@ -1,0 +1,5 @@
+owner = NZF
+controller = NZF
+add_core = NZF
+trade_goods = cattle
+life_rating = 35

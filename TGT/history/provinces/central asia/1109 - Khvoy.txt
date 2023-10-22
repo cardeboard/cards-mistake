@@ -1,5 +1,6 @@
-owner = BLC
-controller = BLC
-add_core = BLC
+owner = BDN
+controller = BDN
+add_core = BDN
+add_core = KDS
 trade_goods = cotton
 life_rating = 35

@@ -1,5 +1,7 @@
-owner = RMI
-controller = RMI
+owner = GEP
+controller = GEP
+add_core = GEP
+add_core = GOT
 add_core = RMI
 trade_goods = fruit
 life_rating = 35

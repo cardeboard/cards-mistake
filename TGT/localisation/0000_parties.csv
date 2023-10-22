@@ -1,0 +1,65 @@
+NOV_reactionary;Muzhy Gospodni;;;;;;;;;;;;;
+NOV_conservative_1;Liga Torgovtsev;;;;;;;;;;;;;
+NOV_conservative_2;Partiya Umerenno-Pravykh;;;;;;;;;;;;;
+NOV_fascist;Svoezemniki;;;;;;;;;;;;;
+NOV_liberal;Obschestvo Ioanna Predtechi;;;;;;;;;;;;;
+NOV_anarcho_liberal;Partiya Ganzeyskikh Svobod;;;;;;;;;;;;;
+NOV_social_liberal;Partiya Cherni - Liberaly;;;;;;;;;;;;;
+NOV_socialist;Partiya Cherni - Sotsialisty;;;;;;;;;;;;;
+NOV_communist;Novgorodskiy Rabochiy Soyuz;;;;;;;;;;;;;
+NOV_market_liberal;Partiya Svobodnykh Demokratov;;;;;;;;;;;;;
+NOV_paternal_1;Narodnoye Veche;;;;;;;;;;;;;
+NOV_paternal_2;Soyuz Prikhodov;;;;;;;;;;;;;
+MCD_socialist;DSPM;;;;;;;;;;;;x
+MCD_liberal;MKFM;;;;;;;;;;;;x
+MCD_anarcho_liberal;Kómma Panellinias Enótitas;;;;;;;;;;;;x
+MCD_communist;Epanastatikó Laïkó Métopo tis Makedonías;;;;;;;;;;;;x
+MCD_conservative;Makedonikó Paradosiakó Kómma;;;;;;;;;;;;x
+MCD_reactionary;MAS;;;;;;;;;;;;x
+MCD_fascist;Ethnikí Énosi Makedonías;;;;;;;;;;;;x
+AYI_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AYI_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AYI_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AYI_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AYI_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AYI_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AYI_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+GOT_conservative;Partij af Freideins;x;;;;
+GOT_liberal;Partij af Freihals;x;;;;
+GOT_reactionary;Partij af Reaktioners;x;;;;
+GOT_anarcho_liberal;Partij af Radikals;x;;;;
+GOT_socialist;Gutthiuda;x;;;;
+GOT_communist;Gutthiuda Radikals;x;;;;
+GOT_fascist;Fraujinassus af Gutthiuda;x;;;;
+VND_conservative;Partij af Freideins;x;;;;
+VND_liberal;Partij af Freihals;x;;;;
+VND_reactionary;Partij af Reaktioners;x;;;;;;;;
+VND_anarcho_liberal;Partij af Radikals;x;;;;
+VND_socialist;Vandalthiuda;x;;;;
+VND_communist;Vandalthiuda Radikals;x;;;;
+VND_fascist;Fraujinassus af Vandalthiuda;x;;;;
+CMC_anarcho_liberal;The Numunahkahni Way;;;;;;;;;;;;;x
+CMC_anarcho_liberal_1;Individualists;;;;;;;;;;;;;x
+CMC_communist;The Rama Way;;;;;;;;;;;;;x
+CMC_communist_1;Comanche Communist Party;;;;;;;;;;;;;x
+CMC_communist_2;Communist League of the Plains;;;;;;;;;;;;;x
+CMC_conservative;The Traditional Way;;;;;;;;;;;;;x
+CMC_conservative_1;Republican Party;;;;;;;;;;;;;x
+CMC_fascist;Lords of the Plains;;;;;;;;;;;;;x
+CMC_fascist_1;Christian Party;;;;;;;;;;;;;x
+CMC_liberal;The White Man’s Way;;;;;;;;;;;;;x
+CMC_liberal_1;Progressive Party;;;;;;;;;;;;;x
+CMC_liberal_2;Democratic Party;;;;;;;;;;;;;x
+CMC_liberal_3;Democratic Party;;;;;;;;;;;;;x
+CMC_reactionary;The Old Way;;;;;;;;;;;;;x
+CMC_reactionary_1;Prohibition Party;;;;;;;;;;;;;x
+CMC_socialist;The Band Way;;;;;;;;;;;;;x
+CMC_socialist_1;Socialistic Labor Party;;;;;;;;;;;;;x
+CMC_socialist_2;Socialist Party of Comanchería;;;;;;;;;;;;;x
+ILL_conservative;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ILL_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ILL_reactionary;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ILL_anarcho_liberal;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ILL_socialist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ILL_communist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ILL_fascist;fill;;;;;;;;;;;;;;x;;;;;;;;;;;;;;

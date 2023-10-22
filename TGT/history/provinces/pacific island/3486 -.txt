@@ -1,0 +1,3 @@
+add_core = TAH
+trade_goods = iron
+life_rating = 20

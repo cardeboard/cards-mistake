@@ -1,7 +1,7 @@
-owner = MOL
-controller = MOL
-add_core = MOL
-add_core = ROM
+owner = RUT
+controller = RUT
+add_core = GRT
+add_core = GOT
 trade_goods = fruit
 life_rating = 35
 

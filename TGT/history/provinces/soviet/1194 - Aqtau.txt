@@ -1,4 +1,6 @@
-add_core = KAZ
+owner = CMN
+controller = CMN
+add_core = CMN
 terrain = semidesert
 trade_goods = fish
-life_rating = 25
+life_rating = 30

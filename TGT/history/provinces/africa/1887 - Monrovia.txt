@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = LUZ
+controller = LUZ
 add_core = LIB
 trade_goods = coffee
 life_rating = 35

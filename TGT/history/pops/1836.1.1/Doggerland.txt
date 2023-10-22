@@ -1,0 +1,1532 @@
+#Mittelfeldmark Region
+
+#under the rule of Waldeck 1836  
+#Waldeck (208000/52000 POPS)
+3257 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 2700
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 600
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 1500
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 36000
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 5000
+
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 163500 
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 63500 
+	}
+}
+#Widagard
+3287 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 2700
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 600
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 1500
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 2000
+
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 15000
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 63500 
+	}
+}
+#Wilrun
+3290 = {
+	aristocrats = {
+		culture = frisian
+		religion = catholic
+		size = 2700
+	}
+
+	bureaucrats = {
+		culture = frisian
+		religion = catholic
+		size = 600
+	}
+
+	officers = {
+		culture = frisian
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 15000
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 2000
+
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 63500 
+	}
+}
+#Hildewic
+3293 = {
+	aristocrats = {
+		culture = frisian
+		religion = catholic
+		size = 270
+	}
+
+	bureaucrats = {
+		culture = frisian
+		religion = catholic
+		size = 600
+	}
+
+	officers = {
+		culture = frisian
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = frisian
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = frisian
+		religion = catholic
+		size = 1500
+
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 33500 
+	}
+}
+
+#Waldmark Region
+
+##Noordfryslån##
+#Hartingsted
+3291 = {
+	aristocrats = {
+		culture = frisian
+		religion = catholic
+		size = 2700
+	}
+
+	bureaucrats = {
+		culture = frisian
+		religion = catholic
+		size = 600
+	}
+
+	officers = {
+		culture = frisian
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = frisian
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = frisian
+		religion = catholic
+		size = 3000
+
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 43500 
+	}
+}
+#Eadgarholm
+3292 = {
+	aristocrats = {
+		culture = frisian
+		religion = catholic
+		size = 270
+	}
+
+	bureaucrats = {
+		culture = frisian
+		religion = catholic
+		size = 600
+	}
+
+	officers = {
+		culture = frisian
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = frisian
+		religion = catholic
+		size = 15000
+	}
+
+	soldiers = {
+		culture = frisian
+		religion = catholic
+		size = 5000
+
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 73500 
+	}
+}
+#Oswynchester
+3294 = {
+	aristocrats = {
+		culture = frisian
+		religion = catholic
+		size = 270
+	}
+
+	bureaucrats = {
+		culture = frisian
+		religion = catholic
+		size = 600
+	}
+
+	officers = {
+		culture = frisian
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = frisian
+		religion = catholic
+		size = 5000
+	}
+
+	soldiers = {
+		culture = frisian
+		religion = catholic
+		size = 5000
+
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 43500 
+	}
+}
+#Raginburg
+3295 = {
+	aristocrats = {
+		culture = frisian
+		religion = catholic
+		size = 270
+	}
+
+	bureaucrats = {
+		culture = frisian
+		religion = catholic
+		size = 600
+	}
+
+	officers = {
+		culture = frisian
+		religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = frisian
+		religion = catholic
+		size = 7500
+	}
+
+	soldiers = {
+		culture = frisian
+		religion = catholic
+		size = 3000
+
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 53500 
+	}
+}
+
+#Wetzlar 
+3270 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 1000 
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size = 2000
+
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 15000
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 15000 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 25500
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 89060      
+	}
+}
+
+#Ingridorp 
+3283 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 15000 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 199060      
+	}
+}
+
+#Aldensted 
+3286 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 1000 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3000
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 15000 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 59060      
+	}
+}
+
+#Ingastead 
+3299 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3000
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 15000 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 29060      
+	}
+}
+
+#Ealdholm 
+3300 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 1000 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 34060      
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 4060      
+	}
+}
+
+##Erzberc##
+#Eldenstadt 
+3302 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 3000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 24060      
+	}
+}
+
+#Ealdwic 
+3309 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 3000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 19000      
+	}
+}
+#Thiedericton
+3310 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 14060      
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 4060      
+	}
+}
+##Hügelland##
+#Hildberg 
+3303 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 7000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 34060      
+	}
+}
+#Fridanheim 
+3304 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 75
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = catholic
+		size = 75
+	}
+
+	officers = {
+		culture = dutch
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 3000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 38060      
+	}
+}
+#Aldheim 
+3305 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 15000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 37060 
+	}
+}
+#Anselmheim
+3307 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = catholic
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = catholic
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 10000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 34060      
+	}
+}
+
+##Strandum Region##
+#Ingramstad
+3288 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 46000    
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 8060  
+	}
+}
+
+#Ostfreda
+3289 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 23000    
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 16060  
+	}
+}
+
+#Wulfrichsburg
+3301 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 37000    
+	}
+}
+
+#Hildebrantstadt
+3306 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 15000
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 52000    
+	}
+
+	farmers = {
+		culture = frisian
+		religion = protestant
+		size = 18000    
+	}
+}
+##Küstlanden##
+
+#Wilfridheim 
+3296 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 13000
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 25000 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 49060      
+	}
+}
+
+#Hartingham 
+3297 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3000
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 12000 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 25060      
+	}
+}
+
+#Aldenbruck 
+3298 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 750
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 100
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 3000
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 18500 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 500    
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 32060      
+	}
+}
+
+#GERMANY
+#Wilhelmshaven (34000/8500 POPS)
+3259 = {
+	aristocrats = {
+		culture = frisian
+		religion = protestant
+		size = 40 
+	}
+
+	bureaucrats = {
+		culture = frisian
+		religion = protestant
+		size = 15 
+	}
+
+	officers = {
+		culture = frisian
+		religion = protestant
+		size = 25 
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = protestant
+		size = 55 
+	}
+
+	artisans = {
+		culture = frisian
+		religion = protestant
+		size = 300
+	}
+
+	soldiers = {
+		culture = frisian
+		religion = protestant
+		size = 50 
+	}
+
+	farmers = {
+		culture = frisian
+		religion = protestant
+		size = 1800
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = catholic
+		size = 20 
+	}
+
+	artisans = {
+		culture = frisian
+		religion = protestant
+		size = 100
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 860
+	}
+}
+
+#Bielefield (216000/54000 POPS)
+3267 = {
+	aristocrats = {
+		culture = frisian
+		religion = protestant
+		size = 300 
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = protestant
+		size = 375
+	}
+
+	artisans = {
+		culture = frisian
+		religion = protestant
+		size = 1700
+	}
+
+	soldiers = {
+		culture = frisian
+		religion = protestant
+		size = 1000
+	}
+
+	farmers = {
+		culture = frisian
+		religion = protestant
+		size = 31025
+	}
+
+	aristocrats = {
+		culture = frisian
+		religion = catholic
+		size = 200  
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = catholic
+		size = 200  
+	}
+
+	artisans = {
+		culture = frisian
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = frisian
+		religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = frisian
+		religion = catholic
+		size = 17600   
+	}
+}
+
+#under the rule of Schaumburg-Lippe 1836
+#Buckeburg (98000/24500 POPS)
+3254 = {
+	aristocrats = {
+		culture = frisian
+		religion = protestant
+		size = 50 
+	}
+
+	bureaucrats = {
+		culture = frisian
+		religion = protestant
+		size = 75 
+	}
+
+	officers = {
+		culture = frisian
+		religion = protestant
+		size = 25 
+	}
+
+	clergymen = {
+		culture = frisian
+		religion = protestant
+		size = 150
+	}
+
+	artisans = {
+		culture = frisian
+		religion = protestant
+		size = 650
+	}
+
+	soldiers = {
+		culture = frisian
+		religion = protestant
+		size= 900
+	}
+
+	farmers = {
+		culture = frisian
+		religion = protestant
+		size = 5810
+	}
+}
+
+#under the rule of Schwarzburg 1836  
+#Schwarzburg (208000/52000 POPS)
+3256 = {
+	aristocrats = {
+		culture = dutch
+		religion = protestant
+		size = 510 
+	}
+
+	bureaucrats = {
+		culture = dutch
+		religion = protestant
+		size = 90 
+	}
+
+	officers = {
+		culture = dutch
+		religion = protestant
+		size = 50 
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = protestant
+		size = 500 
+	}
+
+	artisans = {
+		culture = dutch
+		religion = protestant
+		size = 2600
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = protestant
+		size= 1000
+
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 15350 
+	}
+}

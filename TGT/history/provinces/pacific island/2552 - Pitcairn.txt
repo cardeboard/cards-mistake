@@ -1,3 +1,6 @@
+owner = FAS
+controller = FAS
+add_core = FAS
 trade_goods = fish
-life_rating = 15
-terrain = coral_island
+life_rating = 35
+terrain = farmlands

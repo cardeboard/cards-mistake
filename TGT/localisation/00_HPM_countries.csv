@@ -92,7 +92,7 @@ GCO_communist;Partido Communista;;;;;;;;;;;;;;;;;;;;;;;;;x
 GCO_fascist;Partido Fascista;;;;;;;;;;;;;;;;;;;;;;;;;;x
 MNP;Manipur;;;;;;;;;;;;;;;;;;;;;;;;x
 MNP_ADJ;Manipuri;;;;;;;;;;;;;;;;;;;;;;;;x
-BDK_absolute_monarchy;Šauodano Bakhlo;;;;;;;;;;;;;;;;;;;;;;;;x
+BDK_absolute_monarchy;Sauodano Bakhlo;;;;;;;;;;;;;;;;;;;;;;;;x
 BDK;Bakhlo;;;;;;;;;;;;;;;;;;;;;;;;x
 BDK_ADJ;Ariaonano;;;;;;;;;;;;;;;;;;;;;;;;x
 guajiro;Wayuu;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -710,13 +710,6 @@ ANG_reactionary;UNITA;;;;;;;;;;;;x
 ANG_anarcho_liberal;Radical-Liberal Party of Angola;;;;;;;;;;;;x
 ANG_communist;MPLA;;;;;;;;;;;;x
 ANG_fascist;Fascist Party of Angola;;;;;;;;;;;;x
-ANI_absolute_monarchy;Antillean Empire;Empire of Antillia;Empire of Antillia;;Empire of Antillia;;;;;;;;;x ;
-ANI_proletarian_dictatorship;Antillean Republic;the Red Indies;the Red Indies;;the Red Indies;;;;;;;;;x ;
-ANI_presidential_dictatorship;Antillean Republic;Republic of Antillia;Republic of Antillia;;Republic of Antillia;;;;;;;;;x ;
-ANI_fascist_dictatorship;Antillean Republic;the Black Isles;the Black Isles;;the Black Isles;;;;;;;;;x ;
-ANI_bourgeois_dictatorship;Antillean Republic;Pirates of the Caribbean;Pirates of the Caribbean;Pirates of the Caribbean;;;;;;;;;x ;
-ANI;Antilles Confederation;Republic of Antillia;Republic of Antillia;;Republic of Antillia;;;;;;;;;x
-ANI_ADJ;Antillean;Antillean;Antillean;;Antillean;;;;;;;;;x
 ANT;Anatolia;;;;;;;;;;;;x
 ANT_ADJ;Anatolian;;;;;;;;;;;;x
 AOT;Aotearoa;Aotearoa;Aotearoa;;;;;;;;;;;x
@@ -1061,8 +1054,8 @@ DUR_prussian_constitutionalism_ADJ;Durrani;;;;;;;;;;;;x
 DUR_hms_government_ADJ;Durrani;;;;;;;;;;;;x
 DUR_fascist_dictatorship;Durrani Republic;;;;;;;;;;;;x
 DUR_fascist_dictatorship_ADJ;Durrani;;;;;;;;;;;;x
-ENL;England;;;;;;;;;;;;;x
-ENL_ADJ;English;;;;;;;;;;;;;x
+ENL;Anglelunt;;;;;;;;;;;;;x
+ENL_ADJ;Anglisc;;;;;;;;;;;;;x
 ENT;Entre Rios;;;;;;;;;;;;;x
 ENT_ADJ;Entrerriano;;;;;;;;;;;;;x
 ENT_conservative;Federalistas;;;;;;;;;;;;;x
@@ -1364,10 +1357,10 @@ KAM_socialist;The Socialists;Faction socialiste;Die sozialistische Fraktion;;;;;
 KAM_communist;The Communists;Faction communiste;Die kommunistische Fraktion;;;;;;;;;;;x
 KAM_fascist;The Nationalists;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;x
 KHI;Xwarazm;;;;;;;;;;;;;;;;x;;;;
-KHI_absolute_monarchy;Šahawek Xwarazm;;;;;;;;;;;;;;;;;;x;;;;
+KHI_absolute_monarchy;Sahawek Xwarazm;;;;;;;;;;;;;;;;;;x;;;;
 KHI_ADJ;Xwarazmi;;;;;;;;;;;;;;;;;;x;;;;
 BUK;Suyda;;;;;;;;;;;;;;;;x;;;;
-BUK_absolute_monarchy;Axsyðya Suyða;;;;;;;;;;;;;;;;x;;;;
+BUK_absolute_monarchy;Axsydya Suyda;;;;;;;;;;;;;;;;x;;;;
 BUK_ADJ;Suydit;;;;;;;;;;;;;;;;x;;;;
 KOK_absolute_monarchy;The Khanate of Kokand;;;;;;;;;;;;;;;;;;x;;;;
 KAZ_absolute_monarchy;The Kazakh Khanate;;;;;;;;;;;;;x
@@ -1400,8 +1393,8 @@ KEL;Kelantan;;;;;;;;;;;;;x
 KEL_ADJ;Kelantani;;;;;;;;;;;;;x
 KDH;Kedah;;;;;;;;;;;;;x
 KDH_ADJ;Kedai;;;;;;;;;;;;;x
-KER;Cornwall;Cornouailles;Cornwall;;Cornwall;;;;;;;;;x
-KER_ADJ;Cornish;Cornouaillais;Cornish;Cornés;;;;;;;;;x
+KER;Kernow;Cornouailles;Cornwall;;Cornwall;;;;;;;;;x
+KER_ADJ;Kernowek;Cornouaillais;Cornish;Cornés;;;;;;;;;x
 KER_conservative;Conservative Party;Conservative Party;Conservative Party;;;;;;;;;;;x
 KER_liberal;Liberal Party;Liberal Party;Liberal Party;;;;;;;;;;;x
 KER_reactionary;Party Kenethlegek;Party Kenethlegek;Party Kenethlegek;;;;;;;;;;;x
@@ -1554,19 +1547,19 @@ LOS_communist;Partido Communist;Partido communiste;Partido Communist;;;;;;;;;;;;
 LOS_fascist;Partido Fascist;Partido fasciste;Partido Fascist;;;;;;;;;;;;x;;;;;;;;;;;;;;
 LPL;United Provinces;;;;;;;;;;;;x
 LPL_ADJ;Platine;;;;;;;;;;;;x
-LSK;Alaska;;;;;;;;;;;;;x
-LSK_ADJ;Alaskan;;;;;;;;;;;;;x
-LSK_reactionary;Nationalist Party;;;;;;;;;;;;;x
-LSK_conservative;Democratic Party;;;;;;;;;;;;;x
-LSK_liberal;Republican Party;;;;;;;;;;;;;x
-LSK_anarcho_liberal;Liberal Economists;;;;;;;;;;;;;x
-LSK_socialist;Socialist Party;;;;;;;;;;;;;x
-LSK_communist;Bolsheviks;;;;;;;;;;;;;x
-LSK_fascist;Northern Futurists;;;;;;;;;;;;;x
+LSK;Alaqsaq;;;;;;;;;;;;;x
+LSK_ADJ;Alaqsanli;;;;;;;;;;;;;x
+LSK_reactionary;Gelenekçi Türk Birligi;;;;;;;;;;;;;x
+LSK_conservative;Alaqsan Demokratiya Jumhuriyet Partiyasi;;;;;;;;;;;;;x
+LSK_liberal;Alaqsaq Azatsi Qalparagh Top;;;;;;;;;;;;;x
+LSK_anarcho_liberal;Qorqan Aq Jana;;;;;;;;;;;;;x
+LSK_socialist;Alaqsan Sotsialistik Birligi;;;;;;;;;;;;;x
+LSK_communist;Qizil Birligi Partiyasi;;;;;;;;;;;;;x
+LSK_fascist;TYYP;;;;;;;;;;;;;x
 LUI;Saint Lucia;;;;;;;;;;;;x
 LUI_ADJ;Lucian;;;;;;;;;;;;x
-LUZ;Srbsko;;;;;;;;;;;;x
-LUZ_ADJ;Serbska;;;;;;;;;;;;x
+LUZ;Slüvensko;;;;;;;;;;;;x
+LUZ_ADJ;Slüvenste;;;;;;;;;;;;x
 LUZ_conservative;Conservative Party;;;;;;;;;;;;x
 LUZ_liberal;Liberal Party;;;;;;;;;;;;x
 LUZ_reactionary;Nationalist Party;;;;;;;;;;;;x
@@ -2664,8 +2657,8 @@ WAS_reactionary;Radical Nationalists;Radical Nationalists;Radical Nationalists;;
 WAS_reactionary_2;Country Party;Country Party;Country Party;;;;;;;;;;;x
 WAS_anarcho_liberal;Radical Liberals;Radical Liberals;Radical Liberals;;;;;;;;;;;x
 WAS_fascist;Fascist Party;Fascist Party;Fascist Party;;;;;;;;;;;x
-WES;Westfalen;;;;;;;;;;;;;x;
-WES_ADJ;Westphalian ;;;;;;;;;;;;;;x
+WES;Seaxelundt;;;;;;;;;;;;;x;
+WES_ADJ;Seaxisc;;;;;;;;;;;;;;x
 WES_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_conservative;Zentrumspartei;Zentrumspartei;Zentrumspartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_liberal_2;Nationalliberale ;Nationalliberale ;Nationalliberale ;;;;;;;;;;;;x;;;;;;;;;;;;;;
@@ -2679,8 +2672,8 @@ WES_conservative_3;Christsoz. Arbeiterpartei;Christsoz. Arbeiterpartei;Christsoz
 WES_anarcho_liberal;Radical Arbeiterpartei;Arbeiterpartei radical;Radikale Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_communist;Communist Arbeiterpartei;Arbeiterpartei communiste;Kommunistische Arbeiterpartei;;;;;;;;;;;;x;;;;;;;;;;;;;;
 WES_fascist;NSDP;NSDP;NSDP;;;;;;;;;;;;x;;;;;;;;;;;;;;
-WHA;Wales;;;;;;;;;;;;;x
-WHA_ADJ;Welsh;;;;;;;;;;;;;x
+WHA;Prydain;;;;;;;;;;;;;x
+WHA_ADJ;Prydeinig;;;;;;;;;;;;;x
 WHA_liberal;Democratiaid Rhyddfrydol;;;;;;;;;;;;;x
 WHA_conservative;Plaid Geidwadol;;;;;;;;;;;;;x
 WHA_socialist;Plaid Cymru;;;;;;;;;;;;;x

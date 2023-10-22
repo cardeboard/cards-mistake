@@ -1,4 +1,5 @@
-add_core = NZL
+owner = AOT
+controller = AOT
+add_core = AOT
 trade_goods = cattle
-life_rating = 30
-colonial = 2
+life_rating = 35

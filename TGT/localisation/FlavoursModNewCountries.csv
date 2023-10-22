@@ -238,7 +238,6 @@ HND_dominon;The Dominion of India;;;;;;;;;;;;x,
 TCA_colonial_company;Kavkaz Namestnik;;;;;;;;;;;;;x,
 DAI_colonial_company;Indochine;;;;;;;;;;;;;x
 INO_colonial_company;Oost-Indie;;;;;;;;;;;;;x
-LSK_colonial_company;Alyaska;;;;;;;;;;;;;x
 PPG_colonial_company;Neuguinea;;;;;;;;;;;;;x
 MOZ_colonial_company;Mocambique;;;;;;;;;;;;;x
 CMR_colonial_company;Kamerun;;;;;;;;;;;;;x
@@ -428,8 +427,8 @@ SWG;Schwarzburg;;;;;;;;;;;;;x,
 SWG_ADJ;Schwarzburgen;;;;;;;;;;;;;x,
 WLD;Waldeck-Pyrmont;;;;;;;;;;;;;x,
 WLD_ADJ;Waldeck;;;;;;;;;;;;;x,
-RUM;Eastern Rumelia;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
-RUM_ADJ;Eastern Rumelian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM;Rygir;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
+RUM_ADJ;Gutaniz;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM;Samos;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 SAM_ADJ;Greek;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;
 URP;The United Principalities;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;

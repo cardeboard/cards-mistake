@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = GEA
+controller = GEA
 colonial = 2
 add_core = ASH
 trade_goods = cattle

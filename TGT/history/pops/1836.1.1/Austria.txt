@@ -291,115 +291,91 @@
 #Vienna (1084000/271000 POPS)
 619 = {
 	aristocrats = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 4250 
 	}
 
 	bureaucrats = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 3100
 	}
 
 	officers = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 600 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 2750
 	}
 
 	artisans = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = south_german
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 7500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 2750 
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 3000
 	}
 
 	farmers = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
-		size = 186250
+		size = 66250
 	}
 
 	clergymen = {
-		culture = czech
+		culture = sorbian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = czech
+		culture = sorbian
 		religion = catholic
 		size = 5950
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = south_german
 		religion = catholic
 		size = 20 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = south_german
 		religion = catholic
 		size = 980
 	}
@@ -439,6 +415,30 @@
 	artisans = {
 		culture = south_german
 		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 10000
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
 		size = 1200
 	}
 
@@ -452,6 +452,12 @@
 		culture = south_german
 		religion = catholic
 		size = 19925 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 126000
 	}
 }
 #Krems (240000/60000 POPS)
@@ -571,49 +577,49 @@
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = south_german
 		religion = catholic
 		size = 60 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = south_german
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = south_german
 		religion = catholic
 		size = 1025
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = south_german
 		religion = catholic
 		size = 2765  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = south_german
 		religion = protestant
 		size = 35 
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = south_german
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = south_german
 		religion = protestant
 		size = 1025
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = south_german
 		religion = protestant
 		size = 1790   
 	}

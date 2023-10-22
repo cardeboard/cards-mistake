@@ -1,0 +1,4 @@
+add_core = TUA
+add_core = FAS
+trade_goods = iron
+life_rating = 20

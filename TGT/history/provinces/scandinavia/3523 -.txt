@@ -1,0 +1,6 @@
+owner = ICL
+controller = ICL
+add_core = ICL
+trade_goods = cattle
+life_rating = 35
+terrain = hills

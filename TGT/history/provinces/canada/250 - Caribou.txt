@@ -1,11 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = ACA
-add_core = MRU
-add_core = NEN
+owner = FCA
+controller = FCA
+add_core = FCA
 trade_goods = grain
 life_rating = 35
-colonial = 2
 1861.1.1 = {
 	owner = USA
 	controller = USA

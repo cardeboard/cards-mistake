@@ -37,6 +37,7 @@ centralization = unitary
 colonial_policy = no_colonies
 
 set_country_flag = protestant_country
+
 set_country_flag = new_world_nation
 
 ruling_party = FIN_conservative
@@ -46,7 +47,6 @@ upper_house = {
     liberal = 35
     conservative = 60
     reactionary = 5
-    radical = 0
     socialist = 0
     communist = 0
 }

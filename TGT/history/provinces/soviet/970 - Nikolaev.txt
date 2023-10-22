@@ -1,6 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = UKR
+owner = GRT
+controller = GRT
+add_core = GRT
+add_core = GOT
 trade_goods = fish
 life_rating = 35

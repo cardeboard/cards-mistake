@@ -1,0 +1,3 @@
+add_core = PLY
+trade_goods = tropical_wood
+life_rating = 15

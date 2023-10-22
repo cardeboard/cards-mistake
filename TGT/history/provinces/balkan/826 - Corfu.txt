@@ -1,7 +1,6 @@
-owner = ION
-controller = ION
-add_core = ION
-add_core = GRE
+owner = ALB
+controller = ALB
+add_core = MCD
+add_core = ALB
 trade_goods = fish
-life_rating = 30
-terrain = small_island
+life_rating = 35

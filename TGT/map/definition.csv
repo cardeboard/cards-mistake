@@ -3404,6 +3404,237 @@
 3403;0;119;105;Korybantia;x
 3404;40;10;150;Monferrat;x
 3405;250;10;10;Rizini;x
+3406;13;26;168;Turkiston Korfazi;x
+3407;19;35;254;Ungri-obol;x
+3408;88;102;252;Nadym-obol;x
+3409;80;95;252;Qazaqtardin siganagi;x
+3410;56;66;160;Sibir tenizi;x
+3411;176;206;146;Polynesia 15;x
+3412;154;181;128;Polynesia 16;x
+3413;69;81;57;Polynesia 17;x
+3414;89;104;74;Polynesia 18;x
+3415;123;153;93;Polynesia 19;x
+3416;111;130;92;Polynesia 20;x
+3417;198;232;164;Polynesia 21;x
+3418;132;155;110;Polynesia 22;x
+3419;113;130;94;Polynesia 23;x
+3420;90;104;75;Polynesia 24;x
+3421;59;68;49;Polynesia 25;x
+3422;178;183;172;Polynesia 26;x
+3423;115;135;95;Polynesia 27;x
+3424;44;51;36;Polynesia 28;x
+3425;75;96;51;Polynesia 29;x
+3426;113;145;77;Polynesia 30;x
+3427;83;122;39;Polynesia 31;x
+3428;67;99;31;Polynesia 32;x
+3429;47;68;22;Polynesia 33;x
+3430;138;153;120;Polynesia 34;x
+3431;76;119;27;Polynesia 35;x
+3432;120;175;56;Polynesia 36;x
+3433;135;198;63;Polynesia 37;x
+3434;71;104;33;Polynesia 38;x
+3435;96;102;89;Polynesia 39;x
+3436;130;137;121;Polynesia 40;x
+3437;137;145;127;Polynesia 41;x
+3438;86;91;80;Polynesia 42;x
+3439;62;101;108;Polynesia 43;x
+3440;115;122;108;Polynesia 44;x
+3441;60;63;56;Polynesia 45;x
+3442;98;104;92;Polynesia 46;x
+3443;42;63;84;Hawaii 47;x
+3444;112;137;160;Hawaii 48;x
+3445;71;107;142;Hawaii 49;x
+3446;66;198;51;Hawaii 50;x
+3447;50;150;39;Hawaii 51;x
+3448;69;158;60;Hawaii 53;x
+3449;50;114;43;Hawaii 54;x
+3450;111;206;101;Hawaii 55;x
+3451;135;249;122;Hawaii 56;x
+3452;98;122;72;Polynesia 57;x
+3453;102;150;48;Polynesia 58;x
+3454;109;160;51;Polynesia 59;x
+3455;181;52;95;Polynesia 60;x
+3456;112;78;89;Polynesia 61;x
+3457;186;53;95;Polynesia 62;x
+3458;175;29;76;Polynesia 63;x
+3459;142;24;61;Polynesia 64;x
+3460;112;19;48;Polynesia 65;x
+3461;181;74;108;Polynesia 66;x
+3462;145;42;120;Polynesia 67;x
+3463;86;25;45;Polynesia 68;x
+3464;145;42;76;Polynesia 69;x
+3465;91;45;61;Polynesia 70;x
+3466;175;131;147;Polynesia 71;x
+3467;211;158;177;Polynesia 72;x
+3468;112;85;95;Polynesia 73;x
+3469;140;110;120;Polynesia 74;x
+3470;79;129;137;Polynesia 75;x
+3471;105;169;181;Polynesia 76;x
+3472;255;198;216;Polynesia 76;x
+3473;255;73;134;Polynesia 76;x
+3474;255;124;166;Polynesia 76;x
+3475;182;167;183;Polynesia 77;x
+3476;205;190;206;Polynesia 78;x
+3477;107;81;81;Polynesia 79;x
+3478;53;40;40;Polynesia 80;x
+3479;135;104;104;Polynesia 81;x
+3480;99;75;75;Polynesia 82;x
+3481;150;114;114;Polynesia 83;x
+3482;135;102;102;Polynesia 84;x
+3483;50;67;84;Polynesia 85;x
+3484;1;32;127;Polynesia 86;x
+3485;168;103;175;Polynesia 87;x
+3486;200;148;204;Polynesia 88;x
+3487;124;104;117;Polynesia 89;x
+3488;168;119;150;Polynesia 90;x
+3489;33;63;73;Polynesia 91;x
+3490;77;121;137;Polynesia 92;x
+3491;92;146;165;Polynesia 93;x
+3492;38;73;86;Polynesia 94;x
+3493;158;134;160;Polynesia 95;x
+3494;137;0;153;Polynesia 96;x
+3495;167;93;175;Polynesia 97;x
+3496;130;0;145;Polynesia 98;x
+3497;130;0;82;Polynesia 98;x
+3498;127;0;80;Polynesia 98;x
+3499;127;62;103;Polynesia 98;x
+3500;73;0;46;Polynesia 99;x
+3501;1;82;112;Polynesia 100;x
+3502;105;124;181;Polynesia 101;x
+3503;68;87;145;Polynesia 102;x
+3504;41;85;216;Polynesia 103;x
+3505;0;25;99;Polynesia 103;x
+3506;0;55;206;Polynesia 104;x
+3507;1;33;130;Polynesia 105;x
+3508;1;44;173;Polynesia 106;x
+3509;21;44;112;Polynesia 107;x
+3510;1;40;158;Polynesia 108;x
+3511;40;100;204;Polynesia 109;x
+3512;53;91;159;Polynesia 110;x
+3513;0;56;153;Polynesia 111;x
+3514;72;97;122;Polynesia 112;x
+3515;79;116;153;Polynesia 113;x
+3516;53;104;122;Polynesia 114;x
+3517;134;162;24;Akureyrarkaupstathur;x
+3518;224;222;145;Borgarnes;x
+3519;88;107;16;Hofsjokull;x
+3520;128;142;69;Blafell;x
+3521;175;117;117;Vidur;x
+3522;204;136;136;Nalinni;x
+3523;158;79;79;Skjolborg;x
+3524;174;196;86;Vesturborg;x
+3525;194;219;96;Strond;x
+3526;202;219;133;Sudurborg;x
+3527;142;160;70;Nordurhofn;x
+3528;180;90;10;Zweibrücken;x
+3529;180;190;10;Worms;x
+3530;74;66;250;Don Gulf;x
+3531;155;152;249;Astrakhan Gulf;x
+3532;95;85;158;Zealandia 1;x
+3533;9;73;137;Zealandia 2;x
+3534;10;81;153;Zealandia 3;x
+3535;110;174;239;Zealandia 4;x
+3536;8;0;127;Zealandia 5;x
+3537;5;45;84;Zealandia 6;x
+3538;125;117;239;Zealandia 7;x
+3539;127;142;178;Zealandia 8;x
+3540;157;186;91;Zealandia 9;x
+3541;90;112;41;Zealandia 10;x
+3542;85;77;142;Zealandia 11;x
+3543;69;0;119;Zealandia 12;x
+3544;144;0;143;Zealandia 13;x
+3545;206;150;194;Zealandia 14;x
+3546;255;186;241;Zealandia 15;x
+3547;127;142;91;Zealandia 16;x
+3548;150;160;126;Zealandia 17;x
+3549;145;45;123;Zealandia 18;x
+3550;142;87;130;Zealandia 19;x
+3551;124;114;193;Zealandia 20;x
+3552;150;102;141;Zealandia 21;x
+3553;196;60;169;Zealandia 22;x
+3554;196;113;179;Zealandia 23;x
+3555;122;83;178;Zealandia 24;x
+3556;45;14;39;Zealandia 25;x
+3557;54;44;119;Zealandia 26;x
+3558;27;135;117;Zealandia 27;x
+3559;57;137;125;Zealandia 28;x
+3560;47;112;102;Zealandia 29;x
+3561;122;83;115;Zealandia 30;x
+3562;68;21;59;Zealandia 31;x
+3563;71;69;91;Zealandia 32;x
+3564;150;145;191;Zealandia 33;x
+3565;164;160;191;Zealandia 34;x
+3566;101;98;130;Zealandia 35;x
+3567;112;108;142;Zealandia 36;x
+3568;87;71;193;Zealandia 37;x
+3569;206;201;154;Zealandia 38;x
+3570;135;124;32;Zealandia 39;x
+3571;208;120;176;Zealandia 40;x
+3572;181;52;136;Zealandia 41;x
+3573;145;46;110;Zealandia 42;x
+3574;206;64;156;Zealandia 43;x
+3575;193;141;183;Zealandia 44;x
+3576;153;113;145;Zealandia 45;x
+3577;208;120;147;Zealandia 46;x
+3578;206;140;53;Zealandia 47;x
+3579;206;159;97;Zealandia 48;x
+3580;208;182;147;Zealandia 49;x
+3581;73;127;73;Finland 1;x
+3582;192;226;0;Finland 2;x
+3583;99;40;79;Finland 3;x
+3584;20;173;20;Finland 4;x
+3585;102;175;102;Finland 5;x
+3586;48;142;48;Finland 6;x
+3587;57;106;122;Finland 7;x
+3588;247;101;198;Finland 8;x
+3589;130;111;130;Finland 9;x
+3590;221;33;74;Finland 10;x
+3591;188;162;188;Finland 11;x
+3592;114;137;92;Finland 12;x
+3593;87;127;73;Finland 13;x
+3594;183;219;146;Finland 14;x
+3595;221;117;140;Finland 15;x
+3596;250;50;50;Marand;x
+3597;250;60;160;Parsabad;x
+3598;250;70;70;Miyaneh;x
+3599;250;80;80;Soltaniyeh;x
+3600;250;90;90;Astara;x
+3601;130;10;130;Marvdasht;x
+3602;130;120;130;Bijar;x
+3603;30;120;130;Ahar;x
+3604;30;10;130;Maragheh;x
+3605;30;210;130;Nahavand;x
+3606;146;108;221;Iran New Land 1;x
+3607;245;114;32;Nishapur;x
+3608;95;142;22;Damghan;x
+3609;195;142;22;Kerend;x
+3610;250;200;200;Dahestan;x
+3611;193;164;100;Xojagala;x
+3612;45;174;132;Firuzkuh;x
+3613;230;10;130;Nain;x
+3614;50;130;130;Abarkuh;x
+3615;195;115;17;Khur;x
+3616;250;100;100;Qaen;x
+3617;250;110;110;Tabas;x
+3618;92;113;105;Sadag;x
+3619;191;116;232;Maymana;x
+3620;92;16;105;Ghor;x
+3621;255;128;128;Zaranj;x
+3622;120;20;15;Lashkargah;x
+3623;140;143;158;Finland 16;x
+3624;130;104;0;Finland 17;x
+3625;99;79;0;Finland 17;x
+3626;120;107;15;Trakai;x
+3627;120;107;185;Jaunselpis;x
+3628;20;107;15;Vilkmerge;x
+3629;13;63;9;Utena;x
+3630;20;117;15;Tilzipils;x
+3631;10;167;115;Kolka;x
+3632;64;190;160;Ghela;x
+3633;0;68;45;Bewabonong;x
+3634;107;16;236;Kukukwet;x
+3635;95;130;48;TEXAS 1;x
+3636;153;58;77;TEXAS 2;x
 ;95;16;248;x
 ;96;16;232;x
 ;97;16;236;x
@@ -3416,7 +3647,6 @@
 ;104;16;244;x
 ;105;16;248;x
 ;106;16;232;x
-;107;16;236;x
 ;108;16;240;x
 ;109;16;244;x
 ;111;17;244;x

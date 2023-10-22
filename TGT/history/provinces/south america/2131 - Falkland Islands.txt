@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = ARC
+controller = ARC
 add_core = ARC
 trade_goods = wool
 life_rating = 30

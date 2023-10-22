@@ -1,7 +1,7 @@
-owner = KVE
-controller = KVE
+owner = ICL
+controller = ICL
 add_core = NOR
-add_core = KVE
+add_core = ICL
 trade_goods = iron
 terrain = montane_tundra
 life_rating = 20

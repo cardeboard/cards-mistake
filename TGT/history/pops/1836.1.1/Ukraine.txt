@@ -51,43 +51,43 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 700    
 	}
 
 	bureaucrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 30 
 	}
 
 	officers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 60  
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 300 
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 3810
 	}
@@ -347,55 +347,55 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = ukrainian
 		religion = catholic
 		size = 4250  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = ukrainian
 		religion = catholic
 		size = 425  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = ukrainian
 		religion = catholic
 		size = 2150 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = ukrainian
 		religion = catholic
 		size = 450
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = ukrainian
 		religion = catholic
 		size = 35725  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = ukrainian
 		religion = protestant
 		size = 400  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = ukrainian
 		religion = protestant
 		size = 2250 
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = ukrainian
 		religion = protestant
 		size = 400
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = ukrainian
 		religion = protestant
 		size =  38950   
 	}
@@ -507,43 +507,43 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 3750
 	}
 
 	bureaucrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 1300
 	}
 
 	officers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 775
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 3250
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 650
 	}
 
 	serfs = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 54725
 	}
@@ -623,31 +623,31 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 5000
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 425
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 450
 	}
 
 	serfs = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 34025
 	}
@@ -740,31 +740,31 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 6500
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 700
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 3400
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 700
 	}
 
 	farmers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 56700
 	}
@@ -850,31 +850,31 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 2150
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 325
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 1650
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 325
 	}
 
 	serfs = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 28550
 	}
@@ -962,43 +962,43 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 2000
 	}
 
 	bureaucrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 125
 	}
 
 	officers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 300
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 325
 	}
@@ -1084,31 +1084,31 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 2750
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 6400
 	}
@@ -1194,31 +1194,31 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 2600
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 10375
 	}
@@ -1316,31 +1316,31 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 2300
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 600
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 8850
 	}
@@ -1470,31 +1470,31 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 1500
 	}
 
 	officers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 300
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 150
 	}
@@ -1604,31 +1604,31 @@
 	}
 	
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 900
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 8150
 	}
@@ -1696,25 +1696,25 @@
 	}
 	
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
@@ -1782,19 +1782,19 @@
 	}
 	
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
@@ -2700,31 +2700,31 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 150
 	}
 
 	officers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 50
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 400
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 25
 	}
@@ -2912,19 +2912,19 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 100
 	}
@@ -3016,25 +3016,25 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 150
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 25
 	}
@@ -3180,25 +3180,25 @@
 	}
 
 	aristocrats = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = polish
+		culture = ukrainian
 		religion = catholic
 		size = 25
 	}

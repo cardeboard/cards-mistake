@@ -3,85 +3,85 @@
 #Salonika (304000/76000 POPS) #now part of Greece 
 805 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 1800
 	}
 
 	bureaucrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 250
 	}
 
 	officers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 325
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 4500
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 2800
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 15075
 	}
 	
 	aristocrats = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 120
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 120
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 500
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 5900
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 250
 	}
@@ -149,55 +149,55 @@
 #Polygyros (100000/25000 POPS) #now part of Greece
 822 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 7500
 	}
 
 	soldiers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 300
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 1425
 	}
@@ -229,79 +229,79 @@
 #Kavala (160000/40000 POPS) #now part of Greece
 823 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 700
 	}
 	
 	bureaucrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 	
 	officers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 9525
 	}
 	
 	aristocrats = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 125
 	}
 	
 	officers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 125
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 200
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 400
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 15650
 	}
@@ -377,55 +377,55 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 4800
 	}
 
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 475
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 800
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 2325
 	}
@@ -463,31 +463,31 @@
 	}
 
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 900
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 325
 	}
@@ -519,55 +519,55 @@
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 200
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 3800
 	}
 
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 900
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 4975
 	}
@@ -577,43 +577,43 @@
 #Janina (504000/126000 POPS)
 824 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 125
 	}
 
 	bureaucrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 125
 	}
 
 	officers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 150
 	}
 	
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 200
 	}
@@ -699,31 +699,31 @@
 #Arta (220000/55000 POPS)
 825 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 675
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 550
 	}
 	
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 500
 	}
@@ -859,31 +859,31 @@
 #Xanthe (72000/18000 POPS)
 829 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 425
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 1400
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 3175
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 8925
 	}
@@ -913,25 +913,25 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = rygii
 		religion = orthodox
 		size = 300
 	}
 
 	clergymen = {
-		culture = bulgarian
+		culture = rygii
 		religion = orthodox
 		size = 300
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = rygii
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = rygii
 		religion = orthodox
 		size = 2550
 	}
@@ -939,31 +939,31 @@
 #Dedeagatch (72000/18000 POPS)
 830 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 9900
 	}
@@ -993,25 +993,25 @@
 	}
 	
 	soldiers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 400
 	}
 	
 	clergymen = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 200
 	}
 
 	artisans = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 300
 	}
 
 	farmers = {
-		culture = bulgarian
+		culture = gothic
 		religion = orthodox
 		size = 3625
 	}
@@ -1021,43 +1021,43 @@
 #Larisa (140000/35000 POPS)
 831 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 600
 	}
 
 	bureaucrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 150
 	}
 
 	officers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 10650
 	}
@@ -1095,31 +1095,31 @@
 #Volos (224000/56000 POPS)
 832 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 1150
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 1300
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 550
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 15925
 	}
@@ -1163,31 +1163,31 @@
 #Trikala (44000/11000 POPS)
 833 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 450
 	}
@@ -1615,31 +1615,31 @@
 #Mytilene (44000/11000 POPS)
 844 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 250
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 500
 	}
@@ -1735,43 +1735,43 @@
 #Hania or CHANIA (72000/18000 POPS)
 847 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 375
 	}
 
 	bureaucrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 1300
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 200
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 5950
 	}
@@ -1809,31 +1809,31 @@
 #Iraklion (68000/17000 POPS)
 848 = {
 	aristocrats = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 550
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = turkish
+		culture = greek
 		religion = sunni
 		size = 5850
 	}

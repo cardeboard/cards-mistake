@@ -1,6 +1,7 @@
-owner = SER
-controller = SER
+owner = VND
+controller = VND
+add_core = VND
+add_core = GOT
 add_core = DLM
-add_core = SER
 trade_goods = cattle
 life_rating = 35

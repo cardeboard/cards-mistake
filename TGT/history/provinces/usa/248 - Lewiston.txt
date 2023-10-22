@@ -1,8 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
-add_core = NEN
-add_core = ACA
+owner = FCA
+controller = FCA
+add_core = FCA
 trade_goods = timber
 life_rating = 35
 naval_base = 1

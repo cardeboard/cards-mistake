@@ -1,0 +1,98 @@
+leader = {
+	name = "Budivoj ze Roztoki"
+	date = 1810.1.1
+	type = land
+	personality = stout
+	background = gifted_administrator
+	prestige = 0.3
+}
+
+leader = {
+	name = "Meroslaw Jastrzebiec"
+	date = 1815.1.1
+	type = land
+	personality = intelligent
+	background = engineer
+	prestige = 0.3
+}
+
+leader = {
+	name = "Marek ze Brálin"
+	date = 1825.1.1
+	type = land
+	personality = spirited
+	background = artillerist
+	prestige = 0.2
+}
+
+leader = {
+	name = "Wlodzimierz ze Gryfita"
+	date = 1834.1.1
+	type = land
+	personality = heroic
+	background = school_of_offense
+	prestige = 0.1
+}
+
+SLV = {
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+KRA = {
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+PRU = {
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+MEC = {
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+LUB = {
+	value = 125
+	level = 5
+	influence_value = 0
+}
+
+army = {
+	name = "Sahsiske Heer"
+	location = 534
+	regiment = {
+		name= "1. Infanterije"
+		type = infantry
+		home = 534
+	}
+
+	regiment = {
+		name= "2. Infanterije"
+		type = infantry
+		home = 535
+	}
+
+	regiment = {
+		name= "3. Infanterije"
+		type = infantry
+		home = 531
+	}
+
+	regiment = {
+		name= "1. Artillerie"
+		type = artillery
+		home = 532
+	}
+	regiment = {
+		name = "4. Infanterije"
+		type = infantry
+		home = 537
+	}	
+}

@@ -1,5 +1,6 @@
-owner = BUK
-controller = BUK
+owner = HEP
+controller = HEP
 add_core = BUK
+add_core = HEP
 trade_goods = grain
 life_rating = 35

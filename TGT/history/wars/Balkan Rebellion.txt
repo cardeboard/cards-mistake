@@ -1,0 +1,23 @@
+name = "Rebellion of the Illyrians"
+
+1832.10.2 = {
+	add_attacker = MCD
+	add_defender = ALB
+	
+	# actor
+	# receiver
+	# casus_belli - cb type
+	# country - 3rd party
+	# state_province_id - target state capital
+	war_goal = {
+		casus_belli = conquest_any
+		actor = MCD
+		receiver = ALB
+	}
+
+}
+
+1839.4.21 = {
+	rem_attacker = MCD
+	rem_defender = ALB
+}

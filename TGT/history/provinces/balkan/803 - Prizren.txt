@@ -1,7 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = SER
-add_core = ALB
+owner = VND
+controller = VND
+add_core = VND
+add_core = GOT
 trade_goods = timber
 life_rating = 35

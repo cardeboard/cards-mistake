@@ -2,5 +2,6 @@ owner = PER
 controller = PER
 add_core = BAB
 add_core = PER
+terrain = plains
 trade_goods = grain
 life_rating = 35

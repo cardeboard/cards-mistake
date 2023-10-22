@@ -1,5 +1,6 @@
-owner = RHI
-controller = RHI
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = RHI
 add_core = GER
 trade_goods = cattle

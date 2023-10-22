@@ -87,43 +87,43 @@
 	}
 	
 	aristocrats = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 	
 	officers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 200
 	}
 
 	clergymen = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 4750
 	}
 
 	farmers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 11450
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 1250
 	}
@@ -197,25 +197,25 @@
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 2650
 	}
@@ -277,25 +277,25 @@
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 3675
 	}
@@ -357,25 +357,25 @@
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 5675
 	}
@@ -481,25 +481,25 @@
 	}
 	
 	soldiers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 500
 	}
 
 	farmers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 11375
 	}
@@ -561,25 +561,25 @@
 	}
 
 	soldiers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 	
 	clergymen = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 800
 	}
 
 	farmers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 14000
 	}

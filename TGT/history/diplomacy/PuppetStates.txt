@@ -13,6 +13,24 @@ vassal = {
 vassal = {
 	first = BAV
 	second = SLO
-	start_date = 1315.1.1
+	start_date = 1634.1.1
 	end_date = 1954.1.1
+}
+vassal = {
+	first = BLC
+	second = GEO
+	start_date = 887.1.1
+	end_date = 1839.1.1
+}
+vassal = {
+	first = BLC
+	second = DAG
+	start_date = 887.1.1
+	end_date = 1839.1.1
+}
+vassal = {
+	first = POL
+	second = TUS
+	start_date = 1658.1.1
+	end_date = 1891.1.1
 }

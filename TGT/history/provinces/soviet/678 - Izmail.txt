@@ -1,6 +1,7 @@
-owner = BUL
-controller = BUL
-add_core = BUL
+owner = GRT
+controller = GRT
+add_core = GRT
+add_core = GOT
 trade_goods = fish
 life_rating = 35
 fort = 1

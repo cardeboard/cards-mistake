@@ -1,6 +1,6 @@
-owner = RPL
-controller = RPL
-add_core = COL
+owner = LSK
+controller = LSK
+add_core = LSK
 trade_goods = grain
 life_rating = 30
 1861.1.1 = {

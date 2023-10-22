@@ -1,5 +1,6 @@
-owner = AFG
-controller = AFG
+owner = HEP
+controller = HEP
 add_core = AFG
+add_core = HEP
 trade_goods = grain
 life_rating = 35

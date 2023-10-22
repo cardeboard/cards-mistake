@@ -1,0 +1,71 @@
+political_decisions = {
+	
+	gal_hungry = {
+		picture = romanians_marching
+		alert = yes
+		potential = {
+			tag = GAL
+			NOT = { has_country_flag = hungry_gallia }
+		}
+		
+		allow = {
+			war = no
+			owns = 3308
+			owns = 428
+		}
+		
+		effect = {
+		set_country_flag = hungry_gallia
+		LOR = { all_core = { add_core = GAL } }
+		LOR = { all_core = { remove_core = WUR } }
+		LOR = { all_core = { remove_core = LOR } }
+		badboy = 13
+		prestige = 35
+		}
+	}
+	
+	ruo_hungry = {
+		picture = romanians_marching
+		alert = yes
+		potential = {
+			tag = RUO
+			NOT = { has_country_flag = finland_carribean }
+		}
+		
+		allow = {
+			war = no
+			owns = 3362
+		}
+		
+		effect = {
+		set_country_flag = finland_carribean
+		CUB = { all_core = { add_core = RUO } }
+		JAM = { all_core = { add_core = RUO } }
+		DOM = { all_core = { add_core = RUO } }
+		badboy = 18
+		prestige = 35
+		}
+	}
+	
+	ruo_hungry_2 = {
+		picture = romanians_marching
+		alert = yes
+		potential = {
+			tag = RUO
+			NOT = { has_country_flag = finland_carribean_two }
+		}
+		
+		allow = {
+			war = no
+			owns = 2217
+			owns = 3347
+		}
+		
+		effect = {
+		set_country_flag = finland_carribean_two
+		AYI = { all_core = { add_core = RUO } }
+		badboy = 13
+		prestige = 35
+		}
+	}
+}

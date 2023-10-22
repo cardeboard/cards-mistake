@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = BUL
+owner = RUM
+controller = RUM
+add_core = RUM
+add_core = GOT
 trade_goods = tobacco
 life_rating = 35

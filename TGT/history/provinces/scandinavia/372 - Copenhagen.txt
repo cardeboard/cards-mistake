@@ -1,7 +1,7 @@
 owner = GEA
 controller = GEA
 add_core = GEA
-trade_goods = precious_goods
+trade_goods = grain
 life_rating = 35
 terrain = copenhagen
 naval_base = 1

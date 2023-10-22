@@ -1,7 +1,7 @@
-owner = WAL
-controller = WAL
-add_core = WAL
-add_core = ROM 
+owner = GRT
+controller = GRT
+add_core = GRT
+add_core = GOT
 trade_goods = grain
 life_rating = 35
 terrain = bukarest

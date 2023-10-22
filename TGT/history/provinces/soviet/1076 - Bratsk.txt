@@ -1,5 +1,5 @@
-owner = TKM
-controller = TKM
-add_core = TKM
+owner = TNT
+controller = TNT
+add_core = TNT
 trade_goods = coal
 life_rating = 35

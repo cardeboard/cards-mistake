@@ -44,5 +44,5 @@ leader = {
 	type = land
 	date = 1836.1.1
 	personality = daring
-	background = ambitious_careerist
+	background = engineer
 }

@@ -1,0 +1,46 @@
+political_decisions = {
+	
+	hun_seize_the_qazaq_coast = {
+		picture = vassal_payment
+		alert = yes
+		potential = {
+			tag = HUN
+			NOT = { has_country_flag = hun_seize_the_coast }
+		}
+		
+		allow = {
+			war = no
+			year = 1842
+		}
+		
+		effect = {
+			country_event = 777001
+			set_country_flag = hun_seize_the_coast
+			CMN = { 
+				1032 = { secede_province = HUN }
+				1034 = { secede_province = HUN }
+				1038 = { secede_province = HUN }
+				1043 = { secede_province = HUN }
+				1044 = { secede_province = HUN }
+				2610 = { secede_province = HUN }
+				1042 = { secede_province = HUN }
+				1058 = { secede_province = HUN }
+				1059 = { secede_province = HUN }
+				1060 = { secede_province = HUN }
+				1061 = { secede_province = HUN }
+				2658 = { secede_province = HUN }
+				1064 = { secede_province = HUN }
+				1064 = { change_province_name = "Kará-Tora" }
+				1064 = { add_province_modifier = { name = population_resettlement duration = 2190 } } 
+				}
+			HUN = {
+				1032 = { secede_province = MAR }
+				1034 = { secede_province = MAR }
+				1038 = { secede_province = MAR }
+				1043 = { secede_province = MAR }
+				1044 = { secede_province = MAR }
+				2610 = { secede_province = MAR }
+				}
+			}
+		}
+	}

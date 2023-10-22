@@ -1,7 +1,7 @@
-owner = BDK
-controller = BDK
+owner = HEP
+controller = HEP
 add_core = BDK
-add_core = BUK
+add_core = HEP
 terrain = dryhills
 trade_goods = grain
 life_rating = 35

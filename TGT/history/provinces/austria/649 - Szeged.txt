@@ -1,6 +1,7 @@
-owner = SER
-controller = SER
-add_core = SER
+owner = VND
+controller = VND
+add_core = VND
+add_core = GOT
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = { railroad = 3 }

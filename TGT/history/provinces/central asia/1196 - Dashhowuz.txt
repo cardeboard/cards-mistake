@@ -1,7 +1,7 @@
-owner = KHI
-controller = KHI
+owner = HEP
+controller = HEP
 add_core = KHI
-add_core = TKM
+add_core = HEP
 trade_goods = cattle
 life_rating = 35
 terrain = semidesert

@@ -1,4 +1,4 @@
-capital = 738
+capital = 425
 primary_culture = gallic
 religion = catholic
 government = absolute_monarchy
@@ -6,7 +6,7 @@ plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.20
 civilized = yes
-prestige = 5
+prestige = 70
 
 
 # Political reforms

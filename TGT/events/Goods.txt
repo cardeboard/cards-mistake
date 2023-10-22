@@ -6,7 +6,7 @@ province_event = {
 	id = 1100
 
 	trigger = {
-		year = 1836
+		year = z1836
 		NOT = { year = 1890 }
 		or = {
 			province_id = 766			# Sassari
@@ -18,7 +18,7 @@ province_event = {
 			province_id = 2153			# Durango
 			province_id = 2157			# Culiacan
 			province_id = 2179			# Acapulco
-			#province_id = 2323			# La Serena
+			province_id = 1				# Novoarchengelsk
 			province_id = 2575			# Ipoh
 			#province_id = 1659			# Kobe
 			province_id = 2142			# Chihuahua

@@ -215,6 +215,9 @@ racial_tensions = {
 armenian_diaspora = {
 	icon = 20
 }
+romani_diaspora = {
+	icon = 20
+}
 
 tanzimat_land_reform = {
 	farm_rgo_eff = 0.05

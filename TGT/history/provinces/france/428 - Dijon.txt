@@ -1,6 +1,6 @@
 owner = WUR
 controller = WUR
-add_core = WUR
+add_core = GAL
 trade_goods = fruit
 life_rating = 35
 #state_building = {

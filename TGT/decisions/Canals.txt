@@ -324,7 +324,7 @@ political_decisions = {
 			invention = machine_tools
 			invention = nitroglycerin		
 			iron_steamers = 1
-			money = 1
+			money = 30000
 		}
 		effect = {
 			treasury = -30000	
@@ -341,4 +341,33 @@ political_decisions = {
 			}
 		}
 	}
+
+#	build_caucasus_canal = {
+#		picture = build_panama_canal
+#		potential = {
+#			owns = 1047			
+#			NOT = { is_canal_enabled = 8 }
+#			#is_greater_power = yes		
+#			NOT = { has_global_flag = caucasus_canal_global }
+#		}
+#		allow = {
+#			invention = machine_tools
+#			invention = nitroglycerin		
+#			iron_steamers = 1
+#			money = 1
+#		}
+#		effect = {
+#			treasury = -30000	
+#			set_global_flag = caucasus_canal_global
+#			enable_canal = 8
+#			prestige = 5
+#		}
+#		ai_will_do = {
+#			factor = 1
+#			modifier = {
+#				factor = 0
+#				war = yes
+#			}
+#		}
+#	}
 }

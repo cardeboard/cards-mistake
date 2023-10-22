@@ -135,7 +135,7 @@
 	}
 
 	slaves = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 27500
 	}
@@ -149,97 +149,97 @@
 #Balkh (516000/129000 POPS)
 1211 = {
 	aristocrats = {
-		culture = pashtun
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 1600
 	}
 
 	clergymen = {
-		culture = pashtun
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 813
 	}
 
 	artisans = {
-		culture = pashtun
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 1650
 	}
 
 	soldiers = {
-		culture = pashtun
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 825
 	}
 
 	farmers = {
-		culture = pashtun
-		religion = sunni
-		size = 70112
+		culture = aryao
+		religion = mahayana
+		size = 80112
 	}
 
 	aristocrats = {
-		culture = tajik
+		culture = sogdian
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = sogdian
 		religion = sunni
 		size = 388
 	}
 
 	artisans = {
-		culture = tajik
+		culture = sogdian
 		religion = sunni
 		size = 1900
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = sogdian
 		religion = sunni
 		size = 375
 	}
 
 	farmers = {
-		culture = tajik
+		culture = sogdian
 		religion = sunni
-		size = 34587
+		size = 24587
 	}
 
 	aristocrats = {
-		culture = hazara
-		religion = shiite
+		culture = aryao
+		religion = mahayana
 		size = 150
 	}
 
 	clergymen = {
-		culture = hazara
-		religion = shiite
+		culture = aryao
+		religion = mahayana
 		size = 88
 	}
 
 	artisans = {
-		culture = hazara
-		religion = shiite
+		culture = aryao
+		religion = mahayana
 		size = 500
 	}
 
 	soldiers = {
-		culture = hazara
-		religion = shiite
+		culture = aryao
+		religion = mahayana
 		size = 100
 	}
 
 	farmers = {
-		culture = hazara
-		religion = shiite
+		culture = aryao
+		religion = mahayana
 		size = 6162
 	}
 
 	slaves = {
-		culture = pashtun
+		culture = sogdian
 		religion = sunni
 		size = 15000
 	}
@@ -247,37 +247,37 @@
 #Herat (324000/81000 POPS)
 1212 = {
 	aristocrats = {
-		culture = pashtun
+		culture = persian
 		religion = sunni
 		size = 825
 	}
 	
 	bureaucrats = {
-		culture = pashtun
+		culture = persian
 		religion = sunni
 		size = 375
 	}
 
 	clergymen = {
-		culture = pashtun
+		culture = persian
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = pashtun
+		culture = persian
 		religion = sunni
 		size = 2050
 	}
 
 	soldiers = {
-		culture = pashtun
+		culture = persian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = pashtun
+		culture = persian
 		religion = sunni
 		size = 34650
 	}
@@ -337,7 +337,7 @@
 	}
 
 	slaves = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 6500
 	}
@@ -465,7 +465,7 @@
 	}
 
 	slaves = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 8500
 	}
@@ -723,86 +723,86 @@
 #Faizabad (340000/85000 POPS)
 1210 = {
 	aristocrats = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 125
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 350
 	}
 	
 	officers = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 100
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 1000
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = sogdian
 		religion = sunni
 		size = 5512
 	}
 
 	aristocrats = {
-		culture = tajik
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 1650
 	}
 
 	clergymen = {
-		culture = tajik
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 775
 	}
 
 	artisans = {
-		culture = tajik
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 3750
 	}
 	
 	officers = {
-		culture = tajik
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 100
 	}
 
 	soldiers = {
-		culture = tajik
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 4000
 	}
 
 	farmers = {
-		culture = tajik
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 62825
 	}
 
 	slaves = {
-		culture = tajik
-		religion = sunni
+		culture = aryao
+		religion = mahayana
 		size = 6000
 	}
 

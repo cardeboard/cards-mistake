@@ -2,6 +2,6 @@ owner = FRI
 controller = FRI
 add_core = FRI
 add_core = GER
-trade_goods = grain
+trade_goods = precious_goods
 life_rating = 35
 1861.1.1 = { railroad = 3 }

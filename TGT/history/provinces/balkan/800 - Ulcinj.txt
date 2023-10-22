@@ -1,6 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = MON
+owner = VND
+controller = VND
+add_core = VND
+add_core = GOT
 trade_goods = grain
 life_rating = 35

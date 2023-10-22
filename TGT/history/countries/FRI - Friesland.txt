@@ -1,3 +1,4 @@
+capital = 3292
 primary_culture = frisian
 culture = north_german
 religion = catholic

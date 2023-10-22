@@ -1,7 +1,8 @@
-owner = KHI
-controller = KHI
+owner = HEP
+controller = HEP
 add_core = KHI
 add_core = TAJ
+add_core = HEP
 terrain = desert
 trade_goods = fish
 life_rating = 20

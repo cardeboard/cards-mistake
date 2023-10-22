@@ -1,0 +1,5 @@
+owner = TGA
+controller = TGA
+add_core = TGA
+trade_goods = iron
+life_rating = 35

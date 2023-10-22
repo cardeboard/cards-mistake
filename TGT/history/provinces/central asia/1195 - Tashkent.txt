@@ -1,7 +1,8 @@
-owner = KOK
-controller = KOK
+owner = HEP
+controller = HEP
 add_core = KOK
 add_core = BUK
+add_core = HEP
 trade_goods = grain
 life_rating = 35
 terrain = tashkent

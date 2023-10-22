@@ -1,5 +1,5 @@
-owner = TNT
-controller = TNT
-add_core = TNT
+owner = ALT
+controller = ALT
+add_core = ALT
 trade_goods = cotton
 life_rating = 32

@@ -41,37 +41,37 @@
 	
 	
 	aristocrats = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 300
 	}
 
 	officers = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 700
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 800
 	}
 
 	farmers = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 2575
 	}
@@ -218,25 +218,25 @@
 	
 	
 	clergymen = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = turkish
+		culture = assyrian
 		religion = sunni
 		size = 2000
 	}
@@ -402,19 +402,19 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 5500
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 14325
 	}
@@ -501,19 +501,19 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 10575
 	}
@@ -569,19 +569,19 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 1875
 	}
@@ -619,19 +619,19 @@
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 200
 	}
 
 	farmers = {
-		culture = mashriqi
+		culture = assyrian
 		religion = orthodox
 		size = 3000
 	}

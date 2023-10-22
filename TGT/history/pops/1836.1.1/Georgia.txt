@@ -3,25 +3,25 @@
 #Tblisi (232000/58000 POPS) #circassian-orthodox = Ossetian
 1090 = {
 	bureaucrats = {
-		culture = russian
+		culture = armenian
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = russian
+		culture = armenian
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = russian
+		culture = armenian
 		religion = orthodox
 		size = 25
 	}
 
 	soldiers = {
-		culture = russian
+		culture = armenian
 		religion = orthodox
 		size = 250
 	}
@@ -141,31 +141,31 @@
 	}
 
 	aristocrats = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 2750
 	}
@@ -387,31 +387,31 @@
 	}
 
 	aristocrats = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 20
 	}
 
 	clergymen = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 20
 	}
 
 	artisans = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 10
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = armenian
 		religion = sunni
 		size = 900
 	}
@@ -511,7 +511,7 @@
 	}
 	
 	soldiers = {
-		culture = russian
+		culture = armenian
 		religion = orthodox
 		size = 100
 	}
@@ -557,31 +557,31 @@
 #Batum (76000/19000 POPS) #now part of Georgia
 1096 = {
 	aristocrats = {
-		culture = turkish
+		culture = armenian
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = armenian
 		religion = sunni
 		size = 110
 	}
 
 	artisans = {
-		culture = turkish
+		culture = armenian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = armenian
 		religion = sunni
 		size = 110
 	}
 
 	farmers = {
-		culture = turkish
+		culture = armenian
 		religion = sunni
 		size = 2725
 	}

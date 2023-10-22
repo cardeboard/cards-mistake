@@ -3,43 +3,43 @@
 #Nicosia (64000/16000 POPS)
 855 = {
 	aristocrats = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 275
 	}
 
 	bureaucrats = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 50
 	}
 
 	officers = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 110
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 110
 	}
 
 	artisans = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 2875
 	}
@@ -47,7 +47,7 @@
 	aristocrats = {
 		culture = greek
 		religion = orthodox
-		size = 120
+		size = 420
 	}
 	
 	officers = {
@@ -59,25 +59,25 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 150
+		size = 1500
 	}
 
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 1000
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 750
+		size = 7500
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 10150
+		size = 57150
 	}
 
 	slaves = {
@@ -89,31 +89,31 @@
 #Limassol (44000/11000 POPS)
 856 = {
 	aristocrats = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 110
 	}
 
 	artisans = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 1350
 	}
@@ -121,7 +121,7 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 150
+		size = 1500
 	}
 
 	clergymen = {
@@ -133,43 +133,43 @@
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 400
+		size = 8000
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 8425
+		size = 51250
 	}
 }
 #Famagusta (44000/11000 POPS)
 857 = {
 	aristocrats = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 110
 	}
 
 	artisans = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = turkish
+		culture = anatolian
 		religion = sunni
 		size = 2500
 	}
@@ -177,7 +177,7 @@
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 150
+		size = 1500
 	}
 
 	clergymen = {
@@ -189,13 +189,135 @@
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 400
+		size = 4000
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 7425
+		size = 67425
 	}
 
 }
+#Artaxatopolis (44000/11000 POPS)
+3396 = {
+	aristocrats = {
+		culture = anatolian
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = anatolian
+		religion = sunni
+		size = 110
+	}
+
+	artisans = {
+		culture = anatolian
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = anatolian
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = sunni
+		size = 2500
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 110
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4000
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 37425
+	}
+
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 17425
+	}
+
+}
+#Vasiliki (44000/11000 POPS)
+3398 = {
+	aristocrats = {
+		culture = anatolian
+		religion = sunni
+		size = 200
+	}
+
+	clergymen = {
+		culture = anatolian
+		religion = sunni
+		size = 110
+	}
+
+	artisans = {
+		culture = anatolian
+		religion = sunni
+		size = 150
+	}
+
+	soldiers = {
+		culture = anatolian
+		religion = sunni
+		size = 100
+	}
+
+	farmers = {
+		culture = anatolian
+		religion = sunni
+		size = 2500
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 1500
+	}
+
+	clergymen = {
+		culture = greek
+		religion = orthodox
+		size = 110
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 4000
+	}
+
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 53425
+	}
+
+}
+
+

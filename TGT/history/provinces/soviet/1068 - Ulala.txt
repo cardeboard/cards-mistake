@@ -1,6 +1,6 @@
-owner = TNT
-controller = TNT
-add_core = TNT
+owner = UZB
+controller = UZB
+add_core = UZB
 trade_goods = coal
 life_rating = 35
 

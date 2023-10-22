@@ -1,13 +1,12 @@
 capital = 119
-primary_culture = yankee
-culture = dakota
+primary_culture = dakota
 culture = native_american_minor
-religion = protestant
+religion = animist
 government = democracy
 plurality = 0.1
 nationalvalue = nv_liberty
 literacy = 0.50
-civilized = yes
+civilized = no
 
 
 # Political reforms

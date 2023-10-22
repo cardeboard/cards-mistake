@@ -1,5 +1,5 @@
-capital = 1195
-primary_culture = uzbek
+capital = 1063
+primary_culture = karluk
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

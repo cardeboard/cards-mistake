@@ -1,5 +1,5 @@
 capital = 703
-primary_culture = polish
+primary_culture = vistulian
 religion = mahayana
 government = democracy
 plurality = 25.0

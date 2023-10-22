@@ -1,0 +1,7 @@
+owner = HEP
+controller = HEP
+add_core = HEP
+add_core = TAJ
+trade_goods = cattle
+life_rating = 35
+

@@ -1,0 +1,5 @@
+owner = TGA
+controller = TGA
+add_core = TGA
+trade_goods = fruit
+life_rating = 35

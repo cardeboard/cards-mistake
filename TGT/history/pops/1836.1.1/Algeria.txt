@@ -3,43 +3,43 @@
 #Algiers (280000/70000 POPS)
 1700 = {
 	aristocrats = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 500
 	}
 	
 	officers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 1500
 	}
 
 	soldiers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 3500
 	}
 
 	farmers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 12225
 	}
@@ -199,13 +199,13 @@
 	}
 	
 	farmers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 1225
 	}
 	
 	clergymen = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 100
 	}
@@ -348,47 +348,47 @@
 
 }
 #Oranais Region (577600)
-#French in 1836 :
+#berber in 1836 :
 #Oran (108000/27000 POPS)
 1704 = {
 	aristocrats = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 500
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 1800
 	}
 
 	soldiers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 1875
 	}
 	
 	officers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 150
 	}
 
 	farmers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 2200
 	}
@@ -542,25 +542,25 @@
 	}
 	
 	bureaucrats = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 150
 	}
 	
 	farmers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 6225
 	}
 	
 	artisans = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 2250
 	}
 	
 	clergymen = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 150
 	}
@@ -646,31 +646,31 @@
 	}
 	
 	aristocrats = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 125
 	}
 
 	farmers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 3200
 	}
 	
 	soldiers = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 875
 	}
@@ -832,7 +832,7 @@
 #Constantine (176000/44000 POPS)
 1708 = {
 	aristocrats = {
-		culture = french
+		culture = berber
 		religion = catholic
 		size = 250
 	}

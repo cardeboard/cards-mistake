@@ -1,0 +1,287 @@
+country_event = {
+    id = 777001
+    title = "EVTNAME777001" #Victorious Huszárs!
+    desc = "EVTDESC777001" #A force of less than 1000 men has seized the Quman western territories in a series of raids across the border.
+    picture = "danishgovernment"
+	
+	is_triggered_only = yes
+
+    option = {
+        name = "EVTOPTA777001" #Éljenek az Ungriak!
+        prestige = 20
+		badboy = 8
+		CMN = { country_event = 777002 days = 25 }
+		}
+	}
+
+country_event = {
+    id = 777002
+    title = "EVTNAME777002" #THE UNGRI HAVE TAKEN THE WEST
+    desc = "EVTDESC777002"
+    picture = "danishgovernment"
+	
+	is_triggered_only = yes
+
+    option = {
+        name = "EVTOPTA777002" #OPPOSE THEIR EXPANSION, FIGHT THE LOOSING BATTLE
+        prestige = 25
+		CMN = {
+			war = {
+			target = HUN
+			attacker_goal = { casus_belli = humiliate }
+			defender_goal = { casus_belli = make_puppet }
+			}
+		}
+		MAR = {
+			1032 = { secede_province = CMN }
+			1034 = { secede_province = CMN }
+			1038 = { secede_province = CMN }
+			1043 = { secede_province = CMN }
+			1044 = { secede_province = CMN }
+			2610 = { secede_province = CMN }
+		}
+		HUN = {
+			1042 = { secede_province = CMN } 
+			1058 = { secede_province = CMN } 
+			1059 = { secede_province = CMN } 
+			1060 = { secede_province = CMN } 
+			1061 = { secede_province = CMN } 
+			1064 = { secede_province = CMN
+					change_province_name = "Qara-Tora"
+					} 
+			2658 = { secede_province = CMN }
+			}
+		ai_chance = {
+			factor = 5
+		}
+	}
+
+    option = {
+        name = "EVTOPTB777002" #YIELD TO THE ÖZBËG QAN - SWAP TO UZB
+		change_tag_no_core_switch = UZB
+		CMN = { annex_to = UZB }
+		CMN = { all_core = { add_core = UZB } }
+		ai_chance = {
+			factor = 70
+		}
+	}
+
+    option = {
+        name = "EVTOPTD777002" #THE CULA FLEES TO EBODALO, THE NATION COLLAPSES - SWAP TO UZB
+		CMN = {
+			1182 = { secede_province = MAR } 
+			1183 = { secede_province = MAR } 
+			1194 = { secede_province = MAR } 
+			2702 = { secede_province = MAR } 
+			2611 = { secede_province = HUN } 
+			1060 = { secede_province = HUN } 
+			1184 = { secede_province = HUN } 
+			1181 = { secede_province = UZB } 
+			2612 = { secede_province = UZB } 
+			2690 = { secede_province = UZB } 
+			}
+		change_tag_no_core_switch = UZB
+		ai_chance = {
+			factor = 25
+		}
+	}
+}
+
+country_event = {
+    id = 777003
+    title = "EVTNAME777003" #VICTORY IS OURS
+    desc = "EVTDESC777003" #WE HAVE SUBJUGATED THE QUMANS
+    picture = "danishgovernment"
+    fire_only_once = yes
+    trigger = {
+		TAG = HUN
+		CMN = { vassal_of = THIS }
+		NOT = { has_country_flag = qazaqs_subjugated }
+    }
+    
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "EVTOPTB777003" #WE WON
+        prestige = 10
+        set_country_flag = qazaqs_subjugated
+		CMN = {
+			1042 = { secede_province = HUN } 
+			1058 = { secede_province = HUN } 
+			1059 = { secede_province = HUN } 
+			1060 = { secede_province = HUN } 
+			1061 = { secede_province = HUN } 
+			1064 = { secede_province = HUN }
+			1064 = { change_province_name = "Kará-Tora" }
+			1064 = { add_province_modifier = { name = population_resettlement duration = 2190 } } 
+			2658 = { secede_province = HUN }
+			}
+		CMN = { 
+			1032 = { secede_province = HUN }
+			1034 = { secede_province = HUN }
+			1038 = { secede_province = HUN }
+			1043 = { secede_province = HUN }
+			1044 = { secede_province = HUN }
+			2610 = { secede_province = HUN }
+			2690 = { secede_province = HUN }
+			}
+		HUN = {
+			1032 = { secede_province = MAR }
+			1034 = { secede_province = MAR }
+			1038 = { secede_province = MAR }
+			1043 = { secede_province = MAR }
+			1044 = { secede_province = MAR }
+			2610 = { secede_province = MAR }
+			2690 = { secede_province = UZB }
+			}
+		}
+	}
+
+country_event = {
+    id = 777004
+    title = "EVTNAME777004" #THE QUMAN CULA FLED TO ÖZBËGISTON, WE ARE NOT DONE.
+    desc = "EVTDESC777004" #DEMAND SUBJUGATION.
+    picture = "danishgovernment"
+    fire_only_once = yes
+    trigger = {
+	year = 1858
+	tag = HUN
+	NOT = { has_country_flag = uzb_war }
+    }
+    
+    mean_time_to_happen = {
+        months = 12
+    }
+
+    option = {
+        name = "EVTOPTB777004" #WE WILL GO EAST, NO MATTER WHAT.
+        prestige = 10
+        set_country_flag = uzb_war
+		HUN = {
+			war = {
+			target = UZB
+			attacker_goal = { casus_belli = make_puppet }
+			defender_goal = { casus_belli = acquire_all_cores }
+				}
+			}
+		}
+	}
+
+country_event = {
+    id = 777005
+    title = "EVTNAME777005" #expansion_over
+    desc = "EVTDESC777005"
+    picture = "danishgovernment"
+    fire_only_once = yes
+    trigger = {
+	owns = 1080
+	tag = HUN
+	NOT = { has_country_flag = hungarian_east }
+    }
+    
+    mean_time_to_happen = {
+        months = 1
+    }
+
+		option = {
+        name = "EVTOPTB777005" #eastern port
+        prestige = 10
+        set_country_flag = hungarian_east
+			KYR = { annex_to = HUN }
+			1079 = { change_province_name = "Fönev" }
+			2695 = { change_province_name = "Mukhtuj" }
+			2696 = { change_province_name = "Aldán" }
+			1080 = { change_province_name = "Keleturalkodója" }
+			1080 = { add_province_modifier = { name = population_resettlement duration = 2190 }}
+		}
+	}
+	
+country_event = {
+    id = 777006
+    title = "EVTNAME777006" #THE ÖZBËG QAN YIELDS.
+    desc = "EVTDESC777006" #VICTORY ASSURED, WE HAVE GUARANTEED THAT THE UNGRIAN PEOPLE WILL KEEP GOING EASTWARDS
+    picture = "danishgovernment"
+    fire_only_once = yes
+    trigger = {
+	UZB = { vassal_of = THIS }
+	TAG = HUN
+	NOT = { has_country_flag = ozbegs_subjugated }
+    }
+    
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "EVTOPTB777006" #westwardexpansion2
+        prestige = 10
+        set_country_flag = ozbegs_subjugated
+		UZB = {
+			1182 = { secede_province = HUN } 
+			1183 = { secede_province = HUN } 
+			1194 = { secede_province = HUN } 
+			2702 = { secede_province = HUN }
+			}
+		HUN = {
+			1182 = { secede_province = MAR } 
+			1183 = { secede_province = MAR } 
+			1194 = { secede_province = MAR } 
+			2702 = { secede_province = MAR }
+			}
+		UZB = {
+			1060 = { secede_province = HUN } 
+			1184 = { secede_province = HUN } 
+			2611 = { secede_province = HUN } 
+			2692 = { secede_province = HUN } 
+			1070 = { secede_province = HUN } 
+			2646 = { secede_province = HUN } 
+			2701 = { secede_province = HUN }
+			}
+		HUN = { 
+			1181 = { secede_province = UZB }
+			2612 = { secede_province = UZB }
+			}
+		}
+	}
+
+country_event = {
+    id = 777007
+    title = "EVTNAME777007" #WE HAVE SUCCEEDED DESPITE THE ODDS.
+    desc = "EVTDESC777007"
+    picture = "danishgovernment"
+    fire_only_once = yes
+    trigger = {
+	year = 1845
+	NOT = { has_country_flag = quman_win }
+	AND = {
+		TAG = CMN
+		owns = 1064
+		war = no 
+		}
+    }
+
+    option = {
+        name = "EVTOPTA777007" #A VICTORY FOR ALL TO REMEMBER
+        prestige = 25
+		MAR = { annex_to = CMN }
+		HUN = {
+			2659 = { secede_province = CMN } 
+			2614 = { secede_province = CMN } 
+			2685 = { secede_province = CMN } 
+			1066 = { secede_province = CMN } 
+			1061 = { secede_province = CMN } 
+			1064 = { secede_province = CMN } 
+			1026 = { secede_province = CMN }
+			1031 = { secede_province = CMN }
+			1029 = { secede_province = CMN }
+			1028 = { secede_province = CMN }
+			1027 = { secede_province = CMN }
+			990 = { secede_province = CMN }
+			987 = { secede_province = CMN }
+			2700 = { secede_province = CMN }
+			}
+		set_country_flag = quman_win
+	}
+}

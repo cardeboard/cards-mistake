@@ -1,9 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = UKR
-add_core = CRI
+owner = GRT
+controller = GRT
+add_core = GRT
+add_core = GOT
 trade_goods = iron
 life_rating = 35
 terrain = kerch
-colonial = 2

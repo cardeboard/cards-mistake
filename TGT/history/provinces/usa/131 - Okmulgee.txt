@@ -1,5 +1,6 @@
-owner = USA
-colonial = 2
+owner = ELY
+controller = ELY
+add_core = ELY
 trade_goods = grain
 life_rating = 35
 
@@ -7,5 +8,5 @@ life_rating = 35
 	owner = CSA
 	controller = CSA
 	add_core = CSA
-	add_core = USA
+	add_core = ELY
 }

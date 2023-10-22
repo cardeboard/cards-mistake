@@ -1,6 +1,5 @@
-capital = 815
-primary_culture = bulgarian
-culture = turkish
+capital = 828
+primary_culture = rygii
 religion = orthodox
 government = hms_government
 plurality = 0.08

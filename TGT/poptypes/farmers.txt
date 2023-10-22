@@ -123,8 +123,13 @@ country_migration_target = {
 			}
 			AND = {
 				OR = {
+					THIS = { is_culture_group = gallic_romance }
 					THIS = { is_culture_group = french }
 					THIS = { has_pop_culture = wallonian }
+					THIS = { has_pop_culture = vrancine }
+					THIS = { has_pop_culture = occitan }
+					THIS = { has_pop_culture = catalan }
+					THIS = { has_pop_culture = lusetan }
 				}
 				OR = { 
 					primary_culture = french_canadian
@@ -134,7 +139,16 @@ country_migration_target = {
 					primary_culture = louisianan
 					primary_culture = french
 					primary_culture = wallonian
+					primary_culture = elysian
 					is_culture_group = pan_swiss
+				}
+			}
+			AND = {
+				OR = {
+					THIS = { is_culture_group = gallic_romance }
+				}
+				OR = { 
+					primary_culture = elysian
 				}
 			}
 			AND = {
@@ -178,6 +192,7 @@ country_migration_target = {
 			government = democracy
 			government = presidential_dictatorship
 			government = hms_government
+			government = constitutional_empire
 			government = dominion
 			government = colonial_company
 		}
@@ -199,6 +214,7 @@ country_migration_target = {
 			government = democracy
 			government = presidential_dictatorship
 			government = hms_government
+			government = constitutional_empire
 			government = dominion
 			government = colonial_company
 		}
@@ -7192,6 +7208,11 @@ all_voting_pops = {
 			factor = 0.5
 			country = { government = hms_government }
 		}
+
+		modifier = {
+			factor = 0.5
+			country = { government = constitutional_empire }
+		}
 		
 		modifier = {
 			factor = 2.0
@@ -7261,6 +7282,11 @@ all_voting_pops = {
 		modifier = {
 			factor = 0.5
 			country = { government = hms_government }
+		}
+
+		modifier = {
+			factor = 0.5
+			country = { government = constitutional_empire }
 		}
 		
 		modifier = {

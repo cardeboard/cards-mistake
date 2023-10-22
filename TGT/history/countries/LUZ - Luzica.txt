@@ -6,6 +6,7 @@ plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.8
 civilized = yes
+prestige = 65
 
 # Political reforms
 slavery = no_slavery
@@ -63,6 +64,7 @@ mechanized_mining = 1
 basic_chemistry = 1
 
 set_country_flag = mahayana_country
+oob = "LUZ_oob.txt"
 
 ruling_party = LUZ_conservative
 upper_house = {

@@ -1,6 +1,6 @@
-owner = SIE
-controller = SIE
-add_core = SIE
-add_core = ROM
+owner = GEP
+controller = GEP
+add_core = GEP
+add_core = GOT
 trade_goods = cattle
 life_rating = 35

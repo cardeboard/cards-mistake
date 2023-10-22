@@ -1,0 +1,5 @@
+owner = FAS
+controller = FAS
+add_core = FAS
+trade_goods = grain
+life_rating = 35

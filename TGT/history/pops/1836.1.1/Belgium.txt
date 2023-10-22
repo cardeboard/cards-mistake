@@ -340,6 +340,82 @@
 	}
 
 }
+#Ostfrid (456000/114000 POPS)
+3284 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 1150
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 1700
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 40525
+	}
+}
+#Ostburg (456000/114000 POPS)
+3285 = {
+	aristocrats = {
+		culture = dutch
+		religion = catholic
+		size = 1150
+	}
+
+	clergymen = {
+		culture = dutch
+		religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 10000
+	}
+	
+	artisans = {
+		culture = dutch
+		religion = catholic
+		size = 1100
+	}
+
+	soldiers = {
+		culture = dutch
+		religion = catholic
+		size = 1700
+	}
+
+	farmers = {
+		culture = dutch
+		religion = catholic
+		size = 60525
+	}
+}
 #Wallonia Region (1432000)
 #Namur (388000/97000 POPS)
 392 = {

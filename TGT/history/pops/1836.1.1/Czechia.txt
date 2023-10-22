@@ -3,49 +3,49 @@
 #Prague (1726800/425200 POPS)
 625 = {
 	bureaucrats = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 450 
 	}
 
 	officers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 250 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 3025
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 13100
 	}
 	
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 8000
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 750
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 310000
 	}
@@ -54,12 +54,6 @@
 		culture = gypsy
 		religion = catholic
 		size = 11000
-	}
-	
-	serfs = {
-		culture = czech
-		religion = catholic
-		size = 129000
 	}
 
 	aristocrats = {
@@ -81,26 +75,26 @@
 	}
 
 	clergymen = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 275
 	}
 
 	artisans = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 9000
 	}
 
 	soldiers = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 300
 	}
 
 	farmers = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 5775 
 	}
 
@@ -131,32 +125,32 @@
 #Hradec Kralove (441600/110400 POPS)
 626 = {
 	clergymen = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 1100
 	}
 
 	artisans = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 4550
 	}
 
 	soldiers = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 1100
 	}
 
 	farmers = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 62950 
 	}
 	
 	serfs = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 30000 
 	}
 
@@ -217,25 +211,25 @@
 #Karlsbad (579200/144800 POPS)
 627 = {
 	clergymen = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 300 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 250
 	}
 
 	serfs = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 15800 
 	}
@@ -297,61 +291,61 @@
 #Aussig (317600/79400 POPS)
 628 = {
 	clergymen = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 75 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 100
 	}
 
 	serfs = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 8325
 	}
 
 	aristocrats = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 850  
 	}
 
 	clergymen = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 675
 	}
 
 	artisans = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 3350
 	}
 
 	soldiers = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 1200
 	}
 
 	farmers = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 63825
 	}
 	
 	farmers = {
-		culture = south_german
+		culture = sorbian
 		religion = jewish
 		size = 600 
 	}
@@ -359,25 +353,25 @@
 #Pilsen (490400/122600 POPS)
 629 = {
 	clergymen = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 1600 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 3000
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 16000 
 	}
@@ -389,7 +383,7 @@
 	}
 	
 	serfs = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 16000 
 	}
@@ -451,37 +445,37 @@
 #Budejovice (405600/101400 POPS)
 630 = {
 	clergymen = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 400 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 2650
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 550
 	}
 	
 	bureaucrats = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 100
 	}
 	
 	farmers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 4000 
 	}
 
 	serfs = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 10100 
 	}
@@ -551,50 +545,50 @@
 #Brno (1094000/273500 POPS)
 631 = {
 	bureaucrats = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 250 
 	}
 
 	officers = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 125 
 	}
 
 	clergymen = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 2025 
 	}
 
 	artisans = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 17550
 	}
 
 	soldiers = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 2100
 	}
 
 	farmers = {
-		culture = czech
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 158000 
 	}
 	
 	serfs = {
 		culture = gypsy
-		religion = catholic
+		religion = mahayana
 		size = 3550 
 	}
 	
 	serfs = {
-		culture = czech
-		religion = catholic
+		culture = south_german
+		religion = mahayana
 		size = 53000 
 	}
 
@@ -667,85 +661,85 @@
 #Olomouc (372800/93200 POPS)
 632 = {
 	clergymen = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 350 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 700
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 550
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 20700 
 	}
 
 	aristocrats = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 2250  
 	}
 
 	clergymen = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 500  
 	}
 
 	artisans = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 4300 
 	}
 
 	soldiers = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 300
 	}
 
 	serfs = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size =  26850
 	}
 	
 	farmers = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 31000 
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = sorbian
 		religion = jewish
 		size = 50 
 	}
 
 	artisans = {
-		culture = south_german
+		culture = sorbian
 		religion = jewish
 		size = 2500
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = sorbian
 		religion = jewish
 		size = 25
 	}
 
 	farmers = {
-		culture = south_german
+		culture = sorbian
 		religion = jewish
 		size = 1225  
 	}
@@ -755,160 +749,160 @@
 #Troppau (104000/26000 POPS)
 688 = {
 	bureaucrats = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 40 
 	}
 
 	officers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 25 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 50 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 450
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 50
 	}
 
 	serfs = {
-		culture = czech
+		culture = south_german
 		religion = catholic
 		size = 5385 
 	}
 
 	aristocrats = {
-		culture = south_german
+		culture = sorbian
 		religion = catholic
 		size = 250  
 	}
 
 	officers = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 50 
 	}
 
 	bureaucrats = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 140 
 	}
 
 	clergymen = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 200  
 	}
 
 	artisans = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 1550 
 	}
 
 	soldiers = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 200
 	}
 
 	farmers = {
-		culture = south_german
-		religion = catholic
+		culture = sorbian
+		religion = mahayana
 		size = 17610   
 	}
 }
 #Teschen (116000/29000 POPS)
 689 = {
 	clergymen = {
-		culture = czech
-		religion = catholic
+		culture = slovak
+		religion = mahayana
 		size = 125 
 	}
 
 	artisans = {
-		culture = czech
-		religion = catholic
+		culture = slovak
+		religion = mahayana
 		size = 700
 	}
 
 	soldiers = {
-		culture = czech
-		religion = catholic
+		culture = slovak
+		religion = mahayana
 		size = 125
 	}
 
 	farmers = {
-		culture = czech
-		religion = catholic
+		culture = slovak
+		religion = mahayana
 		size = 13050 
 	}
 
 	clergymen = {
-		culture = south_german
-		religion = catholic
+		culture = slovak
+		religion = mahayana
 		size = 20  
 	}
 
 	artisans = {
-		culture = south_german
-		religion = catholic
+		culture = slovak
+		religion = mahayana
 		size = 100 
 	}
 
 	soldiers = {
-		culture = south_german
-		religion = catholic
+		culture = slovak
+		religion = mahayana
 		size = 25
 	}
 
 	farmers = {
-		culture = south_german
-		religion = catholic
+		culture = slovak
+		religion = mahayana
 		size = 955  
 	}
 
 	aristocrats = {
-		culture = polish
-		religion = catholic
+		culture = vistulian
+		religion = mahayana
 		size = 350  
 	}
 
 	clergymen = {
-		culture = polish
-		religion = catholic
+		culture = vistulian
+		religion = mahayana
 		size = 150 
 	}
 
 	artisans = {
-		culture = polish
-		religion = catholic
+		culture = vistulian
+		religion = mahayana
 		size = 700
 	}
 
 	soldiers = {
-		culture = polish
-		religion = catholic
+		culture = vistulian
+		religion = mahayana
 		size = 150
 	}
 
 	serfs = {
-		culture = polish
-		religion = catholic
+		culture = vistulian
+		religion = mahayana
 		size = 12650 
 	}
 }

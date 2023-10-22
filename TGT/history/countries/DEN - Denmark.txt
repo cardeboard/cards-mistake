@@ -89,10 +89,6 @@ nonstate_consciousness = 0
 
 oob = "DEN_oob.txt"
 
-1850.1.1 = {
-decision = danmarks_riges_grundlov
-}
-
 1861.1.1 = {
 	oob = "/1861/DEN_oob.txt"
 	plurality = 60

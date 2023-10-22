@@ -1,5 +1,4 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-PROV3274;Svaneti;;;;;;;;;;x;;;;
 PROV2095;Dithakong;;;;;;;;;;x;;;;
 RUS_994;Ingriya;;;;;;;;;;;;;;x
 HAN_543;Zwolle;;;;;;;;;;;;;;x
@@ -17,7 +16,7 @@ PROV1623;Songjin;;;;;;;;;;;;;;x
 PROV388;Brugge;;;;;;;;;;;;;;x
 PROV389;Gent;;;;;;;;;;;;;;x
 PROV390;Antwerpen;;;;;;;;;;;;;;x
-PROV3269;Porðmuða;;;;;;;;;;;;;;x
+PROV3269;Serobur;;;;;;;;;;;;;;x
 PROV3268;Exeter;;;;;;;;;;;;;;x
 PROV3267;Bielefield;;;;;;;;;;;;;;x
 PROV3266;San Marino;;;;;;;;;;;;;;x
@@ -80,8 +79,6 @@ arid_climate;Arid Climate;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 CANAL_6;English Channel;;;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 GRE_837;Central Greece;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV2669;Sondrio;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV3262;Belluno;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
-PROV3261;Pescara;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV2351;Magdalena;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV3260;Sado;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,
 PROV1531;Tombara;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,

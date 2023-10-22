@@ -1,4 +1,5 @@
+owner = SMO
+controller = SMO
 add_core = SMO
 trade_goods = fish
-life_rating = 15
-terrain = small_island
+life_rating = 35

@@ -1,5 +1,5 @@
 capital = 1199
-primary_culture = uzbek
+primary_culture = sogdian
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

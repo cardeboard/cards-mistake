@@ -1495,6 +1495,45 @@
 }
 #Ile De France Region (2132000)
 #Paris (1520000/380000 POPS)
+3308 = {
+	aristocrats = {
+		culture = gallic
+		religion = catholic
+		size = 3000
+	}
+
+	officers = {
+		culture = gallic
+		religion = catholic
+		size = 800
+	}
+
+	bureaucrats = {
+		culture = gallic
+		religion = catholic
+		size = 1500
+	}
+
+	clergymen = {
+		culture = gallic
+		religion = catholic
+		size = 4000
+	}
+
+	soldiers = {
+		culture = gallic
+		religion = catholic
+		size = 4000
+	}
+
+	farmers = {
+		culture = gallic
+		religion = catholic
+		size = 111100
+	}
+}
+#Ile De France Region (2132000)
+#Paris (1520000/380000 POPS)
 425 = {
 	aristocrats = {
 		culture = gallic

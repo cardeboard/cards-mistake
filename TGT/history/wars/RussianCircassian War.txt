@@ -1,8 +1,8 @@
-name = "Rhenish Reclamation"
+name = "Saxon Civil War"
 
 1831.10.2 = {
 	add_attacker = RHI
-	add_defender = NET
+	add_defender = SAX
 	
 	# actor
 	# receiver
@@ -10,14 +10,14 @@ name = "Rhenish Reclamation"
 	# country - 3rd party
 	# state_province_id - target state capital
 	war_goal = {
-		casus_belli = conquest_any
+		casus_belli = civil_war
 		actor = RHI
-		receiver = NET
+		receiver = SAX
 	}
 	
 	war_goal = {
-		casus_belli = status_quo
-		actor = NET
+		casus_belli = civil_war
+		actor = SAX
 		receiver = RHI
 	}
 
@@ -25,5 +25,5 @@ name = "Rhenish Reclamation"
 
 1836.6.6 = {
 	rem_attacker = RHI
-	rem_attacker = NET
+	rem_attacker = SAX
 }

@@ -48,10 +48,10 @@ country_event = {
 		}
 		small_arms = 50
 		regular_clothes = 50
-		921 = { change_province_name = "Negev" }
-		919 = { change_province_name = "Tel Aviv" }
-		916 = { change_province_name = "Nazareth" }
-		918 = { change_province_name = "Samaria" }
+		643 = { change_province_name = "HaMetsud HaLavan" }
+		641 = { change_province_name = "Yerushalayim HaChadasha" }
+		644 = { change_province_name = "Tzaddikiyah" }
+		776 = { change_province_name = "Oziyah" }
 		any_country = {
 			limit = { civilized = yes }
 			any_owned = {
@@ -783,6 +783,281 @@ province_event = {
 		remove_province_modifier = armenian_diaspora
 		any_pop = {
 			limit = { has_pop_culture = armenian }
+			money = 50
+			consciousness = -3
+		}
+		owner = { treasury = -500 }
+		ai_chance = {
+			factor = 25
+			modifier = {
+				factor = 0
+				owner = { civilized = no }
+			}
+			modifier = {
+				factor = 0
+				owner = {
+					NOT = { money = 1000 }
+				}
+			}
+		}
+	}
+}
+
+
+#Romani Homeland emigration events
+province_event = {
+	id = 99997
+	title = "EVTNAME99997"
+	desc = "EVTDESC99997"
+
+	trigger = {
+		has_province_modifier = romani_diaspora
+		NOT = { is_core = RMI }
+		owner = {
+			NOT = { border_policy = closed_borders }
+			war = no
+		}
+		RMI = {
+			exists = yes
+			war = no
+			owns = 650
+		}
+		650 = { NOT = { unemployment = 0.1 } }
+	}
+
+	mean_time_to_happen = {
+		months = 200
+		modifier = {
+			factor = 2
+			owner = { government = democracy }
+		}
+		modifier = {
+			factor = 1.5
+			owner = { government = hms_government }
+		}
+		modifier = {
+			factor = 0.8
+			owner = { vote_franschise = none_voting }
+		}
+		modifier = {
+			factor = 0.5
+			owner = { religious_policy = moralism }
+		}
+		modifier = {
+			factor = 1.5
+			owner = { religious_policy = pluralism }
+		}
+		modifier = {
+			factor = 0.8
+			owner = { citizenship_policy = residency }
+		}
+		modifier = {
+			factor = 1.2
+			owner = { citizenship_policy = full_citizenship }
+		}
+	}
+
+	option = {
+		name = "EVT99997OPTA"
+		remove_province_modifier = romani_diaspora
+		any_pop = {
+			limit = {
+				has_pop_culture = gypsy
+			}
+			random = {
+				chance = 90
+				move_pop = 650
+			}
+		}
+		ai_chance = { factor = 75 }
+	}
+	option = {
+		name = "EVT99997OPTB"
+		remove_province_modifier = romani_diaspora
+		any_pop = {
+			limit = { has_pop_culture = gypsy }
+			money = 50
+			consciousness = -3
+		}
+		owner = { treasury = -500 }
+		ai_chance = {
+			factor = 25
+			modifier = {
+				factor = 0
+				owner = { civilized = no }
+			}
+			modifier = {
+				factor = 0
+				owner = {
+					NOT = { money = 1000 }
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 99998
+	title = "EVTNAME99998"
+	desc = "EVTDESC99998"
+
+	trigger = {
+		has_province_modifier = romani_diaspora
+		NOT = { is_core = RMI }
+		owner = {
+			NOT = { border_policy = closed_borders }
+			war = no
+		}
+		RMI = {
+			exists = yes
+			war = no
+			owns = 651
+		}
+		651 = { NOT = { unemployment = 0.1 } }
+	}
+
+	mean_time_to_happen = {
+		months = 200
+		modifier = {
+			factor = 2
+			owner = { government = democracy }
+		}
+		modifier = {
+			factor = 1.5
+			owner = { government = hms_government }
+		}
+		modifier = {
+			factor = 0.8
+			owner = { vote_franschise = none_voting }
+		}
+		modifier = {
+			factor = 0.5
+			owner = { religious_policy = moralism }
+		}
+		modifier = {
+			factor = 1.5
+			owner = { religious_policy = pluralism }
+		}
+		modifier = {
+			factor = 0.8
+			owner = { citizenship_policy = residency }
+		}
+		modifier = {
+			factor = 1.2
+			owner = { citizenship_policy = full_citizenship }
+		}
+	}
+
+	option = {
+		name = "EVT99998OPTA"
+		remove_province_modifier = romani_diaspora
+		any_pop = {
+			limit = {
+				has_pop_culture = gypsy
+			}
+			random = {
+				chance = 90
+				move_pop = 651
+			}
+		}
+		ai_chance = { factor = 75 }
+	}
+	option = {
+		name = "EVT99998OPTB"
+		remove_province_modifier = romani_diaspora
+		any_pop = {
+			limit = { has_pop_culture = gypsy }
+			money = 50
+			consciousness = -3
+		}
+		owner = { treasury = -500 }
+		ai_chance = {
+			factor = 25
+			modifier = {
+				factor = 0
+				owner = { civilized = no }
+			}
+			modifier = {
+				factor = 0
+				owner = {
+					NOT = { money = 1000 }
+				}
+			}
+		}
+	}
+}
+
+province_event = {
+	id = 99999
+	title = "EVTNAME99999"
+	desc = "EVTDESC99999"
+
+	trigger = {
+		has_province_modifier = romani_diaspora
+		NOT = { is_core = RMI }
+		owner = {
+			NOT = { border_policy = closed_borders }
+			war = no
+		}
+		RMI = {
+			exists = yes
+			war = no
+			owns = 648
+		}
+		648 = { NOT = { unemployment = 0.1 } }
+	}
+
+	mean_time_to_happen = {
+		months = 200
+		modifier = {
+			factor = 2
+			owner = { government = democracy }
+		}
+		modifier = {
+			factor = 1.5
+			owner = { government = hms_government }
+		}
+		modifier = {
+			factor = 0.8
+			owner = { vote_franschise = none_voting }
+		}
+		modifier = {
+			factor = 0.5
+			owner = { religious_policy = moralism }
+		}
+		modifier = {
+			factor = 1.5
+			owner = { religious_policy = pluralism }
+		}
+		modifier = {
+			factor = 0.8
+			owner = { citizenship_policy = residency }
+		}
+		modifier = {
+			factor = 1.2
+			owner = { citizenship_policy = full_citizenship }
+		}
+	}
+
+	option = {
+		name = "EVT99999PTA"
+		remove_province_modifier = romani_diaspora
+		any_pop = {
+			limit = {
+				has_pop_culture = gypsy
+			}
+			random = {
+				chance = 90
+				move_pop = 648
+			}
+		}
+		ai_chance = { factor = 75 }
+	}
+	option = {
+		name = "EVT99999OPTB"
+		remove_province_modifier = romani_diaspora
+		any_pop = {
+			limit = { has_pop_culture = gypsy }
 			money = 50
 			consciousness = -3
 		}

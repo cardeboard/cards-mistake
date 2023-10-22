@@ -3,7 +3,7 @@ controller = RUO
 add_core = CUB
 add_core = RUO
 trade_goods = tobacco
-life_rating = 35
+life_rating = 40
 terrain = havana
 naval_base = 1
 1861.1.1 = { railroad = 2 }

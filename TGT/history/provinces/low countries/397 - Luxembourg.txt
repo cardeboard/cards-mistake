@@ -1,8 +1,8 @@
 owner = WUR
 controller = WUR
 add_core = WUR
+add_core = LOR
 trade_goods = iron
-fort = 2
 life_rating = 35
 terrain = luxemburg
 1861.1.1 = { railroad = 3 }

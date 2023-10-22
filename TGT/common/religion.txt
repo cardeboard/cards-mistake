@@ -70,6 +70,15 @@ yazidi_group = {
 	}
 }
 
+zoroastrian_group = {
+    zoroastrian = {
+        icon = 19
+        color = {
+            0.7 0.2 0.1
+        }
+    }
+}
+
 eastern = {
 	mahayana = {
 		color = { 0.8 0.3 0 }
@@ -108,5 +117,16 @@ pagan = {
 		icon = 14
 		color = { 0.5 0.0 0.0 }
 		pagan = yes
+	}
+asatru = {
+		icon = 20
+		color = { 0.1 0.0 0.3 }
+	}
+}
+	
+manichean_group = {
+	manichaeism = {
+		icon = 21
+		color = { 0.82 0.82 0.82 }
 	}
 }

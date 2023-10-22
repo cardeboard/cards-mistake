@@ -1,5 +1,6 @@
-owner = KOK
-controller = KOK
+owner = HEP
+controller = HEP
 add_core = KOK
+add_core = HEP
 trade_goods = coal
 life_rating = 30

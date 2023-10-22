@@ -1,0 +1,7 @@
+owner = HEP
+controller = HEP
+add_core = HEP
+add_core = TAJ
+terrain = desert
+trade_goods = wool
+life_rating = 15

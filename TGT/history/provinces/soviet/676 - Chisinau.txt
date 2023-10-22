@@ -1,5 +1,6 @@
-owner = BUL
-controller = BUL
-add_core = BUL
+owner = RUT
+controller = RUT
+add_core = GRT
+add_core = GOT
 trade_goods = fruit
 life_rating = 35

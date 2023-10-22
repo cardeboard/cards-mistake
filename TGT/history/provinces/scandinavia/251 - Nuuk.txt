@@ -1,7 +1,7 @@
-owner = KVE
-controller = KVE
+owner = ICL
+controller = ICL
 add_core = GRN
-add_core = KVE
+add_core = ICL
 trade_goods = fish
 life_rating = 10
 colonial = 2

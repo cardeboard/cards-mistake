@@ -1,6 +1,6 @@
-owner = HUN
-controller = HUN
-add_core = HUN
+owner = MAR
+controller = MAR
+add_core = MAR
 trade_goods = timber
 life_rating = 35
 #state_building = {

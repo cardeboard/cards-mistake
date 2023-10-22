@@ -2,4 +2,5 @@ owner = ICL
 controller = ICL
 add_core = ICL
 trade_goods = fish
-life_rating = 32
+life_rating = 35
+terrain = hills

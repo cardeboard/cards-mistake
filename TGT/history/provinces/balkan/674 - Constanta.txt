@@ -1,8 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
-add_core = WAL
-add_core = ROM
-add_core = BUL 
+owner = GRT
+controller = GRT
+add_core = GRT
+add_core = GOT
 trade_goods = grain
 life_rating = 35

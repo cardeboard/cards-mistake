@@ -326,25 +326,25 @@
 2595 = {
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
@@ -361,31 +361,31 @@
 #Vancouver (12000/3000 POPS)
 13 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 10
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 10
 	}
 	
 	officers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 10
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 50
 	}
@@ -400,25 +400,25 @@
 #Vancouver Island (8000/2000 POPS)
 14 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 10
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 10
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 10
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 50
 	}
@@ -432,25 +432,25 @@
 #Prince Rupert (8000/2000 POPS)
 15 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 10
 	}
@@ -465,25 +465,25 @@
 16 = {
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 10
 	}
@@ -497,25 +497,25 @@
 #Atlin (4000/1000 POPS)
 17 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 3
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 10
 	}
@@ -561,25 +561,25 @@
 #Prince George (8000/2000 POPS)
 19 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 15
 	}
@@ -593,25 +593,25 @@
 #Kelowna (8000/2000 POPS)
 20 = {
 	clergymen = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 15
 	}
@@ -626,25 +626,25 @@
 21 = {
 
 	clergymen = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 
 	artisans = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 
 	soldiers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 5
 	}
 	
 	farmers = {
-		culture = anglo_canadian
+		culture = alaskan
 		religion = protestant
 		size = 15
 	}
@@ -2799,94 +2799,94 @@
 #Saint John's (52000/13000 POPS)
 74 = {
 	bureaucrats = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 50
 	}
 
 	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 75
 	}
 
 	artisans = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 2000
 	}
 
 	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 50
 	}
 
 	farmers = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 2825
 	}
 
 	clergymen = {
-		culture = irish
-		religion = catholic
+		culture = cree
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = irish
-		religion = catholic
+		culture = cree
+		religion = animist
 		size = 2000
 	}
 
 	farmers = {
-		culture = irish
-		religion = catholic
+		culture = cree
+		religion = animist
 		size = 6900
 	}
 }
 #Millertown (24000/6000 POPS)
 75 = {
 	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = cree
+		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = cree
+		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = cree
+		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = cree
+		religion = animist
 		size = 4625
 	}
 
 	clergymen = {
-		culture = irish
-		religion = catholic
+		culture = cree
+		religion = animist
 		size = 100
 	}
 
 	artisans = {
-		culture = irish
-		religion = catholic
+		culture = cree
+		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = irish
-		religion = catholic
+		culture = icelandic
+		religion = asatru
 		size = 800
 	}
 }
@@ -2894,26 +2894,26 @@
 76 = {
 
 	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 5
 	}
 
 	artisans = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 5
 	}
 
 	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 5
 	}
 	
 	farmers = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 15
 	}
 
@@ -2933,26 +2933,26 @@
 2625 = {
 
 	clergymen = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 5
 	}
 
 	artisans = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 5
 	}
 
 	soldiers = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 5
 	}
 	
 	farmers = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = icelandic
+		religion = asatru
 		size = 15
 	}
 
@@ -2967,32 +2967,32 @@
 #Saint Pierre (2000/500 POPS)
 77 = {
 	clergymen = {
-		culture = french_canadian
-		religion = catholic
+		culture = icelandic
+		religion = asatru
 		size = 4
 	}
 
 	clergymen = {
-		culture = french
-		religion = catholic
+		culture = icelandic
+		religion = asatru
 		size = 1
 	}
 
 	artisans = {
-		culture = basque
-		religion = catholic
+		culture = cree
+		religion = animist
 		size = 45
 	}
 
 	labourers = {
-		culture = breton
-		religion = catholic
+		culture = icelandic
+		religion = asatru
 		size = 40
 	}
 	
 	labourers = {
-		culture = anglo_canadian
-		religion = protestant
+		culture = cree
+		religion = animist
 		size = 10
 	}
 

@@ -4,25 +4,295 @@
 252 = {
 	bureaucrats = {
 		culture = icelandic
-		religion = protestant
-		size = 25
+		religion = asatru
+		size = 250
 	}
 
 	clergymen = {
 		culture = icelandic
-		religion = protestant
+		religion = asatru
 		size = 100
 	}
 
 	artisans = {
 		culture = icelandic
-		religion = protestant
+		religion = asatru
+		size = 7500
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 14125
+	}
+}
+
+# Akureyrarkaupstaður
+3517 = {
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 50
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 250
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 3457
+	}
+}
+
+# Borgarnes 
+3518 = {
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 250
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
 		size = 750
 	}
 
 	farmers = {
 		culture = icelandic
-		religion = protestant
-		size = 13125
+		religion = asatru
+		size = 8265
+	}
+}
+
+# Hofsjökull 
+3519 = {
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 25
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 75
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 2265
+	}
+}
+
+# Blåfell 
+3520 = {
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 25
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 75
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 2265
+	}
+}
+#Viður (56000/14000 POPS)
+3521 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = asatru
+		size = 50
+	}
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 150
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 750
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 2900
+	}
+}
+#Nálinni (56000/14000 POPS)
+3522 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = asatru
+		size = 50
+	}
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 75
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 250
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 2400
+	}
+}
+#Skjólborg (56000/14000 POPS)
+3523 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = asatru
+		size = 250
+	}
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 100
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 13500
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 29125
+	}
+}
+#Vesturborg (56000/14000 POPS)
+3524 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = asatru
+		size = 50
+	}
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 75
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 250
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 11000
+	}
+}
+#Vesturborg (56000/14000 POPS)
+3525 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = asatru
+		size = 50
+	}
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 75
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 2500
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 26000
+	}
+}
+#Vesturborg (56000/14000 POPS)
+3526 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = asatru
+		size = 50
+	}
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 75
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 1750
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 17000
+	}
+}
+#Vesturborg (56000/14000 POPS)
+3527 = {
+	bureaucrats = {
+		culture = icelandic
+		religion = asatru
+		size = 50
+	}
+
+	clergymen = {
+		culture = icelandic
+		religion = asatru
+		size = 75
+	}
+
+	artisans = {
+		culture = icelandic
+		religion = asatru
+		size = 150
+	}
+
+	farmers = {
+		culture = icelandic
+		religion = asatru
+		size = 1700
 	}
 }

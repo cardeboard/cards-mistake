@@ -1,0 +1,5 @@
+owner = PLY
+controller = PLY
+add_core = PLY
+trade_goods = tropical_wood
+life_rating = 35

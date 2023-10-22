@@ -1,5 +1,7 @@
-owner = UYG
-controller = UYG
+owner = KOR
+controller = KOR
+add_core = KOR
 add_core = UYG
+add_core = KYR
 trade_goods = coal
 life_rating = 32

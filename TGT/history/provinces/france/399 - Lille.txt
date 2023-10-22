@@ -1,5 +1,5 @@
 owner = RHI
-controller = RHI
+controller = SAX
 add_core = RHI
 add_core = GER
 trade_goods = iron
