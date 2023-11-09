@@ -119,15 +119,6 @@ country_event = {
 			2658 = { secede_province = HUN }
 			}
 		CMN = { 
-			1032 = { secede_province = HUN }
-			1034 = { secede_province = HUN }
-			1038 = { secede_province = HUN }
-			1043 = { secede_province = HUN }
-			1044 = { secede_province = HUN }
-			2610 = { secede_province = HUN }
-			2690 = { secede_province = HUN }
-			}
-		HUN = {
 			1032 = { secede_province = MAR }
 			1034 = { secede_province = MAR }
 			1038 = { secede_province = MAR }

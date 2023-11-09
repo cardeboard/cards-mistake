@@ -480,7 +480,7 @@
 	}
 	
 	farmers = {
-		culture = north_italian
+		culture = romansh
 		religion = catholic
 		size = 7400
 	}
@@ -617,13 +617,13 @@
 	}
 	
 	farmers = {
-		culture = north_italian
+		culture = romansh
 		religion = protestant
 		size = 2530
 	}
 	
 	farmers = {
-		culture = north_italian
+		culture = romansh
 		religion = catholic
 		size = 4000
 	}

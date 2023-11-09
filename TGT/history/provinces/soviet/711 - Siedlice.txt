@@ -1,5 +1,5 @@
-owner = RUT
-controller = RUT
-add_core = RUT
+owner = EST
+controller = EST
+add_core = EST
 trade_goods = cattle
 life_rating = 35

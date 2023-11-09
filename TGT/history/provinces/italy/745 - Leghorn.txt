@@ -1,5 +1,5 @@
-owner = TUS
-controller = TUS
+owner = POL
+controller = POL
 add_core = TUS
 add_core = ITA
 trade_goods = fish

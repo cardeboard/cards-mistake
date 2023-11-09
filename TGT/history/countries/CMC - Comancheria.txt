@@ -1,7 +1,7 @@
 ## /history/countries/TAG - Country.txt ##
-capital = 3310
-primary_culture = comanche
-religion = catholic
+capital = 133
+primary_culture = native_american_minor
+religion = animist
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_autocracy

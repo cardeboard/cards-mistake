@@ -1,6 +1,6 @@
-owner = GAL
-controller = GAL
-add_core = ULA
+owner = ELY
+controller = ELY
+add_core = ELY
 trade_goods = cotton
 life_rating = 35
 

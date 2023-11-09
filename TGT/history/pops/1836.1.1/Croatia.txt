@@ -243,25 +243,25 @@
 	}
 
 	clergymen = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 125
 	}
 
 	serfs = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 10225
 	}
@@ -299,25 +299,25 @@
 	}
 
 	clergymen = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 600
 	}
 
 	soldiers = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 150
 	}
 
 	serfs = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 11125
 	}
@@ -361,25 +361,25 @@
 	}
 
 	clergymen = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 125
 	}
 
 	serfs = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 10225
 	}
@@ -449,25 +449,25 @@
 	}
 
 	clergymen = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 75
 	}
 
 	serfs = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 4625
 	}
@@ -889,25 +889,25 @@
 	}
 
 	clergymen = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 300
 	}
 
 	soldiers = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 75
 	}
 
 	serfs = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 6550
 	}
@@ -981,25 +981,25 @@
 	}
 
 	clergymen = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 100
 	}
 
 	soldiers = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 25
 	}
 
 	serfs = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 1825
 	}
@@ -1046,25 +1046,25 @@
 	}
 
 	clergymen = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 75  
 	}
 
 	artisans = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 350
 	}
 
 	soldiers = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = serb
+		culture = dalmatian
 		religion = orthodox
 		size = 7475 
 	}

@@ -36,13 +36,19 @@ GRT		= "countries/Greuthingi.txt"
 TVG		= "countries/Thervingi.txt"	
 GEP		= "countries/Gepids.txt"	
 CMC		= "countries/Comancheria.txt" #Comanche
+NGM		= "countries/Nga Moutere.txt" #Islander Maori
+NTC		= "countries/Nanticoke.txt" #Nanticoke
+POW		= "countries/Powhatan.txt" #Powahatan
+BNV		= "countries/Benevento.txt" #Beneviento
+ANC		= "countries/Ancona.txt" #Ancona
+MTU		= "countries/Mantua.txt" #Mantua
 
 ##HFM New Nations
 #ATB	= "countries/Saxe-Altenburg.txt"
 ADO		= "countries/Andorra.txt"
 MNC		= "countries/Monaco.txt"
 LIE		= "countries/Liechtenstein.txt"
-#MST	= "countries/Mecklenburg-Strelitz.txt"
+MST	= "countries/Mecklenburg-Strelitz.txt"
 SCL		= "countries/Schaumburg-Lippe.txt"
 REU		= "countries/Reuss.txt"
 SWG		= "countries/Schwarzburg.txt"
@@ -101,6 +107,7 @@ RRT 	="countries/Rarotonga.txt"
 RAP 	="countries/Rapa Nui.txt"
 PLY 	="countries/Polynesia.txt"
 ELY 	="countries/Elysia.txt"
+HNE 	="countries/Hunnic Empire.txt"
 
 ###Colonial Spain Countries
 CGC 	= "countries/Colonial Chile.txt"

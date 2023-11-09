@@ -3,7 +3,7 @@
 #Oradea (844000/211000 POPS) #part of Romania today
 647 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1250  
 	}
@@ -15,25 +15,25 @@
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 6500  
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1350
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 76900   
 	}
 	
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 40000   
 	}
@@ -173,25 +173,25 @@
 #Szatmare (444000/111000 POPS) #part of Romania today 
 651 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 500  
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 2500  
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 550
 	}
 
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 47450  
 	}
@@ -339,25 +339,25 @@
 #Temesvar (940000/235000 POPS) #part of Romania today
 652 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 275 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1400
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 300
 	}
 
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 26025 
 	}
@@ -563,31 +563,31 @@
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 600 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 3000
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 2600
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 52600 
 	}
 	
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 25000 
 	}
@@ -657,7 +657,7 @@
 #Cluj (156000/44000 POPS)  
 654 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 225 
 	}
@@ -669,25 +669,25 @@
 	}
 	
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1200
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 250
 	}
 
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 20325 
 	}
 	
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = catholic
 		size = 2000 
 	}
@@ -845,31 +845,31 @@
 #Gyulafehervar/Alba Iulia (316000/79000 POPS)  
 655 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 525 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 2800
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 550
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 25125 
 	}
 	
 	farmers = {
-		culture = romanian
+		culture = gepid
 		religion = catholic
 		size = 5000 
 	}
@@ -881,7 +881,7 @@
 	}
 	
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 20000 
 	}
@@ -1003,31 +1003,31 @@
 #Deva (252000/63000 POPS)  
 656 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 425 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 2500
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 31575 
 	}
 	
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 15000
 	}
@@ -1143,7 +1143,7 @@
 #Nagyszeben/Sibiu (276000/69000 POPS)  
 657 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 350 
 	}
@@ -1155,19 +1155,19 @@
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1800
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 350
 	}
 
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 31500
 	}
@@ -1295,25 +1295,25 @@
 #Brasso/Brasov (168000/42000 POPS)  
 659 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 225
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1250 
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 250
 	}
 
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 22275
 	}
@@ -1441,25 +1441,25 @@
 #Udvarhely (228000/57000 POPS)  
 660 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 75 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 400
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 75
 	}
 
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 7450
 	}
@@ -1581,31 +1581,31 @@
 #Beszterce (300000/75000 POPS)  
 661 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 500 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 2500
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 500
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 29500 
 	}
 
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 20000 
 	}
@@ -1727,25 +1727,25 @@
 #Targu Mures (344000/86000 POPS)  
 2533 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 250 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 300
 	}
 
 	serfs = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 24150 
 	}
@@ -1875,25 +1875,25 @@
 #Suceava (204000/51000 POPS)  
 663 = {
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 250 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1250
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 24250 
 	}
@@ -2005,43 +2005,43 @@
 #Bucharest (260000/65000 POPS)  
 664 = {
 	aristocrats = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 4100 
 	}
 
 	bureaucrats = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 350 
 	}
 
 	officers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 300 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 600 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 10000
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 81650
 	}
@@ -2061,31 +2061,31 @@
 #Tirgu Jiu (172000/43000 POPS)  
 665 = {
 	aristocrats = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 750 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 400 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1950
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 58500 
 	}
@@ -2105,19 +2105,19 @@
 #Craiova (196000/49000 POPS)  
 666 = {
 	aristocrats = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 900 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 450 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 2250
 	}
@@ -2129,7 +2129,7 @@
 	}	
 	
 	soldiers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 1100
 	}
@@ -2147,7 +2147,7 @@
 	}	
 	
 	farmers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 55950 
 	}
@@ -2161,31 +2161,31 @@
 #Tirgoviste (188000/47000 POPS)  
 667 = {
 	aristocrats = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 750 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 425 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 2150
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gepid
 		religion = orthodox
 		size = 52025
 	}
@@ -2205,19 +2205,19 @@
 #Braila (272000/68000 POPS)  
 668 = {
 	aristocrats = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 1200 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 625 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 3100
 	}
@@ -2241,13 +2241,13 @@
 	}	
 	
 	soldiers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 62075
 	}
@@ -2267,25 +2267,25 @@
 #Calarasi (140000/35000 POPS)  
 669 = {
 	aristocrats = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 650 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 325 
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 1600
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 1100
 	}
@@ -2297,7 +2297,7 @@
 	}	
 	
 	farmers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 50425
 	}
@@ -2313,49 +2313,49 @@
 #Iasi (468000/117000 POPS)  
 670 = {
 	aristocrats = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 2250  
 	}
 
 	bureaucrats = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 575 
 	}
 
 	officers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 350 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 1175
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 10000
 	}
 	
 	artisans = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 5000
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 3000
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 98625
 	}
@@ -2475,13 +2475,13 @@
 #Galati (272000/68000 POPS)  
 673 = {
 	aristocrats = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 1300 
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 675
 	}
@@ -2499,19 +2499,19 @@
 	}	
 	
 	artisans = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 5500
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 59525
 	}
@@ -2528,37 +2528,37 @@
 674 = {
 
 	aristocrats = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 100
 	}
 	
 	officers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 100
 	}
 	
 	soldiers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 100
 	}
 	
 	clergymen = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 550
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 18150 
 	}
@@ -2690,7 +2690,7 @@
 	}
 	
 	farmers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 2000
 	}
@@ -2699,25 +2699,25 @@
 675 = {
 
 	soldiers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 2500
 	}
 
 	farmers = {
-		culture = romanian
+		culture = gothic
 		religion = orthodox
 		size = 3600 
 	}
@@ -2759,25 +2759,25 @@
 	}
 	
 	soldiers = {
-		culture = ukrainian
+		culture = gothic
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = ukrainian
+		culture = gothic
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = gothic
 		religion = orthodox
 		size = 150
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = gothic
 		religion = orthodox
 		size = 2825
 	}

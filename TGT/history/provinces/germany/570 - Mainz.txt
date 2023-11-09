@@ -1,5 +1,5 @@
-owner = WUR
-controller = WUR
+owner = HNE
+controller = HNE
 add_core = WUR
 trade_goods = sulphur
 life_rating = 35

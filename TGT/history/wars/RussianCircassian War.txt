@@ -1,8 +1,8 @@
-name = "Saxon Civil War"
+name = "Saxon Revolution"
 
 1831.10.2 = {
-	add_attacker = RHI
-	add_defender = SAX
+	add_attacker = SAX
+	add_defender = RHI
 	
 	# actor
 	# receiver
@@ -11,19 +11,19 @@ name = "Saxon Civil War"
 	# state_province_id - target state capital
 	war_goal = {
 		casus_belli = civil_war
-		actor = RHI
-		receiver = SAX
+		actor = SAX
+		receiver = RHI
 	}
 	
 	war_goal = {
-		casus_belli = civil_war
-		actor = SAX
-		receiver = RHI
+		casus_belli = status_quo
+		actor = RHI
+		receiver = SAX
 	}
 
 }
 
 1836.6.6 = {
-	rem_attacker = RHI
 	rem_attacker = SAX
+	rem_attacker = RHI
 }

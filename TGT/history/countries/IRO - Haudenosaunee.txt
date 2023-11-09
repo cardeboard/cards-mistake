@@ -1,6 +1,7 @@
 capital = 237
-primary_culture = cajun
-religion = catholic
+primary_culture = iroquois
+culture = algonquin
+religion = animist
 government = absolute_monarchy
 plurality = 0.2
 nationalvalue = nv_equality

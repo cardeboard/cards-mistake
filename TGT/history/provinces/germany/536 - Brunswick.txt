@@ -1,6 +1,6 @@
-owner = SAX
-controller = SAX
-add_core = SAX
+owner = HYM
+controller = HYM
+add_core = HYM
 add_core = GER
 terrain = braunschweig
 trade_goods = fruit

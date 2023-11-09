@@ -1,6 +1,7 @@
-owner = DLM
-controller = DLM
-add_core = DLM
+owner = POL
+controller = POL
+add_core = BYE
+add_core = POL
 terrain = pola
 naval_base = 1
 trade_goods = grain

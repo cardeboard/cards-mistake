@@ -3,7 +3,6 @@ controller = CMC
 add_core = CMC
 trade_goods = cattle
 life_rating = 35
-terrain = austin
 
 1861.1.1 = {
 	controller = CSA

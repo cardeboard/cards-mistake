@@ -1,5 +1,5 @@
 capital = 143
-primary_culture = shawnee
+primary_culture = southern_algonquin
 religion = animist
 government = democracy
 plurality = 0.05

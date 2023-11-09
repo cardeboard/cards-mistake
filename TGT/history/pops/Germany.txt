@@ -297,14 +297,6 @@
 		size = 450
 	}
 }
-#Heligoland (1600/400 POPS)
-3276 = {
-	farmers = {
-		culture = frisian
-		religion = protestant
-		size = 750
-	}
-}
 #Mecklenburg Region (614000)
 #under the Rule of Lubeck 1836 
 #Lubeck (46503/11626 POPS)

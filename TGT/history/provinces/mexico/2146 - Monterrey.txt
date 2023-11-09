@@ -1,8 +1,8 @@
-owner = USA
+owner = POW
 
-controller = USA
+controller = POW
 
-add_core = USA
+add_core = POW
 
 trade_goods = grain
 life_rating = 35

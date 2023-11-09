@@ -519,7 +519,7 @@ restore_austrian_empire = {
 				war_policy = jingoism
 				war_policy = pro_military
 			}
-			tag = AUS
+			tag = POL
 			OR = {
 				is_greater_power = yes
 				is_secondary_power = yes
@@ -529,18 +529,13 @@ restore_austrian_empire = {
 		neighbour = THIS
 		any_owned_province = {
 			OR = {
-				is_core = VEN
-				is_core = SLO
-				is_core = SLV
-				is_core = BOH
-				is_core = HUN
-				is_core = GLM
-				region = AUS_771
-				region = AUS_780
-				region = AUS_777
-				region = AUS_654
-				region = AUS_652
-				region = AUS_657
+				is_core = GEN
+				is_core = TUS
+				is_core = POL
+				is_core = PML
+				is_core = PZN
+				is_core = BYE
+				is_core = MNC
 			}
 		}
 		OR = {
@@ -559,18 +554,13 @@ restore_austrian_empire = {
 	allowed_states = {
 		any_owned_province = {
 			OR = {
-				is_core = VEN
-				is_core = SLO
-				is_core = SLV
-				is_core = BOH
-				is_core = HUN
-				region = AUS_702
-				region = AUS_771
-				region = AUS_780
-				region = AUS_777
-				region = AUS_654
-				region = AUS_652
-				region = AUS_657
+				is_core = GEN
+				is_core = TUS
+				is_core = POL
+				is_core = PML
+				is_core = PZN
+				is_core = BYE
+				is_core = MNC
 			}
 		}
 	}
@@ -7111,4 +7101,79 @@ establish_protectorate_HUN_casus_belli = {
 		}
 	}
 	on_po_accepted = { tech_school = unciv_tech_school }
+}
+unify_gothia = {
+    sprite_index = 2
+    months = 12
+    crisis = no
+
+    badboy_factor = 0
+    prestige_factor = 0
+    peace_cost_factor = 1
+    penalty_factor = 1
+
+    break_truce_prestige_factor = 1
+    break_truce_infamy_factor = 0
+    break_truce_militancy_factor = 0
+    truce_months = 6
+
+    good_relation_prestige_factor = 1
+    good_relation_infamy_factor = 1
+    good_relation_militancy_factor = 1
+
+    always = yes
+
+    can_use = {
+        NOT = { is_our_vassal = THIS }
+        number_of_states = 1
+        neighbour = THIS
+        OR = {
+            any_owned_province = {
+                NOT = { is_core = THIS }
+                is_core = GOT
+            }
+			is_culture_group = eastern_germanic
+        }
+        THIS = {
+            OR = {
+				is_culture_group = eastern_germanic
+            }
+            NOT = {
+                has_country_modifier = neutrality
+                war_policy = pacifism
+            }
+        }
+        is_vassal = no
+        OR = {
+            war_with = THIS
+            THIS = {
+                NOT = { has_country_modifier = no_more_war }
+            }
+        }
+    }
+
+    allowed_states = {
+        OR = {
+            any_owned_province = {
+                NOT = { is_core = THIS }
+                is_core = GOT
+            }
+            any_owned_province = {
+                owner = { is_culture_group = eastern_germanic }
+                NOT = { is_core = GOT }
+            }
+        }
+    }
+
+    po_demand_state = yes
+
+    war_name = WAR_GOTHIC_UNIFICATION
+
+    on_add = {
+        move_issue_percentage = {
+            from = jingoism
+            to = pro_military
+            value = 0.10
+        }
+    }
 }

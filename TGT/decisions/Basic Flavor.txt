@@ -68,4 +68,83 @@ political_decisions = {
 		prestige = 35
 		}
 	}
+	
+	take_chenachene = {
+		picture = romanians_marching
+		alert = yes
+		potential = {
+			owns = 1729
+			owns = 1732
+			NOT = { has_country_flag = the_grabber }
+		}
+		
+		allow = {
+			war = no
+		}
+		
+		effect = {
+		set_country_flag = the_grabber
+		1717 = { secede_province = THIS }
+		1744 = { secede_province = THIS }
+		}
+	}
+	
+	Resolve_Clergy_Problem_POL = { 
+		potential = { 
+		   tag = POL
+		   any_owned_province = { has_province_modifier = Strong_Clergy }
+		}
+		
+		allow = { 
+		   state_n_government = 1
+		   OR = { 
+			   BNV = { exists = yes in_sphere = THIS } 
+			   749 = { owner = { NOT = { tag = BNV } relation = { who = THIS value = 150 } } }
+			   749 = { owner = { tag = POL } }
+		   }
+		}
+		
+		effect = { 
+		   any_owned = { limit = { has_province_modifier = Strong_Clergy } remove_province_modifier = Strong_Clergy } 
+		}	
+	}
+	
+	Break_The_Marches_POL = {
+		potential = { 
+		   tag = POL
+		   any_owned_province = { has_province_modifier = Polish_Marches }
+		}
+		
+		allow = { 
+		   impressionism = 1 
+		   army_decision_making = 1  
+		   money = 2000000
+		}
+		
+		effect = { 
+		   money = -2000000
+		   any_owned = { limit = { has_province_modifier = Polish_Marches } remove_province_modifier = Polish_Marches } 
+		}	
+	
+	}
+	
+	Mop_Up_Old_Autonomies_POL = { 
+		potential = { 
+		tag = POL
+		any_owned_province = { has_province_modifier = Old_Liberties }
+		}
+		
+		allow = { 
+		plurality = 50 
+		OR = { 
+			AND = { government = prussian_constitutionalism ruling_party_ideology = liberal }
+			government = hms_government 
+			}
+		}
+		
+		effect = { 
+		any_owned = { limit = { has_province_modifier = Old_Liberties } remove_province_modifier = Old_Liberties } 
+		}	
+	
+	}
 }

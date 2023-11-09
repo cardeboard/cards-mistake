@@ -216,3 +216,71 @@ country_event = {
 		}
 	}
 }
+
+country_event = {
+    id = 60170 # Poland Intro
+    title = "EVTNAME601700" #Poland, a feudal state in modern times.
+    desc = "EVTDESC601700" #POLAND IS VERY DECENTRALIZED
+    picture = "poland_start"
+    
+    trigger = {
+        tag = POL
+		exists = yes
+        NOT = { has_country_flag = poland_lore }
+    }
+    
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "What about Italy?"
+        set_country_flag = poland_lore
+		POL = { country_event = 60180 days = 25 }
+	}
+    
+    option = {
+        name = "I love Poland.."
+        set_country_flag = poland_lore
+	}
+}
+
+country_event = {
+    id = 60180 #The rest of Italy
+    title = "EVTNAME60180" #Italia, A home of Wends and Romans.
+    desc = "EVTDESC60180" #BENEVENTO'S BIG PLAN, AND HOW IT FAILED.
+    picture = "highlight_italy"
+    
+	is_triggered_only = yes
+    
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "What about Lendia?"
+		POL = { country_event = 60190 days = 25 }
+	}
+    
+    option = {
+        name = "Ok, that's all I wanted to know."
+        set_country_flag = poland_italy_lore
+	}
+}
+
+country_event = {
+    id = 60190 #The March of Lendia
+    title = "EVTNAME60190"
+    desc = "EVTDESC60190"
+    picture = "highlight_lendia"
+    
+	is_triggered_only = yes
+    
+    mean_time_to_happen = {
+        days = 1
+    }
+    
+    option = {
+        name = "Thanks for the lore, you who misshaped the earth."
+	}
+}

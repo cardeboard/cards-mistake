@@ -161,9 +161,11 @@ From;To;Type;Through;Data;Comment
 #
 # Oceanian Straits
 #
-2512;2516;sea;2876;0;Cook Strait #NZ
-2512;2516;sea;2881;0;Cook Strait #NZ
+3574;3578;land;2876;0;Cook Strait #NZ
+3574;3575;land;2876;0;Cook Strait #NZ
+3577;3578;land;2878;0;Cook Strait #NZ
 2537;1531;sea;2858;0;Villan Strait #New Britain-New Ireland
+3329;3472;land;3184;0;Polynesia Strait
 
 #
 # Impassables

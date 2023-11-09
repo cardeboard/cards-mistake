@@ -1,0 +1,5 @@
+owner = NGM
+controller = NGM
+add_core = NGM
+trade_goods = cattle
+life_rating = 35

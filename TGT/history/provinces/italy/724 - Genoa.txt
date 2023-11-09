@@ -1,7 +1,6 @@
 owner = POL
 controller = POL
 add_core = GEN
-add_core = ITA
 trade_goods = fruit
 life_rating = 40
 terrain = genoa

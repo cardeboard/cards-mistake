@@ -1,4 +1,8 @@
 pan_french_nationalism;Pan-French Nationalism;;;;;;;;;x;;;;
+Lendian_March;The Lendian March;;;;;;;;;x;;;;
+Strong_Clergy;Rule of the Clergy;;;;;;;;;x;;;;
+Polish_Marches;The Italian Marches;;;;;;;;;x;;;;
+Old_Liberties;Old Freedoms for Landowners;;;;;;;;;x;;;;
 gal_hungry_title;Restité d'Rihna ut Galéa!;;;;;;;;;;;;;
 gal_hungry_desc;The kingdom of Gallia has been on a downward spiral for the last century, but no longer! The old city of Suéson has been liberated, and Dihón firmly rests in Gallic hands. It is time to push the Hun out of Gallia, once and for all.;;;;;;;;;;;;;
 vassal_interactions_title;Open Vassal Interactions Menu;;;;;;;;;;;;;
@@ -50,6 +54,7 @@ ruokoan;Ruokoolaiset;;;;;;;;;;;;;x
 finnish;Suomalaiset;;;;;;;;;;;;;x
 basque;Euskaldunak;;;;;;;;;;;;;x
 taino;Tääino;;;;;;;;;;;;;x
+polish;Polszczyzna;;;;;;;;;;;;;x
 anatolian;Anatoliu;;;;;;;;;;;;;x
 scythian;Allon;;;;;;;;;;;;;x
 hungarian;Ungri;;;;;;;;;;;;;x
@@ -88,6 +93,8 @@ FIN;Suomi;;;;;;;;;;;;
 FIN_ADJ;Suomen;;;;;;;;;;;;
 LAT;Latgola;;;;;;;;;;;;
 LAT_ADJ;Latgališu;;;;;;;;;;;;
+BNV;Beneviénte;;;;;;;;;;;;
+BNV_ADJ;Beneventano;;;;;;;;;;;;
 LIT;Lietuva;;;;;;;;;;;;
 LIT_ADJ;Lietuviai;;;;;;;;;;;;
 GAL;Galea;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -143,8 +150,8 @@ AYI;Ayiti;;;;;;;;;;;;;x
 AYI_ADJ;Ayitian;;;;;;;;;;;;;x
 JAM;Xaymaca;;;;;;;;;;;;;x
 JAM_ADJ;Xaymacan;;;;;;;;;;;;;x
-POL;Polska;;;;;;;;;;;;;x
-POL_ADJ;Polacy;;;;;;;;;;;;;x
+POL;Polszcza;;;;;;;;;;;;
+POL_ADJ;Polszczyzna;;;;;;;;;;;;
 DOM;Cibaoxa;;;;;;;;;;;;;x
 DOM_ADJ;Cibaoxan;;;;;;;;;;;;;x
 IKO;Ikonion;;;;;;;;;;;;;;;;;;;;;;;;x
@@ -191,7 +198,7 @@ GEO_ADJ;Kartvelebi;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CMN;Quman Qanlïq;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 CMN_ADJ;Quman;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 KRA;Wisla;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
-KRA_ADJ;Wislanczyk;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+KRA_ADJ;Wislanie;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
 ELY;Elysea;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ELY_absolute_monarchy;Rihnas ut Elysea;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 ELY_prussian_constitutionalism;Rihnas ut Elysea;;;;;;;;;;;;;;;;;;;;;;;x;;;;
@@ -243,12 +250,21 @@ VND;Wandali;;;;;;;;;;;x
 VND_ADJ;Wandilaz;;;;;;;;;;;x
 GEP;Gebidaz;;;;;;;;;;;x
 GEP_ADJ;Gebid;;;;;;;;;;;x
+LOM;Pavia;;;;;;;;;;;;;x
+LOM_ADJ;Pavian;;;;;;;;;;;;;x
+MTU;Mantua;;;;;;;;;;;;;x
+MTU_ADJ;Mantuan;;;;;;;;;;;;;x
+BYE;Ledzianie;;;;;;;;;;;;;x
+BYE_ADJ;Ledzianie;;;;;;;;;;;;;x
 ;;;;;;;;;;;;STATES;x
 ENG_74;Vínland;;;;;;;;;;;;;;x
 FRA_412;Elsass;;;;;;;;;;;;;;x
 FRA_425;Luteçia;;;;;;;;;;;;;;x
+RUS_706;Galindija;;;;;;;;;;;;;;x
 SAR_724;Ligurja;;;;;;;;;;;;;;x
+SAR_720;Podnóza Góra;;;;;;;;;;;;;;x
 AUS_726;Wielka Polszcza;;;;;;;;;;;;;;x
+AUS_727;Mazowsze;;;;;;;;;;;;;;x
 AUS_729;Malo Polszcza;;;;;;;;;;;;;;x
 PRU_575;Maasland;;;;;;;;;;;;;;x
 RUS_1196;Šahrestan;;;;;;;;;;;;;;x
@@ -374,6 +390,24 @@ PROV3530;Gulf of Cäre;;;;;;;;;;x;;;;
 PROV3531;Gulf of Ãdil;;;;;;;;;;x;;;;
 PROV3539;Poultu Gallés;;;;;;;;;;x;;;;
 PROV3546;Poultu Iusten;;;;;;;;;;x;;;;
+PROV3638;Rymin;;;;;;;;;;x;;;;
+PROV3639;Beneviénte;;;;;;;;;;x;;;;
+PROV3640;Szpecja;;;;;;;;;;x;;;;
+PROV3641;Tarkwinia;;;;;;;;;;x;;;;
+PROV3642;Piombica;;;;;;;;;;x;;;;
+PROV3643;Orliczko;;;;;;;;;;x;;;;
+PROV3644;Pisow;;;;;;;;;;x;;;;
+PROV3645;Arynow;;;;;;;;;;x;;;;
+PROV3646;Terenin;;;;;;;;;;x;;;;
+PROV3647;Pistorija;;;;;;;;;;x;;;;
+PROV3648;Czmacz;;;;;;;;;;x;;;;
+PROV3649;Iwra;;;;;;;;;;x;;;;
+PROV3650;Màntua;;;;;;;;;;x;;;;
+PROV3651;Na Pol;;;;;;;;;;x;;;;
+PROV3652;Saloa;;;;;;;;;;x;;;;
+PROV3653;Cremun;;;;;;;;;;x;;;;
+PROV3656;Pavìa;;;;;;;;;;x;;;;
+PROV3666;Amálfi;;;;;;;;;;x;;;;
 ;;;;;;;;;;;;EXISTING PROVINCES;x
 PROV55;Biidingen;;;;;;;;;;x;;;;
 PROV74;Hólmborg;;;;;;;;;;x;;;;
@@ -453,10 +487,17 @@ PROV462;Rodes;;;;;;;;;;;;;
 PROV463;Carcassona;;;;;;;;;;;;;
 PROV464;Kanaleko Uharteak;;;;;;;;;;;;;
 PROV473;Aiacciu;;;;;;;;;;;;;
+PROV487;Madrèt;;;;;;;;;;;;;
 PROV489;Tolèda;;;;;;;;;;;;;
 PROV506;Cartagènha;;;;;;;;;;;;
+PROV509;Spalès;;;;;;;;;;;;
+PROV510;Còrdoa;;;;;;;;;;;;
+PROV511;Onhòa;;;;;;;;;;;;
+PROV517;Mons Calpe;;;;;;;;;;;;
 PROV535;Marklo;;;;;;;;;;;;
 PROV546;Šcecinas;;;;;;;;;;;;
+PROV645;Taliatis;;;;;;;;;;;;;
+PROV649;Bersowes;;;;;;;;;;;;;
 PROV679;Kolobžegas;;;;;;;;;;;;;
 PROV680;Košalinas;;;;;;;;;;;;;
 PROV690;Motlavas;;;;;;;;;;;;;
@@ -468,7 +509,10 @@ PROV696;Alkyla;;;;;;;;;;;;
 PROV697;Korvetsen;;;;;;;;;;;;
 PROV698;Klaaipeda;;;;;;;;;;;;
 PROV700;Bydgošcius;;;;;;;;;;;;
+PROV706;Cerskas;;;;;;;;;;;;
 PROV707;Rebaladel;;;;;;;;;;;;
+PROV708;Plockas;;;;;;;;;;;;
+PROV710;Livas;;;;;;;;;;;;
 PROV720;Turyn;;;;;;;;;;;;
 PROV722;Nowarow;;;;;;;;;;;;
 PROV723;Walenica;;;;;;;;;;;;
@@ -489,9 +533,24 @@ PROV740;Masow;;;;;;;;;;;;
 PROV741;Bolona;;;;;;;;;;;;
 PROV742;Frara;;;;;;;;;;;;
 PROV743;Rawina;;;;;;;;;;;;
+PROV755;Sapri;;;;;;;;;;;;
+PROV758;Otranto;;;;;;;;;;;;
+PROV760;Scalea;;;;;;;;;;;;
 PROV765;Casteddu;;;;;;;;;;;;
 PROV766;Tàtari;;;;;;;;;;;;
 PROV770;Puola;;;;;;;;;;;;
+PROV775;Idumins;;;;;;;;;;;;
+PROV786;Sirme;;;;;;;;;;;;
+PROV792;Ledárotan;;;;;;;;;;;;
+PROV793;Saþalda;;;;;;;;;;;;
+PROV794;Singidún;;;;;;;;;;;;
+PROV795;Bûnon;;;;;;;;;;;;
+PROV796;Wiminikán;;;;;;;;;;;;
+PROV797;Kapedún;;;;;;;;;;;;
+PROV798;Naisá;;;;;;;;;;;;
+PROV802;Skupis;;;;;;;;;;;;
+PROV803;Pitrizins;;;;;;;;;;;;
+PROV804;Arsaþs;;;;;;;;;;;;
 PROV843;Ciosará;;;;;;;;;;;;
 PROV846;Rodosiañu;;;;;;;;;;;;
 PROV860;Bisantara;;;;;;;;;;;;
@@ -566,6 +625,7 @@ PROV2211;Kamakui;;;;;;;;;;x;;;;
 PROV2214;Higuo;;;;;;;;;;x;;;;
 PROV2215;Guarico;;;;;;;;;;x;;;;
 PROV2217;Xaymaca;;;;;;;;;;x;;;;
+PROV2577;Welanes;;;;;;;;;;x;;;;
 PROV2587;Guoladat;;;;;;;;;;x;;;;
 PROV2606;Balqas;;;;;;;;;;x;;;;
 PROV2610;Rinçölü;;;;;;;;;;x;;;;

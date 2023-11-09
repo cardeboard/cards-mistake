@@ -39,7 +39,7 @@ colonial_policy = settlement
 
 set_country_flag = catholic_country
 
-ruling_party = VND_conservative_2
+ruling_party = VND_conservative
 upper_house = {
 	fascist = 0
 	liberal = 0

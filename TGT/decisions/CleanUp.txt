@@ -101,6 +101,45 @@ political_decisions = {
 			enable_canal = 4
 			enable_canal = 5
 			enable_canal = 8
+			#AMERICA PROVINCES
+            64 = { add_province_modifier = { name = small_immigration_boom duration = 10950 } }
+            65 = { add_province_modifier = { name = small_immigration_boom duration = 10950 } }
+            146 = { add_province_modifier = { name = small_immigration_boom duration = 10950 } }
+            139 = { add_province_modifier = { name = small_immigration_boom duration = 10950 } }
+			#LENDIAN MARCH
+            594 = { add_province_modifier = { name = Lendian_March duration = -1 } }
+            729 = { add_province_modifier = { name = Lendian_March duration = -1 } }
+            736 = { add_province_modifier = { name = Lendian_March duration = -1 } }
+            737 = { add_province_modifier = { name = Lendian_March duration = -1 } }
+            743 = { add_province_modifier = { name = Lendian_March duration = -1 } }
+            768 = { add_province_modifier = { name = Lendian_March duration = -1 } }
+            769 = { add_province_modifier = { name = Lendian_March duration = -1 } }
+            770 = { add_province_modifier = { name = Lendian_March duration = -1 } }
+            778 = { add_province_modifier = { name = Lendian_March duration = -1 } }
+			#POLISH MARCHES
+            750 = { add_province_modifier = { name = Polish_Marches duration = -1 } }
+            3641 = { add_province_modifier = { name = Polish_Marches duration = -1 } }
+            3638 = { add_province_modifier = { name = Polish_Marches duration = -1 } }
+            3645 = { add_province_modifier = { name = Polish_Marches duration = -1 } }
+            3646 = { add_province_modifier = { name = Polish_Marches duration = -1 } }
+			#POLISH VASSALS 
+			611 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+            734 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+            735 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+            2669 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+            3262 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+            3650 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+            3652 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+            3653 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+            3656 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+			744 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+			747 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+			3667 = { add_province_modifier = { name = Old_Liberties duration = -1 } }
+			#POLISH CLERGY
+            2568 = { add_province_modifier = { name = Strong_Clergy duration = -1 } }
+            3404 = { add_province_modifier = { name = Strong_Clergy duration = -1 } }
+            3649 = { add_province_modifier = { name = Strong_Clergy duration = -1 } }
+            3660 = { add_province_modifier = { name = Strong_Clergy duration = -1 } }
 		}
 		
 		ai_will_do = { factor = 100 }

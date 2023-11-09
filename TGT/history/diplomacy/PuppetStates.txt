@@ -29,8 +29,20 @@ vassal = {
 	end_date = 1839.1.1
 }
 vassal = {
-	first = POL
-	second = TUS
+	first = FCA
+	second = NEN
+	start_date = 1658.1.1
+	end_date = 1891.1.1
+}
+vassal = {
+	first = FCA
+	second = ACA
+	start_date = 1658.1.1
+	end_date = 1891.1.1
+}
+vassal = {
+	first = HEP
+	second = KAN
 	start_date = 1658.1.1
 	end_date = 1891.1.1
 }

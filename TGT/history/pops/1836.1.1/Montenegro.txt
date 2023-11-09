@@ -3,31 +3,31 @@
 #Ulcinj (36000/9000 POPS) 
 800 = {
 	clergymen = {
-		culture = montenegrin
+		culture = albanian
 		religion = orthodox
 		size = 50
 	}
 	
 	bureaucrats = {
-		culture = montenegrin
+		culture = albanian
 		religion = orthodox
 		size = 20
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = albanian
 		religion = orthodox
 		size = 400
 	}
 
 	farmers = {
-		culture = montenegrin
+		culture = albanian
 		religion = orthodox
 		size = 16550
 	}
 	
 	farmers = {
-		culture = serb
+		culture = vandalic
 		religion = orthodox
 		size = 6000
 	}
@@ -59,67 +59,67 @@
 #Niksic (52000/13000 POPS) 
 2569 = {
 	clergymen = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 500
 	}
 	
 	farmers = {
-		culture = serb
+		culture = vandalic
 		religion = orthodox
 		size = 1000
 	}
 	
 	farmers = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 1000
 	}
 
 	serfs = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 9400
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = albanian
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bosniak
+		culture = albanian
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = bosniak
+		culture = albanian
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-		culture = bosniak
+		culture = albanian
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = albanian
 		religion = sunni
 		size = 5825
 	}
@@ -128,49 +128,49 @@
 #Cetinje (104000/26000 POPS) 
 2583 = {
 	aristocrats = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 100
 	}
 	
 	bureaucrats = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 100
 	}
 
 	officers = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 25
 	}
 
 	clergymen = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 275
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 1300
 	}
 
 	soldiers = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 22375
 	}
 	
 	farmers = {
-		culture = serb
+		culture = vandalic
 		religion = orthodox
 		size = 1000
 	}
@@ -187,67 +187,67 @@
 2577 = {
 
 	soldiers = {
-		culture = serb
+		culture = vandalic
 		religion = orthodox
 		size = 520
 	}
 
 	clergymen = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 250
 	}
 	
 	farmers = {
-		culture = serb
+		culture = vandalic
 		religion = orthodox
 		size = 3170
 	}
 
 	serfs = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 5175
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = vandalic
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bosniak
+		culture = vandalic
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = bosniak
+		culture = vandalic
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = bosniak
+		culture = vandalic
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = vandalic
 		religion = sunni
 		size = 3000
 	}
 	
 	farmers = {
-		culture = serb
+		culture = vandalic
 		religion = orthodox
 		size = 650
 	}
@@ -263,37 +263,37 @@
 #Kotor (64000/16000 POPS) 
 2582 = {
 	aristocrats = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 50
 	}
 	
 	officers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 10
 	}
 
 	clergymen = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = croat
+		culture = dalmatian
 		religion = catholic
 		size = 4000
 	}
@@ -305,43 +305,43 @@
 	}
 	
 	aristocrats = {
-		culture = serb
+		culture = vandalic
 		religion = orthodox
 		size = 200
 	}
 	
 	officers = {
-		culture = serb
+		culture = vandalic
 		religion = orthodox
 		size = 10
 	}
 
 	clergymen = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 550
 	}
 
 	soldiers = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 125
 	}
 
 	farmers = {
-		culture = montenegrin
+		culture = dalmatian
 		religion = orthodox
 		size = 10225
 	}
 	
 	farmers = {
-		culture = serb
+		culture = vandalic
 		religion = catholic
 		size = 350
 	}

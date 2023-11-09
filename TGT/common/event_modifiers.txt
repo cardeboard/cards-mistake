@@ -3279,3 +3279,31 @@ foreign_weapons_imported = {
 	icon = 9
 }
 
+#province modifier
+
+Polish_Marches = { 
+	local_ruling_party_support = -0.25
+	pop_consciousness_modifier = 0.5
+	pop_militancy_modifier = 0.01
+}
+
+Lendian_March = { 
+	local_ruling_party_support = -0.30
+	pop_consciousness_modifier = 0.25
+	pop_militancy_modifier = 0.05
+}
+
+Strong_Clergy = { 
+	immigrant_push = 0.5 
+	local_ruling_party_support = -0.5
+	pop_consciousness_modifier = 0.5
+	pop_militancy_modifier = 0.02
+	icon = 20 
+}
+
+Old_Liberties = { 
+	local_ruling_party_support = -0.5
+	pop_consciousness_modifier = 0.5
+	pop_militancy_modifier = 0.02
+	icon = 4 
+}

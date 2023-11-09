@@ -1,6 +1,7 @@
-owner = DLM
-controller = DLM
-add_core = DLM
+owner = POL
+controller = POL
+add_core = BYE
+add_core = POL
 trade_goods = cotton
 life_rating = 35
 terrain = ljubljana

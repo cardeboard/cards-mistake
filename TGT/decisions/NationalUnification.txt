@@ -1142,7 +1142,9 @@ political_decisions = {
 			SLV = { all_core = { add_core = WSF } }
 			any_country = {
 				limit = {
-					is_culture_group = east_slavic
+					NOT = { tag = POL }
+					NOT = { tag = PZN }
+					is_culture_group = polish_culture_group
 				}
 				annex_to = THIS
 			}
